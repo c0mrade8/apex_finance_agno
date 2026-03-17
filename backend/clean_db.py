@@ -1,5 +1,5 @@
 
-from backend.database.connection import SessionLocal
+from database.connection import SessionLocal
 from models.trial_balance import TrialBalance
 from models.budget import Budget
 from models.intercompany import IntercompanyTransaction

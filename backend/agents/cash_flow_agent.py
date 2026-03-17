@@ -5,6 +5,7 @@ from models.trial_balance import TrialBalance
 from models.alert import Alert
 from models.bank_statements import BankStatements
 from models.agent_log import AgentLog
+from sqlalchemy import cast, Integer
 
 
 class CashFlowAgent:
@@ -22,7 +23,7 @@ class CashFlowAgent:
             cash_entries = self.db.query(TrialBalance).filter(
                 TrialBalance.company_id == company_id,
                 TrialBalance.period == period,
-                TrialBalance.account_code.between(1000, 1100)
+                cast(TrialBalance.account_code, Integer).between(1000, 1100)
             ).all()
 
             gl_balance = sum(e.debit - e.credit for e in cash_entries)
@@ -89,7 +90,7 @@ class CashFlowAgent:
         except Exception as e:
             self.db.rollback()
             set_agent_status("CashFlowAgent", company_id, "FAILED")
-            print(f"❌ CashFlow Error: {e}")
+            print(f"CashFlow Error: {e}")
 
     def create_alert(self, company_id, message, severity):
 

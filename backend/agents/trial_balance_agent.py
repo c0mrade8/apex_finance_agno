@@ -98,6 +98,7 @@ class TBValidatorAgent:
 
         self.db.add(AgentLog(
             id=str(uuid.uuid4()),
+            company_id=company_id,
             agent_name=agent_name,
             message=message,
             timestamp=str(datetime.datetime.now())

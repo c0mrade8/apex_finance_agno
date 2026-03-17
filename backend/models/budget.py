@@ -8,5 +8,6 @@ class Budget(Base):
     company_id = Column(String)
     year = Column(Integer)
     month = Column(Integer)
+    account_name = Column(String)
     account_code = Column(String)
     budget_amount = Column(Float)

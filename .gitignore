@@ -3,3 +3,9 @@ __pycache__/
 .env
 *.pyc
 .db
+*.py[cod]
+*$py.class
+
+# OS
+.DS_Store
+Thumbs.db

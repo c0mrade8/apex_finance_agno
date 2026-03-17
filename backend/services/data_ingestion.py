@@ -169,6 +169,7 @@ def load_intercompany_transactions():
                     continue
 
                 record = IntercompanyTransaction(
+                    id=str(uuid.uuid4()),
                     transaction_id=row["transaction_id"],
                     selling_entity_id=row["selling_entity_id"],
                     buying_entity_id=row["buying_entity_id"],

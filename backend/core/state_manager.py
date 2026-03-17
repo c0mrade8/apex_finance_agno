@@ -1,6 +1,6 @@
 # core/state_manager.py
 
-from redis_client import redis_client
+from core.redis_client import redis_client
 from models.workflow_state import WorkflowState
 from database.connection import SessionLocal
 import datetime
