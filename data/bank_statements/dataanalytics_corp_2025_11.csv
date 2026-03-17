@@ -1,0 +1,19 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2025-11-01,Beginning Balance,,,5646603.598413954,dataanalytics_corp,DataAnalytics Corp,2025-11
+2025-11-03,Customer Payment - Dickson-Brady,,336339.86699266545,5982943.465406619,dataanalytics_corp,DataAnalytics Corp,2025-11
+2025-11-04,Vendor Payment - Hancock and Sons,124801.7772176418,,5858141.688188978,dataanalytics_corp,DataAnalytics Corp,2025-11
+2025-11-06,Customer Payment - Johnson-Doyle,,110404.99876772401,5968546.686956702,dataanalytics_corp,DataAnalytics Corp,2025-11
+2025-11-08,Vendor Payment - Patton-Jenkins,128707.04423630204,,5839839.642720399,dataanalytics_corp,DataAnalytics Corp,2025-11
+2025-11-13,"Customer Payment - Shields, Cochran and Adams",,315511.6872239883,6155351.329944388,dataanalytics_corp,DataAnalytics Corp,2025-11
+2025-11-16,"Customer Payment - Rodriguez, Brennan and Garrison",,421653.3211814432,6577004.6511258315,dataanalytics_corp,DataAnalytics Corp,2025-11
+2025-11-16,Payroll,364583.3333333333,,6212421.3177924985,dataanalytics_corp,DataAnalytics Corp,2025-11
+2025-11-16,Vendor Payment - Gonzalez Group,128217.73127826322,,6084203.5865142355,dataanalytics_corp,DataAnalytics Corp,2025-11
+2025-11-17,Vendor Payment - Torres-Pope,171441.60412894952,,5912761.982385286,dataanalytics_corp,DataAnalytics Corp,2025-11
+2025-11-20,Vendor Payment - Walker Ltd,120124.8146876801,,5792637.167697606,dataanalytics_corp,DataAnalytics Corp,2025-11
+2025-11-21,Customer Payment - Ross LLC,,148051.8788851275,5940689.046582733,dataanalytics_corp,DataAnalytics Corp,2025-11
+2025-11-24,Customer Payment - Rasmussen LLC,,480437.0373097697,6421126.083892503,dataanalytics_corp,DataAnalytics Corp,2025-11
+2025-11-24,Vendor Payment - May-Ross,112284.7137739841,,6308841.370118518,dataanalytics_corp,DataAnalytics Corp,2025-11
+2025-11-27,"Customer Payment - Rivera, Johnson and Wiley",,274813.9939048515,6583655.36402337,dataanalytics_corp,DataAnalytics Corp,2025-11
+2025-11-28,Vendor Payment - White-Estes,69511.21919977124,,6514144.144823599,dataanalytics_corp,DataAnalytics Corp,2025-11
+2025-11-29,Customer Payment - Johnson-Carlson,,106617.86056167667,6620762.005385275,dataanalytics_corp,DataAnalytics Corp,2025-11
+2025-11-30,Vendor Payment - Chandler-Edwards,124726.44072335484,,6496035.56466192,dataanalytics_corp,DataAnalytics Corp,2025-11

@@ -1,0 +1,18 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2026-01-01,Beginning Balance,,,25175007.44563786,precisionmfg_inc,PrecisionMfg Inc,2026-01
+2026-01-02,Vendor Payment - Brennan-Johnson,178055.18302038018,,24996952.26261748,precisionmfg_inc,PrecisionMfg Inc,2026-01
+2026-01-04,Vendor Payment - Young Ltd,98968.66366907065,,24897983.598948408,precisionmfg_inc,PrecisionMfg Inc,2026-01
+2026-01-05,Customer Payment - Bright-Francis,,68644.06075779648,24966627.659706205,precisionmfg_inc,PrecisionMfg Inc,2026-01
+2026-01-06,Customer Payment - Good-Hodges,,335083.0806292211,25301710.740335427,precisionmfg_inc,PrecisionMfg Inc,2026-01
+2026-01-07,"Customer Payment - Brennan, Wallace and Benson",,61075.85252154182,25362786.59285697,precisionmfg_inc,PrecisionMfg Inc,2026-01
+2026-01-08,Customer Payment - Williams Inc,,204760.89013270492,25567547.482989676,precisionmfg_inc,PrecisionMfg Inc,2026-01
+2026-01-10,Vendor Payment - Howard-Jordan,146835.51752064246,,25420711.965469033,precisionmfg_inc,PrecisionMfg Inc,2026-01
+2026-01-11,Customer Payment - Schmidt PLC,,146573.68627926573,25567285.6517483,precisionmfg_inc,PrecisionMfg Inc,2026-01
+2026-01-12,"Vendor Payment - Sparks, Jackson and Miller",21404.294213675603,,25545881.357534625,precisionmfg_inc,PrecisionMfg Inc,2026-01
+2026-01-16,Payroll,1750000.0,,23795881.357534625,precisionmfg_inc,PrecisionMfg Inc,2026-01
+2026-01-17,Customer Payment - Harvey-Allen,,238402.86767218204,24034284.225206807,precisionmfg_inc,PrecisionMfg Inc,2026-01
+2026-01-17,"Vendor Payment - Thomas, Murray and King",74459.13166954758,,23959825.09353726,precisionmfg_inc,PrecisionMfg Inc,2026-01
+2026-01-18,Vendor Payment - Estrada-Nolan,163173.56921402685,,23796651.524323232,precisionmfg_inc,PrecisionMfg Inc,2026-01
+2026-01-19,Customer Payment - Santana-Byrd,,266447.13773942855,24063098.66206266,precisionmfg_inc,PrecisionMfg Inc,2026-01
+2026-01-23,Vendor Payment - Jones LLC,177269.2378096688,,23885829.42425299,precisionmfg_inc,PrecisionMfg Inc,2026-01
+2026-01-29,"Vendor Payment - Evans, Hayden and Vaughn",98696.47343739071,,23787132.9508156,precisionmfg_inc,PrecisionMfg Inc,2026-01

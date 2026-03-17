@@ -1,0 +1,19 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2025-11-01,Beginning Balance,,,11759229.293302821,logisticspro,LogisticsPro,2025-11
+2025-11-03,Vendor Payment - Jones Inc,22340.962475616434,,11736888.330827205,logisticspro,LogisticsPro,2025-11
+2025-11-04,"Vendor Payment - Hensley, Powell and David",65947.86816222717,,11670940.462664977,logisticspro,LogisticsPro,2025-11
+2025-11-06,"Customer Payment - Sanchez, Wheeler and Harvey",,260254.57203940165,11931195.034704378,logisticspro,LogisticsPro,2025-11
+2025-11-09,Customer Payment - Sandoval-Cunningham,,226528.45594881196,12157723.49065319,logisticspro,LogisticsPro,2025-11
+2025-11-10,Customer Payment - Donovan-Harris,,315396.97054448567,12473120.461197676,logisticspro,LogisticsPro,2025-11
+2025-11-10,"Vendor Payment - Edwards, Baker and Anderson",29513.321358660505,,12443607.139839016,logisticspro,LogisticsPro,2025-11
+2025-11-12,"Customer Payment - Evans, Stewart and Walton",,462999.3135678118,12906606.453406828,logisticspro,LogisticsPro,2025-11
+2025-11-12,Vendor Payment - Smith PLC,32795.308550267,,12873811.144856561,logisticspro,LogisticsPro,2025-11
+2025-11-13,"Customer Payment - Ferrell, Jones and Lewis",,126307.60543932888,13000118.75029589,logisticspro,LogisticsPro,2025-11
+2025-11-13,Vendor Payment - Anderson-Bailey,161589.45460795442,,12838529.295687936,logisticspro,LogisticsPro,2025-11
+2025-11-16,Customer Payment - Suarez LLC,,173319.3013669683,13011848.597054904,logisticspro,LogisticsPro,2025-11
+2025-11-16,Payroll,1166666.6666666667,,11845181.930388238,logisticspro,LogisticsPro,2025-11
+2025-11-16,Vendor Payment - Moore-Bass,104760.84311702792,,11740421.08727121,logisticspro,LogisticsPro,2025-11
+2025-11-19,"Vendor Payment - Turner, Riggs and Roman",32020.94665612322,,11708400.140615087,logisticspro,LogisticsPro,2025-11
+2025-11-20,"Vendor Payment - Smith, Montoya and Evans",26137.40713658752,,11682262.7334785,logisticspro,LogisticsPro,2025-11
+2025-11-24,"Customer Payment - Garcia, Humphrey and Baker",,278992.7331603243,11961255.466638824,logisticspro,LogisticsPro,2025-11
+2025-11-28,Vendor Payment - Newton and Sons,41784.10046574833,,11919471.366173076,logisticspro,LogisticsPro,2025-11

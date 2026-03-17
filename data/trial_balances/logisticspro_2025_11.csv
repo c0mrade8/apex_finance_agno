@@ -1,0 +1,32 @@
+account_code,account_name,debit,credit,balance,account_type,company_id,company_name,period
+1000,Cash and Cash Equivalents,11394958.357172383,0.0,11394958.357172383,Asset,logisticspro,LogisticsPro,2025-11
+1100,Accounts Receivable,17553474.657560498,0.0,17553474.657560498,Asset,logisticspro,LogisticsPro,2025-11
+1150,Allowance for Doubtful Accounts,0.0,141391.91948677442,-141391.91948677442,Asset,logisticspro,LogisticsPro,2025-11
+1300,Prepaid Expenses,2890743.0023233853,0.0,2890743.0023233853,Asset,logisticspro,LogisticsPro,2025-11
+1400,"Property, Plant & Equipment",32000000.0,0.0,32000000.0,Asset,logisticspro,LogisticsPro,2025-11
+1450,Accumulated Depreciation,0.0,12000000.0,-12000000.0,Asset,logisticspro,LogisticsPro,2025-11
+1500,Intangible Assets,24000000.0,0.0,24000000.0,Asset,logisticspro,LogisticsPro,2025-11
+1550,Accumulated Amortization,0.0,6400000.0,-6400000.0,Asset,logisticspro,LogisticsPro,2025-11
+2000,Accounts Payable,0.0,3670742.139062664,-3670742.139062664,Liability,logisticspro,LogisticsPro,2025-11
+2100,Accrued Expenses,0.0,714767.4248312414,-714767.4248312414,Liability,logisticspro,LogisticsPro,2025-11
+2150,Accrued Payroll,0.0,1859956.1638004316,-1859956.1638004316,Liability,logisticspro,LogisticsPro,2025-11
+2200,Deferred Revenue,0.0,0.0,0.0,Liability,logisticspro,LogisticsPro,2025-11
+2300,Current Portion of Long-term Debt,0.0,124822881.26171404,-124822881.26171404,Liability,logisticspro,LogisticsPro,2025-11
+2400,Long-term Debt,0.0,127480860.16491847,-127480860.16491847,Liability,logisticspro,LogisticsPro,2025-11
+3000,Common Stock,0.0,40000000.0,-40000000.0,Equity,logisticspro,LogisticsPro,2025-11
+3100,Retained Earnings,0.0,-229574551.29993898,229574551.29993898,Equity,logisticspro,LogisticsPro,2025-11
+4100,Service Revenue,0.0,7069595.974338721,-7069595.974338721,Revenue,logisticspro,LogisticsPro,2025-11
+5300,Cost of Services,5514284.859984202,0.0,5514284.859984202,COGS,logisticspro,LogisticsPro,2025-11
+6000,Salaries and Wages,544358.8900240815,0.0,544358.8900240815,Operating Expense,logisticspro,LogisticsPro,2025-11
+6100,Employee Benefits,124424.88914836149,0.0,124424.88914836149,Operating Expense,logisticspro,LogisticsPro,2025-11
+6200,Rent,77765.55571772593,0.0,77765.55571772593,Operating Expense,logisticspro,LogisticsPro,2025-11
+6300,Utilities,63535.724838453745,0.0,63535.724838453745,Operating Expense,logisticspro,LogisticsPro,2025-11
+6400,Insurance,20159.609935566798,0.0,20159.609935566798,Operating Expense,logisticspro,LogisticsPro,2025-11
+6500,Professional Fees,37854.140412349065,0.0,37854.140412349065,Operating Expense,logisticspro,LogisticsPro,2025-11
+7000,Sales and Marketing,124424.88914836149,0.0,124424.88914836149,Operating Expense,logisticspro,LogisticsPro,2025-11
+7100,Advertising,22761.608587114766,0.0,22761.608587114766,Operating Expense,logisticspro,LogisticsPro,2025-11
+7200,Travel and Entertainment,69248.88518761606,0.0,69248.88518761606,Operating Expense,logisticspro,LogisticsPro,2025-11
+8000,Research and Development,0.0,0.0,0.0,Operating Expense,logisticspro,LogisticsPro,2025-11
+9000,Depreciation Expense,46659.333430635554,0.0,46659.333430635554,Operating Expense,logisticspro,LogisticsPro,2025-11
+9100,Amortization Expense,46659.333430635554,0.0,46659.333430635554,Operating Expense,logisticspro,LogisticsPro,2025-11
+9500,Interest Expense,54330.01131199531,0.0,54330.01131199531,Operating Expense,logisticspro,LogisticsPro,2025-11

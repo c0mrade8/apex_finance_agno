@@ -1,0 +1,19 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2026-01-01,Beginning Balance,,,30302141.921822324,industrialsupply_co,IndustrialSupply Co,2026-01
+2026-01-03,Vendor Payment - Davis-Lewis,165393.4767615296,,30136748.445060793,industrialsupply_co,IndustrialSupply Co,2026-01
+2026-01-04,"Customer Payment - Harper, Smith and Buchanan",,468027.80138708855,30604776.246447884,industrialsupply_co,IndustrialSupply Co,2026-01
+2026-01-04,Vendor Payment - Zhang PLC,185041.52469766766,,30419734.721750215,industrialsupply_co,IndustrialSupply Co,2026-01
+2026-01-07,Customer Payment - Jones PLC,,168954.64818717865,30588689.369937394,industrialsupply_co,IndustrialSupply Co,2026-01
+2026-01-07,Vendor Payment - Willis and Sons,188689.93898167327,,30399999.43095572,industrialsupply_co,IndustrialSupply Co,2026-01
+2026-01-12,Customer Payment - Schroeder-Kramer,,99350.16753953884,30499349.59849526,industrialsupply_co,IndustrialSupply Co,2026-01
+2026-01-12,"Vendor Payment - Smith, Garrison and Thomas",81070.16395928197,,30418279.434535976,industrialsupply_co,IndustrialSupply Co,2026-01
+2026-01-16,Customer Payment - Fernandez and Sons,,326887.4431079416,30745166.877643917,industrialsupply_co,IndustrialSupply Co,2026-01
+2026-01-16,Payroll,2187500.0,,28557666.877643917,industrialsupply_co,IndustrialSupply Co,2026-01
+2026-01-17,Customer Payment - Guerrero Inc,,278275.89404715307,28835942.77169107,industrialsupply_co,IndustrialSupply Co,2026-01
+2026-01-17,Vendor Payment - Smith and Sons,71031.09679030883,,28764911.67490076,industrialsupply_co,IndustrialSupply Co,2026-01
+2026-01-23,"Vendor Payment - Morris, Thompson and Williams",136948.58210207953,,28627963.09279868,industrialsupply_co,IndustrialSupply Co,2026-01
+2026-01-25,"Vendor Payment - Fisher, Wilson and Brown",59671.84893512424,,28568291.243863557,industrialsupply_co,IndustrialSupply Co,2026-01
+2026-01-27,Vendor Payment - Strickland-Palmer,190468.81753653893,,28377822.426327016,industrialsupply_co,IndustrialSupply Co,2026-01
+2026-01-28,Customer Payment - Hayes and Sons,,236461.7530854145,28614284.179412432,industrialsupply_co,IndustrialSupply Co,2026-01
+2026-01-28,"Vendor Payment - Williams, Logan and Camacho",173463.1690775779,,28440821.010334853,industrialsupply_co,IndustrialSupply Co,2026-01
+2026-01-30,"Vendor Payment - Turner, Schneider and Johnson",82636.4475514403,,28358184.562783413,industrialsupply_co,IndustrialSupply Co,2026-01

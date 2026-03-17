@@ -1,0 +1,20 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2026-01-01,Beginning Balance,,,4303461.213556588,dataanalytics_corp,DataAnalytics Corp,2026-01
+2026-01-02,Customer Payment - Boone-Simmons,,444340.42231229716,4747801.635868885,dataanalytics_corp,DataAnalytics Corp,2026-01
+2026-01-03,Vendor Payment - Henry Group,13411.15948985542,,4734390.476379029,dataanalytics_corp,DataAnalytics Corp,2026-01
+2026-01-07,Vendor Payment - Lam LLC,85668.9478183647,,4648721.5285606645,dataanalytics_corp,DataAnalytics Corp,2026-01
+2026-01-08,"Vendor Payment - Hernandez, Martinez and Weber",51320.58056397917,,4597400.947996685,dataanalytics_corp,DataAnalytics Corp,2026-01
+2026-01-12,"Vendor Payment - Kelley, Nguyen and Vang",72897.70577689164,,4524503.242219794,dataanalytics_corp,DataAnalytics Corp,2026-01
+2026-01-13,"Vendor Payment - Phillips, Wagner and Jordan",26764.327390850223,,4497738.914828943,dataanalytics_corp,DataAnalytics Corp,2026-01
+2026-01-15,"Vendor Payment - Wilson, Pena and Rich",52906.05736160987,,4444832.857467333,dataanalytics_corp,DataAnalytics Corp,2026-01
+2026-01-16,Payroll,364583.3333333333,,4080249.5241339994,dataanalytics_corp,DataAnalytics Corp,2026-01
+2026-01-16,"Vendor Payment - Le, Lewis and Hayes",71958.94311204249,,4008290.581021957,dataanalytics_corp,DataAnalytics Corp,2026-01
+2026-01-17,Customer Payment - Gutierrez Group,,366556.0293993515,4374846.610421308,dataanalytics_corp,DataAnalytics Corp,2026-01
+2026-01-18,Vendor Payment - Perry-Davis,53035.6945345302,,4321810.915886778,dataanalytics_corp,DataAnalytics Corp,2026-01
+2026-01-19,Customer Payment - Edwards-Scott,,493341.89669298637,4815152.812579765,dataanalytics_corp,DataAnalytics Corp,2026-01
+2026-01-20,Customer Payment - Mcdaniel Group,,327576.4658458159,5142729.278425581,dataanalytics_corp,DataAnalytics Corp,2026-01
+2026-01-20,Vendor Payment - Davis Inc,29831.61647572101,,5112897.66194986,dataanalytics_corp,DataAnalytics Corp,2026-01
+2026-01-21,Vendor Payment - Reynolds Ltd,94310.74811064977,,5018586.91383921,dataanalytics_corp,DataAnalytics Corp,2026-01
+2026-01-25,"Customer Payment - Watson, Anderson and Brown",,380484.9183518097,5399071.832191019,dataanalytics_corp,DataAnalytics Corp,2026-01
+2026-01-27,"Customer Payment - Hoffman, Santiago and Jenkins",,183430.55823652283,5582502.390427542,dataanalytics_corp,DataAnalytics Corp,2026-01
+2026-01-27,"Vendor Payment - Pugh, Henderson and Moon",100283.434856095,,5482218.955571447,dataanalytics_corp,DataAnalytics Corp,2026-01

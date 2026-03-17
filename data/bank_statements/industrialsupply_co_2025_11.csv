@@ -1,0 +1,16 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2025-11-01,Beginning Balance,,,34185683.23520762,industrialsupply_co,IndustrialSupply Co,2025-11
+2025-11-02,Vendor Payment - Campbell-Clark,38164.22292486693,,34147519.01228275,industrialsupply_co,IndustrialSupply Co,2025-11
+2025-11-05,Vendor Payment - Harris-Walters,16238.969319723437,,34131280.04296303,industrialsupply_co,IndustrialSupply Co,2025-11
+2025-11-06,Vendor Payment - Wagner-King,133917.7078164907,,33997362.33514654,industrialsupply_co,IndustrialSupply Co,2025-11
+2025-11-09,Vendor Payment - Davis Group,83413.34816285239,,33913948.98698369,industrialsupply_co,IndustrialSupply Co,2025-11
+2025-11-11,Vendor Payment - Williams-Cook,162597.7259699335,,33751351.26101375,industrialsupply_co,IndustrialSupply Co,2025-11
+2025-11-14,Customer Payment - Walsh LLC,,154588.4799549696,33905939.74096873,industrialsupply_co,IndustrialSupply Co,2025-11
+2025-11-16,Payroll,2187500.0,,31718439.740968727,industrialsupply_co,IndustrialSupply Co,2025-11
+2025-11-21,Customer Payment - Figueroa PLC,,84970.607901587,31803410.348870315,industrialsupply_co,IndustrialSupply Co,2025-11
+2025-11-23,"Vendor Payment - Patterson, Smith and Jones",27868.374435564172,,31775541.974434752,industrialsupply_co,IndustrialSupply Co,2025-11
+2025-11-25,"Vendor Payment - Mckee, Gardner and Davenport",154798.1774105268,,31620743.797024224,industrialsupply_co,IndustrialSupply Co,2025-11
+2025-11-26,"Vendor Payment - Tran, Jordan and Williams",113154.10648725856,,31507589.690536965,industrialsupply_co,IndustrialSupply Co,2025-11
+2025-11-27,Vendor Payment - Nolan-Flynn,180498.7085543876,,31327090.981982578,industrialsupply_co,IndustrialSupply Co,2025-11
+2025-11-28,Customer Payment - Nolan and Sons,,84412.90968982445,31411503.891672403,industrialsupply_co,IndustrialSupply Co,2025-11
+2025-11-28,"Vendor Payment - Wright, Garcia and Deleon",169030.5450569745,,31242473.34661543,industrialsupply_co,IndustrialSupply Co,2025-11

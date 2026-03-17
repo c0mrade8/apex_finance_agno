@@ -1,0 +1,37 @@
+account_code,account_name,debit,credit,balance,account_type,company_id,company_name,period
+1000,Cash and Cash Equivalents,13853844.463110846,0.0,13853844.463110846,Asset,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+1100,Accounts Receivable,11721096.741035318,0.0,11721096.741035318,Asset,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+1150,Allowance for Doubtful Accounts,0.0,106550.75791133751,-106550.75791133751,Asset,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+1200,Inventory - Raw Materials,2722538.4270630744,0.0,2722538.4270630744,Asset,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+1210,Inventory - Work in Process,4880845.143477785,0.0,4880845.143477785,Asset,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+1220,Inventory - Finished Goods,5228148.156430112,0.0,5228148.156430112,Asset,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+1300,Prepaid Expenses,573652.8223875053,0.0,573652.8223875053,Asset,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+1400,"Property, Plant & Equipment",24000000.0,0.0,24000000.0,Asset,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+1450,Accumulated Depreciation,0.0,9000000.0,-9000000.0,Asset,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+1500,Intangible Assets,18000000.0,0.0,18000000.0,Asset,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+1550,Accumulated Amortization,0.0,4800000.0,-4800000.0,Asset,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+2000,Accounts Payable,0.0,2961513.9874415486,-2961513.9874415486,Liability,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+2100,Accrued Expenses,0.0,1342848.3584160896,-1342848.3584160896,Liability,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+2150,Accrued Payroll,0.0,678845.2201809405,-678845.2201809405,Liability,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+2200,Deferred Revenue,0.0,0.0,0.0,Liability,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+2300,Current Portion of Long-term Debt,0.0,78177911.83073324,-78177911.83073324,Liability,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+2400,Long-term Debt,0.0,49368168.48155138,-49368168.48155138,Liability,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+3000,Common Stock,0.0,30000000.0,-30000000.0,Equity,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+3100,Retained Earnings,0.0,-95546518.45178369,95546518.45178369,Equity,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+4000,Product Sales,0.0,5327537.895566875,-5327537.895566875,Revenue,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+5000,Cost of Goods Sold - Materials,1278609.09493605,0.0,1278609.09493605,COGS,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+5100,Cost of Goods Sold - Labor,1278609.09493605,0.0,1278609.09493605,COGS,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+5200,Cost of Goods Sold - Overhead,1278609.09493605,0.0,1278609.09493605,COGS,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+6000,Salaries and Wages,522098.7137655537,0.0,522098.7137655537,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+6100,Employee Benefits,119336.84886069801,0.0,119336.84886069801,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+6200,Rent,74585.53053793625,0.0,74585.53053793625,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+6300,Utilities,15640.333633463688,0.0,15640.333633463688,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+6400,Insurance,29309.21705285552,0.0,29309.21705285552,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+6500,Professional Fees,73145.95550599872,0.0,73145.95550599872,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+7000,Sales and Marketing,119336.84886069801,0.0,119336.84886069801,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+7100,Advertising,62743.562696097615,0.0,62743.562696097615,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+7200,Travel and Entertainment,72173.53259438471,0.0,72173.53259438471,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+8000,Research and Development,179005.273291047,0.0,179005.273291047,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+9000,Depreciation Expense,44751.31832276175,0.0,44751.31832276175,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+9100,Amortization Expense,44751.31832276175,0.0,44751.31832276175,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2025-01
+9500,Interest Expense,44026.58826064757,0.0,44026.58826064757,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2025-01

@@ -1,0 +1,16 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2025-12-01,Beginning Balance,,,14878334.727478435,logisticspro,LogisticsPro,2025-12
+2025-12-05,Vendor Payment - Marshall-Petersen,126558.84410489592,,14751775.88337354,logisticspro,LogisticsPro,2025-12
+2025-12-06,"Vendor Payment - Adams, Christian and Rivas",94478.99008629475,,14657296.893287245,logisticspro,LogisticsPro,2025-12
+2025-12-10,Customer Payment - Ramirez Group,,176846.82405471007,14834143.717341956,logisticspro,LogisticsPro,2025-12
+2025-12-11,Customer Payment - Christensen PLC,,198149.47745305192,15032293.194795007,logisticspro,LogisticsPro,2025-12
+2025-12-14,"Customer Payment - Barnett, Rogers and Snyder",,120583.53135336668,15152876.726148374,logisticspro,LogisticsPro,2025-12
+2025-12-15,Vendor Payment - White-Lewis,102718.17040935675,,15050158.555739017,logisticspro,LogisticsPro,2025-12
+2025-12-16,Payroll,1166666.6666666667,,13883491.889072351,logisticspro,LogisticsPro,2025-12
+2025-12-20,Vendor Payment - Peterson-Beard,76531.60780296255,,13806960.281269388,logisticspro,LogisticsPro,2025-12
+2025-12-21,"Vendor Payment - Beard, Peters and Black",38193.2190649316,,13768767.062204456,logisticspro,LogisticsPro,2025-12
+2025-12-22,Vendor Payment - Miller Ltd,151250.35063651475,,13617516.711567942,logisticspro,LogisticsPro,2025-12
+2025-12-23,Vendor Payment - Freeman-Chang,142834.5890330527,,13474682.12253489,logisticspro,LogisticsPro,2025-12
+2025-12-24,"Vendor Payment - Alvarez, Joseph and West",54383.95644083272,,13420298.166094057,logisticspro,LogisticsPro,2025-12
+2025-12-26,Vendor Payment - Davis and Sons,51432.850758667075,,13368865.315335391,logisticspro,LogisticsPro,2025-12
+2025-12-27,Customer Payment - Holt-Torres,,88352.89719122222,13457218.212526614,logisticspro,LogisticsPro,2025-12

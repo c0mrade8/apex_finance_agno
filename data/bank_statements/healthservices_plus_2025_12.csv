@@ -1,0 +1,24 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2025-12-01,Beginning Balance,,,7943247.536353388,healthservices_plus,HealthServices Plus,2025-12
+2025-12-03,Customer Payment - King-Miller,,155628.4466706675,8098875.983024055,healthservices_plus,HealthServices Plus,2025-12
+2025-12-04,Vendor Payment - Curry Inc,33098.873830541124,,8065777.109193514,healthservices_plus,HealthServices Plus,2025-12
+2025-12-07,Customer Payment - Walker-Jones,,466583.8301495419,8532360.939343056,healthservices_plus,HealthServices Plus,2025-12
+2025-12-07,"Vendor Payment - Williams, Johnson and Wright",25456.950817370947,,8506903.988525685,healthservices_plus,HealthServices Plus,2025-12
+2025-12-08,Vendor Payment - Howell and Sons,110118.83275684626,,8396785.155768838,healthservices_plus,HealthServices Plus,2025-12
+2025-12-11,Customer Payment - Wells Inc,,488328.8559013171,8885114.011670155,healthservices_plus,HealthServices Plus,2025-12
+2025-12-12,"Customer Payment - Gould, Marshall and Scott",,252129.37827035048,9137243.389940506,healthservices_plus,HealthServices Plus,2025-12
+2025-12-13,Customer Payment - Jackson-Lawson,,310094.8751132472,9447338.265053753,healthservices_plus,HealthServices Plus,2025-12
+2025-12-14,"Customer Payment - Higgins, Strickland and Martin",,113544.63917485398,9560882.904228607,healthservices_plus,HealthServices Plus,2025-12
+2025-12-15,Vendor Payment - Rodriguez-Johnson,150196.88703313784,,9410686.017195469,healthservices_plus,HealthServices Plus,2025-12
+2025-12-16,Payroll,510416.6666666667,,8900269.350528803,healthservices_plus,HealthServices Plus,2025-12
+2025-12-16,Vendor Payment - Johnston-Odonnell,175788.00763785222,,8724481.34289095,healthservices_plus,HealthServices Plus,2025-12
+2025-12-19,Customer Payment - Sanders-Espinoza,,260942.35661385083,8985423.6995048,healthservices_plus,HealthServices Plus,2025-12
+2025-12-21,Vendor Payment - Vargas Ltd,87939.01554479807,,8897484.683960002,healthservices_plus,HealthServices Plus,2025-12
+2025-12-24,Vendor Payment - Garcia LLC,49292.92502544399,,8848191.758934557,healthservices_plus,HealthServices Plus,2025-12
+2025-12-25,"Vendor Payment - Burke, Martinez and Riggs",128833.97939314214,,8719357.779541416,healthservices_plus,HealthServices Plus,2025-12
+2025-12-26,Customer Payment - Reed Group,,129846.55292303716,8849204.332464453,healthservices_plus,HealthServices Plus,2025-12
+2025-12-26,"Vendor Payment - Wood, Hunter and Peterson",139835.69726507014,,8709368.635199383,healthservices_plus,HealthServices Plus,2025-12
+2025-12-28,Customer Payment - Short-Garcia,,304432.5912984811,9013801.226497864,healthservices_plus,HealthServices Plus,2025-12
+2025-12-28,Vendor Payment - Reid-Poole,69001.98731704362,,8944799.23918082,healthservices_plus,HealthServices Plus,2025-12
+2025-12-30,"Customer Payment - Hernandez, Thompson and Boyd",,247349.0216697407,9192148.26085056,healthservices_plus,HealthServices Plus,2025-12
+2025-12-30,"Vendor Payment - Nelson, Morton and Medina",84706.37699415293,,9107441.883856406,healthservices_plus,HealthServices Plus,2025-12

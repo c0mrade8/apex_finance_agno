@@ -1,0 +1,1001 @@
+transaction_id,date,selling_entity_id,selling_entity_name,buying_entity_id,buying_entity_name,description,amount,gl_account
+IC-202511-001,2025-11-17,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Management Fees,20640.771120215228,7000
+IC-202511-002,2025-11-25,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Shared Services,96497.77525191587,6500
+IC-202511-003,2025-11-12,logisticspro,LogisticsPro,retailco,RetailCo,Inventory/Supplies,230352.3984270847,5000
+IC-202511-004,2025-11-24,healthservices_plus,HealthServices Plus,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,24765.505420002628,7000
+IC-202511-005,2025-11-27,precisionmfg_inc,PrecisionMfg Inc,dataanalytics_corp,DataAnalytics Corp,Management Fees,12850.269110610345,7000
+IC-202511-006,2025-11-23,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Shared Services,34815.64542939744,6500
+IC-202511-007,2025-11-18,logisticspro,LogisticsPro,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,126387.92793057919,5000
+IC-202511-008,2025-11-28,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,7504.671408656543,7000
+IC-202511-009,2025-11-09,healthservices_plus,HealthServices Plus,dataanalytics_corp,DataAnalytics Corp,Management Fees,42470.7915236055,7000
+IC-202511-010,2025-11-22,logisticspro,LogisticsPro,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,69035.16659956204,6500
+IC-202511-011,2025-11-16,precisionmfg_inc,PrecisionMfg Inc,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,225853.73199956765,5000
+IC-202511-012,2025-11-23,techforge_saas,TechForge SaaS,retailco,RetailCo,Software Licenses,11401.196650419668,7000
+IC-202511-013,2025-11-16,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Management Fees,14317.748585858575,7000
+IC-202511-014,2025-11-08,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Shared Services,60668.8437533024,6500
+IC-202511-015,2025-11-09,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,195292.34302260098,5000
+IC-202511-016,2025-11-14,logisticspro,LogisticsPro,healthservices_plus,HealthServices Plus,Software Licenses,12107.691373714788,7000
+IC-202511-017,2025-11-21,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Management Fees,43307.21877388173,7000
+IC-202511-018,2025-11-27,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Shared Services,71469.21439294275,6500
+IC-202511-019,2025-11-05,techforge_saas,TechForge SaaS,retailco,RetailCo,Inventory/Supplies,68598.12796462643,5000
+IC-202511-020,2025-11-20,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Software Licenses,16987.379313258676,7000
+IC-202511-021,2025-11-22,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Management Fees,15959.989445969739,7000
+IC-202511-022,2025-11-28,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Shared Services,38868.60793149497,6500
+IC-202511-023,2025-11-07,logisticspro,LogisticsPro,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,207130.3236160464,5000
+IC-202511-024,2025-11-14,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,11690.225774838644,7000
+IC-202511-025,2025-11-20,healthservices_plus,HealthServices Plus,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,21949.022943550925,7000
+IC-202511-026,2025-11-08,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Shared Services,76481.52061312197,6500
+IC-202511-027,2025-11-25,dataanalytics_corp,DataAnalytics Corp,logisticspro,LogisticsPro,Inventory/Supplies,77070.8164555371,5000
+IC-202511-028,2025-11-17,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Software Licenses,9990.923996990121,7000
+IC-202511-029,2025-11-12,healthservices_plus,HealthServices Plus,retailco,RetailCo,Management Fees,16255.272176137918,7000
+IC-202511-030,2025-11-25,dataanalytics_corp,DataAnalytics Corp,industrialsupply_co,IndustrialSupply Co,Shared Services,38942.74474491083,6500
+IC-202511-031,2025-11-06,retailco,RetailCo,techforge_saas,TechForge SaaS,Inventory/Supplies,78993.01447596341,5000
+IC-202511-032,2025-11-11,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,19400.160793262265,7000
+IC-202511-033,2025-11-18,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Management Fees,44405.5877339774,7000
+IC-202511-034,2025-11-17,retailco,RetailCo,healthservices_plus,HealthServices Plus,Shared Services,73135.03316043339,6500
+IC-202511-035,2025-11-18,techforge_saas,TechForge SaaS,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,245612.3635947057,5000
+IC-202511-036,2025-11-23,techforge_saas,TechForge SaaS,industrialsupply_co,IndustrialSupply Co,Software Licenses,22556.60156304082,7000
+IC-202511-037,2025-11-04,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Management Fees,49399.586245635,7000
+IC-202511-038,2025-11-06,industrialsupply_co,IndustrialSupply Co,logisticspro,LogisticsPro,Shared Services,56135.74553853462,6500
+IC-202511-039,2025-11-15,dataanalytics_corp,DataAnalytics Corp,logisticspro,LogisticsPro,Inventory/Supplies,178534.93153448473,5000
+IC-202511-040,2025-11-12,techforge_saas,TechForge SaaS,retailco,RetailCo,Software Licenses,22943.726819292377,7000
+IC-202511-041,2025-11-07,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Management Fees,24547.72499024561,7000
+IC-202511-042,2025-11-14,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Shared Services,99073.27915296612,6500
+IC-202511-043,2025-11-21,logisticspro,LogisticsPro,techforge_saas,TechForge SaaS,Inventory/Supplies,68606.09729200543,5000
+IC-202511-044,2025-11-13,healthservices_plus,HealthServices Plus,dataanalytics_corp,DataAnalytics Corp,Software Licenses,19204.85597246623,7000
+IC-202511-045,2025-11-17,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Management Fees,20172.879247132667,7000
+IC-202511-046,2025-11-24,dataanalytics_corp,DataAnalytics Corp,industrialsupply_co,IndustrialSupply Co,Shared Services,79173.7040581411,6500
+IC-202511-047,2025-11-03,dataanalytics_corp,DataAnalytics Corp,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,75252.94831290055,5000
+IC-202511-048,2025-11-16,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,22327.730285026842,7000
+IC-202511-049,2025-11-04,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,36126.511621251324,7000
+IC-202511-050,2025-11-15,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,33526.4856284794,6500
+IC-202511-051,2025-11-27,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Inventory/Supplies,58404.93503428106,5000
+IC-202511-052,2025-11-15,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Software Licenses,24635.973865212552,7000
+IC-202511-053,2025-11-05,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Management Fees,35403.56423638875,7000
+IC-202511-054,2025-11-15,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Shared Services,85962.78464696258,6500
+IC-202511-055,2025-11-17,logisticspro,LogisticsPro,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,247805.6716700348,5000
+IC-202511-056,2025-11-06,dataanalytics_corp,DataAnalytics Corp,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,10046.14499678813,7000
+IC-202511-057,2025-11-09,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,11305.827101826744,7000
+IC-202511-058,2025-11-20,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Shared Services,91401.86319638768,6500
+IC-202511-059,2025-11-13,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,207350.06703088738,5000
+IC-202511-060,2025-11-27,healthservices_plus,HealthServices Plus,dataanalytics_corp,DataAnalytics Corp,Software Licenses,14449.867100130272,7000
+IC-202511-061,2025-11-21,logisticspro,LogisticsPro,dataanalytics_corp,DataAnalytics Corp,Management Fees,28918.853843820405,7000
+IC-202511-062,2025-11-08,retailco,RetailCo,healthservices_plus,HealthServices Plus,Shared Services,86665.36571784099,6500
+IC-202511-063,2025-11-22,industrialsupply_co,IndustrialSupply Co,healthservices_plus,HealthServices Plus,Inventory/Supplies,106912.46035257951,5000
+IC-202511-064,2025-11-13,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,12891.521511952928,7000
+IC-202511-065,2025-11-26,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Management Fees,21869.1056441636,7000
+IC-202511-066,2025-11-05,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Shared Services,74927.19307940855,6500
+IC-202511-067,2025-11-10,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,199970.15288729325,5000
+IC-202511-068,2025-11-21,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Software Licenses,22473.971869326902,7000
+IC-202511-069,2025-11-04,dataanalytics_corp,DataAnalytics Corp,healthservices_plus,HealthServices Plus,Management Fees,31358.69890191055,7000
+IC-202511-070,2025-11-22,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Shared Services,47453.38825381266,6500
+IC-202511-071,2025-11-04,ecopackaging_ltd,EcoPackaging Ltd,logisticspro,LogisticsPro,Inventory/Supplies,168057.10859063195,5000
+IC-202511-072,2025-11-02,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,5548.406199453153,7000
+IC-202511-073,2025-11-11,logisticspro,LogisticsPro,industrialsupply_co,IndustrialSupply Co,Management Fees,11791.138020186729,7000
+IC-202511-074,2025-11-09,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Shared Services,67679.10737467854,6500
+IC-202511-075,2025-11-14,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,245490.42359807357,5000
+IC-202511-076,2025-11-11,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Software Licenses,14757.02394384813,7000
+IC-202511-077,2025-11-14,healthservices_plus,HealthServices Plus,retailco,RetailCo,Management Fees,45536.14689234725,7000
+IC-202511-078,2025-11-03,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Shared Services,63312.60858780682,6500
+IC-202511-079,2025-11-15,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Inventory/Supplies,88924.76734097439,5000
+IC-202511-080,2025-11-16,techforge_saas,TechForge SaaS,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,13880.874984044058,7000
+IC-202511-081,2025-11-06,ecopackaging_ltd,EcoPackaging Ltd,logisticspro,LogisticsPro,Management Fees,45212.59048595708,7000
+IC-202511-082,2025-11-23,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Shared Services,30589.790322797795,6500
+IC-202511-083,2025-11-13,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Inventory/Supplies,105153.5136502714,5000
+IC-202511-084,2025-11-24,logisticspro,LogisticsPro,dataanalytics_corp,DataAnalytics Corp,Software Licenses,16254.233980446785,7000
+IC-202511-085,2025-11-16,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Management Fees,44623.08582498209,7000
+IC-202511-086,2025-11-09,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Shared Services,20253.42788645614,6500
+IC-202511-087,2025-11-23,precisionmfg_inc,PrecisionMfg Inc,healthservices_plus,HealthServices Plus,Inventory/Supplies,196805.95251786127,5000
+IC-202511-088,2025-11-04,techforge_saas,TechForge SaaS,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,11668.14644318221,7000
+IC-202511-089,2025-11-05,dataanalytics_corp,DataAnalytics Corp,healthservices_plus,HealthServices Plus,Management Fees,49785.945662399914,7000
+IC-202511-090,2025-11-09,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Shared Services,81289.2746236469,6500
+IC-202511-091,2025-11-03,ecopackaging_ltd,EcoPackaging Ltd,logisticspro,LogisticsPro,Inventory/Supplies,176417.96590124845,5000
+IC-202511-092,2025-11-03,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Software Licenses,14565.19768390447,7000
+IC-202511-093,2025-11-08,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Management Fees,42139.309731875386,7000
+IC-202511-094,2025-11-18,retailco,RetailCo,healthservices_plus,HealthServices Plus,Shared Services,37170.24586070423,6500
+IC-202511-095,2025-11-22,techforge_saas,TechForge SaaS,retailco,RetailCo,Inventory/Supplies,142634.54335026833,5000
+IC-202511-096,2025-11-25,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Software Licenses,22639.843394432715,7000
+IC-202511-097,2025-11-23,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Management Fees,14109.930098096935,7000
+IC-202511-098,2025-11-20,retailco,RetailCo,healthservices_plus,HealthServices Plus,Shared Services,45301.61197834455,6500
+IC-202511-099,2025-11-20,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,125462.73228126472,5000
+IC-202511-100,2025-11-22,retailco,RetailCo,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,8339.061774943973,7000
+IC-202511-101,2025-11-20,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Management Fees,37044.32925657644,7000
+IC-202511-102,2025-11-15,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Shared Services,89265.61321778841,6500
+IC-202511-103,2025-11-10,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Inventory/Supplies,220069.60022397907,5000
+IC-202511-104,2025-11-19,precisionmfg_inc,PrecisionMfg Inc,dataanalytics_corp,DataAnalytics Corp,Software Licenses,18032.795209545533,7000
+IC-202511-105,2025-11-04,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Management Fees,38528.275331304714,7000
+IC-202511-106,2025-11-18,ecopackaging_ltd,EcoPackaging Ltd,healthservices_plus,HealthServices Plus,Shared Services,39351.11068433168,6500
+IC-202511-107,2025-11-26,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,103335.0393323955,5000
+IC-202511-108,2025-11-13,retailco,RetailCo,industrialsupply_co,IndustrialSupply Co,Software Licenses,7630.365338327558,7000
+IC-202511-109,2025-11-26,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Management Fees,24709.346032204397,7000
+IC-202511-110,2025-11-16,logisticspro,LogisticsPro,retailco,RetailCo,Shared Services,43984.04220521887,6500
+IC-202511-111,2025-11-10,healthservices_plus,HealthServices Plus,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,110583.14576663852,5000
+IC-202511-112,2025-11-06,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Software Licenses,23854.486381882245,7000
+IC-202511-113,2025-11-26,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Management Fees,18199.248381072655,7000
+IC-202511-114,2025-11-02,ecopackaging_ltd,EcoPackaging Ltd,healthservices_plus,HealthServices Plus,Shared Services,92513.67711315495,6500
+IC-202511-115,2025-11-21,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Inventory/Supplies,79460.60885579407,5000
+IC-202511-116,2025-11-07,dataanalytics_corp,DataAnalytics Corp,logisticspro,LogisticsPro,Software Licenses,24246.204059755684,7000
+IC-202511-117,2025-11-13,techforge_saas,TechForge SaaS,retailco,RetailCo,Management Fees,27312.640088378772,7000
+IC-202511-118,2025-11-05,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Shared Services,51348.66371272631,6500
+IC-202511-119,2025-11-23,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,168712.1870757572,5000
+IC-202511-120,2025-11-03,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Software Licenses,15429.192774429439,7000
+IC-202511-121,2025-11-21,techforge_saas,TechForge SaaS,retailco,RetailCo,Management Fees,22399.997486871573,7000
+IC-202511-122,2025-11-12,healthservices_plus,HealthServices Plus,retailco,RetailCo,Shared Services,48562.347517600974,6500
+IC-202511-123,2025-11-11,techforge_saas,TechForge SaaS,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,146178.02932060178,5000
+IC-202511-124,2025-11-22,ecopackaging_ltd,EcoPackaging Ltd,dataanalytics_corp,DataAnalytics Corp,Software Licenses,12849.163724589602,7000
+IC-202511-125,2025-11-28,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Management Fees,24284.84637202011,7000
+IC-202511-126,2025-11-10,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Shared Services,28144.294635962953,6500
+IC-202511-127,2025-11-20,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Inventory/Supplies,166324.4585978387,5000
+IC-202511-128,2025-11-22,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Software Licenses,22851.16454972949,7000
+IC-202511-129,2025-11-15,techforge_saas,TechForge SaaS,logisticspro,LogisticsPro,Management Fees,18178.43544218847,7000
+IC-202511-130,2025-11-05,logisticspro,LogisticsPro,dataanalytics_corp,DataAnalytics Corp,Shared Services,56800.191646463914,6500
+IC-202511-131,2025-11-22,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Inventory/Supplies,108005.83872978119,5000
+IC-202511-132,2025-11-21,healthservices_plus,HealthServices Plus,retailco,RetailCo,Software Licenses,11083.974392725617,7000
+IC-202511-133,2025-11-19,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Management Fees,36521.8876721369,7000
+IC-202511-134,2025-11-08,precisionmfg_inc,PrecisionMfg Inc,dataanalytics_corp,DataAnalytics Corp,Shared Services,49675.280652621215,6500
+IC-202511-135,2025-11-10,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,191864.16569452191,5000
+IC-202511-136,2025-11-20,industrialsupply_co,IndustrialSupply Co,healthservices_plus,HealthServices Plus,Software Licenses,19169.793949855946,7000
+IC-202511-137,2025-11-26,industrialsupply_co,IndustrialSupply Co,logisticspro,LogisticsPro,Management Fees,13929.39968756322,7000
+IC-202511-138,2025-11-18,dataanalytics_corp,DataAnalytics Corp,industrialsupply_co,IndustrialSupply Co,Shared Services,73211.69553907243,6500
+IC-202511-139,2025-11-20,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,196888.7864151183,5000
+IC-202511-140,2025-11-26,dataanalytics_corp,DataAnalytics Corp,industrialsupply_co,IndustrialSupply Co,Software Licenses,21342.5628403117,7000
+IC-202511-141,2025-11-20,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Management Fees,29290.574450087686,7000
+IC-202511-142,2025-11-09,ecopackaging_ltd,EcoPackaging Ltd,logisticspro,LogisticsPro,Shared Services,45323.973221429595,6500
+IC-202511-143,2025-11-13,logisticspro,LogisticsPro,techforge_saas,TechForge SaaS,Inventory/Supplies,82563.00993537276,5000
+IC-202511-144,2025-11-28,healthservices_plus,HealthServices Plus,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,6367.064006199173,7000
+IC-202511-145,2025-11-21,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Management Fees,12884.443717177408,7000
+IC-202511-146,2025-11-26,logisticspro,LogisticsPro,techforge_saas,TechForge SaaS,Shared Services,42228.22208717698,6500
+IC-202511-147,2025-11-27,retailco,RetailCo,healthservices_plus,HealthServices Plus,Inventory/Supplies,130720.20047231825,5000
+IC-202511-148,2025-11-25,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,17614.009423175703,7000
+IC-202511-149,2025-11-21,logisticspro,LogisticsPro,techforge_saas,TechForge SaaS,Management Fees,16884.424112911107,7000
+IC-202511-150,2025-11-10,techforge_saas,TechForge SaaS,industrialsupply_co,IndustrialSupply Co,Shared Services,76303.38487924062,6500
+IC-202511-151,2025-11-22,dataanalytics_corp,DataAnalytics Corp,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,73413.20828483373,5000
+IC-202511-152,2025-11-02,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Software Licenses,6009.778888248158,7000
+IC-202511-153,2025-11-07,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Management Fees,18819.347738932163,7000
+IC-202511-154,2025-11-16,dataanalytics_corp,DataAnalytics Corp,healthservices_plus,HealthServices Plus,Shared Services,91204.56203722021,6500
+IC-202511-155,2025-11-19,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,159375.19317520893,5000
+IC-202511-156,2025-11-12,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,5316.263924659242,7000
+IC-202511-157,2025-11-11,techforge_saas,TechForge SaaS,healthservices_plus,HealthServices Plus,Management Fees,34269.268988697455,7000
+IC-202511-158,2025-11-28,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Shared Services,51795.85255192733,6500
+IC-202511-159,2025-11-23,logisticspro,LogisticsPro,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,103770.7028764387,5000
+IC-202511-160,2025-11-19,ecopackaging_ltd,EcoPackaging Ltd,healthservices_plus,HealthServices Plus,Software Licenses,14988.635397336708,7000
+IC-202511-161,2025-11-08,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Management Fees,21695.324416487725,7000
+IC-202511-162,2025-11-07,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Shared Services,52773.68427007941,6500
+IC-202511-163,2025-11-06,retailco,RetailCo,healthservices_plus,HealthServices Plus,Inventory/Supplies,187026.8619748968,5000
+IC-202511-164,2025-11-14,logisticspro,LogisticsPro,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,22452.716050936706,7000
+IC-202511-165,2025-11-10,retailco,RetailCo,techforge_saas,TechForge SaaS,Management Fees,30225.366136878354,7000
+IC-202511-166,2025-11-04,healthservices_plus,HealthServices Plus,techforge_saas,TechForge SaaS,Shared Services,74155.26263974699,6500
+IC-202511-167,2025-11-14,precisionmfg_inc,PrecisionMfg Inc,healthservices_plus,HealthServices Plus,Inventory/Supplies,126960.72344422065,5000
+IC-202511-168,2025-11-12,healthservices_plus,HealthServices Plus,retailco,RetailCo,Software Licenses,5382.57932874574,7000
+IC-202511-169,2025-11-08,techforge_saas,TechForge SaaS,healthservices_plus,HealthServices Plus,Management Fees,33285.752303111934,7000
+IC-202511-170,2025-11-02,techforge_saas,TechForge SaaS,healthservices_plus,HealthServices Plus,Shared Services,69304.03887405792,6500
+IC-202511-171,2025-11-16,dataanalytics_corp,DataAnalytics Corp,logisticspro,LogisticsPro,Inventory/Supplies,165081.87745722965,5000
+IC-202511-172,2025-11-04,healthservices_plus,HealthServices Plus,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,20296.019449185544,7000
+IC-202511-173,2025-11-22,retailco,RetailCo,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,41710.32454291251,7000
+IC-202511-174,2025-11-13,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Shared Services,57204.41986405155,6500
+IC-202511-175,2025-11-26,dataanalytics_corp,DataAnalytics Corp,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,52673.53665187913,5000
+IC-202511-176,2025-11-26,techforge_saas,TechForge SaaS,industrialsupply_co,IndustrialSupply Co,Software Licenses,6331.294558284457,7000
+IC-202511-177,2025-11-20,retailco,RetailCo,dataanalytics_corp,DataAnalytics Corp,Management Fees,27338.889310225375,7000
+IC-202511-178,2025-11-28,techforge_saas,TechForge SaaS,healthservices_plus,HealthServices Plus,Shared Services,77819.02017910438,6500
+IC-202511-179,2025-11-10,healthservices_plus,HealthServices Plus,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,59731.53273234266,5000
+IC-202511-180,2025-11-28,techforge_saas,TechForge SaaS,healthservices_plus,HealthServices Plus,Software Licenses,17409.47570103941,7000
+IC-202511-181,2025-11-05,retailco,RetailCo,logisticspro,LogisticsPro,Management Fees,46329.139548012914,7000
+IC-202511-182,2025-11-09,retailco,RetailCo,techforge_saas,TechForge SaaS,Shared Services,41675.41586530923,6500
+IC-202511-183,2025-11-24,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Inventory/Supplies,76730.1162821036,5000
+IC-202511-184,2025-11-22,logisticspro,LogisticsPro,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,21518.35414632061,7000
+IC-202511-185,2025-11-24,techforge_saas,TechForge SaaS,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,12525.611717095653,7000
+IC-202511-186,2025-11-04,retailco,RetailCo,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,57119.210517154,6500
+IC-202511-187,2025-11-09,retailco,RetailCo,techforge_saas,TechForge SaaS,Inventory/Supplies,115058.12367234955,5000
+IC-202511-188,2025-11-12,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Software Licenses,24977.852240665812,7000
+IC-202511-189,2025-11-04,healthservices_plus,HealthServices Plus,techforge_saas,TechForge SaaS,Management Fees,28633.030128924987,7000
+IC-202511-190,2025-11-15,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Shared Services,26417.779716457124,6500
+IC-202511-191,2025-11-11,dataanalytics_corp,DataAnalytics Corp,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,237682.7487716288,5000
+IC-202511-192,2025-11-20,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Software Licenses,9577.50924966998,7000
+IC-202511-193,2025-11-18,logisticspro,LogisticsPro,healthservices_plus,HealthServices Plus,Management Fees,18465.435942794447,7000
+IC-202511-194,2025-11-24,logisticspro,LogisticsPro,dataanalytics_corp,DataAnalytics Corp,Shared Services,73982.90417339285,6500
+IC-202511-195,2025-11-08,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,105057.64269037204,5000
+IC-202511-196,2025-11-28,logisticspro,LogisticsPro,industrialsupply_co,IndustrialSupply Co,Software Licenses,5499.324442401144,7000
+IC-202511-197,2025-11-18,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Management Fees,35561.28635659683,7000
+IC-202511-198,2025-11-21,techforge_saas,TechForge SaaS,logisticspro,LogisticsPro,Shared Services,25322.208656868417,6500
+IC-202511-199,2025-11-10,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,197485.21715413546,5000
+IC-202511-200,2025-11-15,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Software Licenses,20518.23065614612,7000
+IC-202511-201,2025-11-08,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Management Fees,45675.724130262504,7000
+IC-202511-202,2025-11-06,techforge_saas,TechForge SaaS,logisticspro,LogisticsPro,Shared Services,25985.696415597842,6500
+IC-202511-203,2025-11-14,logisticspro,LogisticsPro,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,123119.14020079335,5000
+IC-202511-204,2025-11-03,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Software Licenses,6654.736712363798,7000
+IC-202511-205,2025-11-13,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Management Fees,29139.844650238476,7000
+IC-202511-206,2025-11-10,precisionmfg_inc,PrecisionMfg Inc,dataanalytics_corp,DataAnalytics Corp,Shared Services,85790.49689482835,6500
+IC-202511-207,2025-11-10,dataanalytics_corp,DataAnalytics Corp,healthservices_plus,HealthServices Plus,Inventory/Supplies,75271.29626290212,5000
+IC-202511-208,2025-11-08,logisticspro,LogisticsPro,dataanalytics_corp,DataAnalytics Corp,Software Licenses,21764.60842163601,7000
+IC-202511-209,2025-11-20,logisticspro,LogisticsPro,industrialsupply_co,IndustrialSupply Co,Management Fees,15040.08111455977,7000
+IC-202511-210,2025-11-07,dataanalytics_corp,DataAnalytics Corp,industrialsupply_co,IndustrialSupply Co,Shared Services,64212.981422139856,6500
+IC-202511-211,2025-11-07,techforge_saas,TechForge SaaS,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,230638.15576688581,5000
+IC-202511-212,2025-11-06,logisticspro,LogisticsPro,retailco,RetailCo,Software Licenses,16135.698218563759,7000
+IC-202511-213,2025-11-11,dataanalytics_corp,DataAnalytics Corp,logisticspro,LogisticsPro,Management Fees,44962.87093220741,7000
+IC-202511-214,2025-11-09,retailco,RetailCo,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,64346.99794722759,6500
+IC-202511-215,2025-11-24,healthservices_plus,HealthServices Plus,techforge_saas,TechForge SaaS,Inventory/Supplies,204503.25721588082,5000
+IC-202511-216,2025-11-22,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Software Licenses,8414.167266249604,7000
+IC-202511-217,2025-11-02,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,28733.20743735254,7000
+IC-202511-218,2025-11-15,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Shared Services,38998.2845401806,6500
+IC-202511-219,2025-11-02,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,163692.979701588,5000
+IC-202511-220,2025-11-23,healthservices_plus,HealthServices Plus,dataanalytics_corp,DataAnalytics Corp,Software Licenses,21537.171219455064,7000
+IC-202511-221,2025-11-28,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Management Fees,11204.154888452758,7000
+IC-202511-222,2025-11-05,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,60506.42474834142,6500
+IC-202511-223,2025-11-15,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Inventory/Supplies,208896.16357070123,5000
+IC-202511-224,2025-11-05,logisticspro,LogisticsPro,dataanalytics_corp,DataAnalytics Corp,Software Licenses,12450.178631069317,7000
+IC-202511-225,2025-11-25,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Management Fees,23657.010784171933,7000
+IC-202511-226,2025-11-16,retailco,RetailCo,logisticspro,LogisticsPro,Shared Services,85392.62778448875,6500
+IC-202511-227,2025-11-24,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,229112.56962636774,5000
+IC-202511-228,2025-11-02,retailco,RetailCo,logisticspro,LogisticsPro,Software Licenses,7397.821869454242,7000
+IC-202511-229,2025-11-07,techforge_saas,TechForge SaaS,retailco,RetailCo,Management Fees,39355.32523210165,7000
+IC-202511-230,2025-11-19,logisticspro,LogisticsPro,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,65328.42071243704,6500
+IC-202511-231,2025-11-25,ecopackaging_ltd,EcoPackaging Ltd,logisticspro,LogisticsPro,Inventory/Supplies,165371.47622654005,5000
+IC-202511-232,2025-11-13,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,18174.352774540443,7000
+IC-202511-233,2025-11-27,techforge_saas,TechForge SaaS,industrialsupply_co,IndustrialSupply Co,Management Fees,47532.62914605264,7000
+IC-202511-234,2025-11-11,industrialsupply_co,IndustrialSupply Co,retailco,RetailCo,Shared Services,99154.54126237052,6500
+IC-202511-235,2025-11-27,retailco,RetailCo,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,211142.90513364357,5000
+IC-202511-236,2025-11-23,retailco,RetailCo,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,21168.11477787382,7000
+IC-202511-237,2025-11-26,healthservices_plus,HealthServices Plus,precisionmfg_inc,PrecisionMfg Inc,Management Fees,47302.19513677248,7000
+IC-202511-238,2025-11-15,techforge_saas,TechForge SaaS,retailco,RetailCo,Shared Services,69539.12256428653,6500
+IC-202511-239,2025-11-27,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Inventory/Supplies,120933.24099701656,5000
+IC-202511-240,2025-11-15,precisionmfg_inc,PrecisionMfg Inc,dataanalytics_corp,DataAnalytics Corp,Software Licenses,15633.22047528966,7000
+IC-202511-241,2025-11-14,techforge_saas,TechForge SaaS,precisionmfg_inc,PrecisionMfg Inc,Management Fees,43092.08598948984,7000
+IC-202511-242,2025-11-11,ecopackaging_ltd,EcoPackaging Ltd,healthservices_plus,HealthServices Plus,Shared Services,90894.54177034761,6500
+IC-202511-243,2025-11-14,dataanalytics_corp,DataAnalytics Corp,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,196299.29280862783,5000
+IC-202511-244,2025-11-09,healthservices_plus,HealthServices Plus,retailco,RetailCo,Software Licenses,21884.246505722862,7000
+IC-202511-245,2025-11-05,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Management Fees,45374.20601823014,7000
+IC-202511-246,2025-11-17,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Shared Services,84434.40344367833,6500
+IC-202511-247,2025-11-10,healthservices_plus,HealthServices Plus,techforge_saas,TechForge SaaS,Inventory/Supplies,187609.11141482578,5000
+IC-202511-248,2025-11-14,industrialsupply_co,IndustrialSupply Co,healthservices_plus,HealthServices Plus,Software Licenses,8204.512019530126,7000
+IC-202511-249,2025-11-04,retailco,RetailCo,industrialsupply_co,IndustrialSupply Co,Management Fees,37616.22887644288,7000
+IC-202511-250,2025-11-03,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Shared Services,97975.24768388411,6500
+IC-202511-251,2025-11-17,ecopackaging_ltd,EcoPackaging Ltd,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,221591.01818301145,5000
+IC-202511-252,2025-11-27,dataanalytics_corp,DataAnalytics Corp,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,5125.149420529405,7000
+IC-202511-253,2025-11-09,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Management Fees,16533.46592356229,7000
+IC-202511-254,2025-11-14,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Shared Services,26681.9931744015,6500
+IC-202511-255,2025-11-06,precisionmfg_inc,PrecisionMfg Inc,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,82273.47167767663,5000
+IC-202511-256,2025-11-23,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,8425.899156433406,7000
+IC-202511-257,2025-11-16,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Management Fees,19860.79622551932,7000
+IC-202511-258,2025-11-19,dataanalytics_corp,DataAnalytics Corp,logisticspro,LogisticsPro,Shared Services,86085.17476386284,6500
+IC-202511-259,2025-11-08,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,56004.26642981438,5000
+IC-202511-260,2025-11-11,industrialsupply_co,IndustrialSupply Co,logisticspro,LogisticsPro,Software Licenses,13687.229962824355,7000
+IC-202511-261,2025-11-05,retailco,RetailCo,logisticspro,LogisticsPro,Management Fees,47377.321550137654,7000
+IC-202511-262,2025-11-08,industrialsupply_co,IndustrialSupply Co,logisticspro,LogisticsPro,Shared Services,35600.718435089264,6500
+IC-202511-263,2025-11-11,logisticspro,LogisticsPro,techforge_saas,TechForge SaaS,Inventory/Supplies,219377.44488579055,5000
+IC-202511-264,2025-11-11,healthservices_plus,HealthServices Plus,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,5367.722843031946,7000
+IC-202511-265,2025-11-21,retailco,RetailCo,dataanalytics_corp,DataAnalytics Corp,Management Fees,18748.55555626157,7000
+IC-202511-266,2025-11-10,logisticspro,LogisticsPro,industrialsupply_co,IndustrialSupply Co,Shared Services,94308.76398764524,6500
+IC-202511-267,2025-11-26,logisticspro,LogisticsPro,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,148519.80104436283,5000
+IC-202511-268,2025-11-15,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Software Licenses,17018.240113181724,7000
+IC-202511-269,2025-11-14,logisticspro,LogisticsPro,retailco,RetailCo,Management Fees,41390.787272999514,7000
+IC-202511-270,2025-11-08,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Shared Services,93942.9656635729,6500
+IC-202511-271,2025-11-18,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Inventory/Supplies,75254.22742154637,5000
+IC-202511-272,2025-11-02,logisticspro,LogisticsPro,retailco,RetailCo,Software Licenses,7364.372445821772,7000
+IC-202511-273,2025-11-04,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Management Fees,10515.898791581018,7000
+IC-202511-274,2025-11-21,industrialsupply_co,IndustrialSupply Co,healthservices_plus,HealthServices Plus,Shared Services,51098.107830123736,6500
+IC-202511-275,2025-11-22,ecopackaging_ltd,EcoPackaging Ltd,logisticspro,LogisticsPro,Inventory/Supplies,142762.849945536,5000
+IC-202511-276,2025-11-28,healthservices_plus,HealthServices Plus,retailco,RetailCo,Software Licenses,7566.51724377529,7000
+IC-202511-277,2025-11-14,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Management Fees,44914.37686262658,7000
+IC-202511-278,2025-11-27,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Shared Services,38603.3065296684,6500
+IC-202511-279,2025-11-24,logisticspro,LogisticsPro,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,245094.60566280436,5000
+IC-202511-280,2025-11-18,techforge_saas,TechForge SaaS,logisticspro,LogisticsPro,Software Licenses,16971.902148093417,7000
+IC-202511-281,2025-11-26,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,39208.86871028997,7000
+IC-202511-282,2025-11-23,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Shared Services,78591.07572780439,6500
+IC-202511-283,2025-11-24,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Inventory/Supplies,236945.9830976602,5000
+IC-202511-284,2025-11-18,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Software Licenses,6222.093352392646,7000
+IC-202511-285,2025-11-22,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,28083.46387245464,7000
+IC-202511-286,2025-11-11,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Shared Services,71901.23089275087,6500
+IC-202511-287,2025-11-05,ecopackaging_ltd,EcoPackaging Ltd,healthservices_plus,HealthServices Plus,Inventory/Supplies,185124.26191964865,5000
+IC-202511-288,2025-11-05,logisticspro,LogisticsPro,dataanalytics_corp,DataAnalytics Corp,Software Licenses,10085.224628897291,7000
+IC-202511-289,2025-11-28,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Management Fees,25852.505019928823,7000
+IC-202511-290,2025-11-03,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,60199.270146154566,6500
+IC-202511-291,2025-11-27,retailco,RetailCo,techforge_saas,TechForge SaaS,Inventory/Supplies,114619.94033326746,5000
+IC-202511-292,2025-11-02,retailco,RetailCo,techforge_saas,TechForge SaaS,Software Licenses,18445.013745883894,7000
+IC-202511-293,2025-11-16,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,13445.285562547213,7000
+IC-202511-294,2025-11-13,retailco,RetailCo,techforge_saas,TechForge SaaS,Shared Services,56746.515264043424,6500
+IC-202511-295,2025-11-07,techforge_saas,TechForge SaaS,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,63621.804944704505,5000
+IC-202511-296,2025-11-18,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,5286.6181173400255,7000
+IC-202511-297,2025-11-08,healthservices_plus,HealthServices Plus,dataanalytics_corp,DataAnalytics Corp,Management Fees,21334.56275564473,7000
+IC-202511-298,2025-11-04,healthservices_plus,HealthServices Plus,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,50808.208225842376,6500
+IC-202511-299,2025-11-10,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Inventory/Supplies,154089.8808330572,5000
+IC-202511-300,2025-11-13,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,15497.999734516765,7000
+IC-202511-301,2025-11-05,healthservices_plus,HealthServices Plus,industrialsupply_co,IndustrialSupply Co,Management Fees,49361.26057116521,7000
+IC-202511-302,2025-11-26,healthservices_plus,HealthServices Plus,precisionmfg_inc,PrecisionMfg Inc,Shared Services,27291.251155574202,6500
+IC-202511-303,2025-11-17,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,241344.08677786996,5000
+IC-202511-304,2025-11-14,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Software Licenses,16753.940365750917,7000
+IC-202511-305,2025-11-15,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Management Fees,35898.31762982184,7000
+IC-202511-306,2025-11-24,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,34471.35211031187,6500
+IC-202511-307,2025-11-03,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,61923.46506893181,5000
+IC-202511-308,2025-11-15,techforge_saas,TechForge SaaS,healthservices_plus,HealthServices Plus,Software Licenses,12920.019327712303,7000
+IC-202511-309,2025-11-12,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Management Fees,26363.405945395047,7000
+IC-202511-310,2025-11-19,healthservices_plus,HealthServices Plus,techforge_saas,TechForge SaaS,Shared Services,57739.187001475126,6500
+IC-202511-311,2025-11-22,techforge_saas,TechForge SaaS,healthservices_plus,HealthServices Plus,Inventory/Supplies,188990.62386860955,5000
+IC-202511-312,2025-11-19,healthservices_plus,HealthServices Plus,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,10763.69051919059,7000
+IC-202511-313,2025-11-04,healthservices_plus,HealthServices Plus,dataanalytics_corp,DataAnalytics Corp,Management Fees,10957.85061081934,7000
+IC-202511-314,2025-11-12,dataanalytics_corp,DataAnalytics Corp,industrialsupply_co,IndustrialSupply Co,Shared Services,91725.97267752081,6500
+IC-202511-315,2025-11-02,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,101148.74030966008,5000
+IC-202511-316,2025-11-08,logisticspro,LogisticsPro,retailco,RetailCo,Software Licenses,6631.498512227318,7000
+IC-202511-317,2025-11-09,logisticspro,LogisticsPro,retailco,RetailCo,Management Fees,10584.359884355314,7000
+IC-202511-318,2025-11-16,retailco,RetailCo,dataanalytics_corp,DataAnalytics Corp,Shared Services,64592.39714513497,6500
+IC-202511-319,2025-11-15,retailco,RetailCo,healthservices_plus,HealthServices Plus,Inventory/Supplies,225950.48045886873,5000
+IC-202511-320,2025-11-11,precisionmfg_inc,PrecisionMfg Inc,dataanalytics_corp,DataAnalytics Corp,Software Licenses,18497.864061083095,7000
+IC-202511-321,2025-11-20,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Management Fees,49062.44093291617,7000
+IC-202511-322,2025-11-24,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Shared Services,97216.77108365881,6500
+IC-202511-323,2025-11-16,techforge_saas,TechForge SaaS,healthservices_plus,HealthServices Plus,Inventory/Supplies,129656.10981781088,5000
+IC-202511-324,2025-11-20,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Software Licenses,12533.52880858925,7000
+IC-202511-325,2025-11-08,dataanalytics_corp,DataAnalytics Corp,logisticspro,LogisticsPro,Management Fees,33998.71433044264,7000
+IC-202511-326,2025-11-15,logisticspro,LogisticsPro,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,88266.33732470302,6500
+IC-202511-327,2025-11-22,techforge_saas,TechForge SaaS,logisticspro,LogisticsPro,Inventory/Supplies,77460.00654311405,5000
+IC-202511-328,2025-11-09,techforge_saas,TechForge SaaS,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,24731.262282288208,7000
+IC-202511-329,2025-11-08,techforge_saas,TechForge SaaS,precisionmfg_inc,PrecisionMfg Inc,Management Fees,22285.82592416846,7000
+IC-202511-330,2025-11-18,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Shared Services,52143.45080875396,6500
+IC-202511-331,2025-11-18,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Inventory/Supplies,189404.8332008599,5000
+IC-202511-332,2025-11-09,techforge_saas,TechForge SaaS,retailco,RetailCo,Software Licenses,17627.519552867532,7000
+IC-202511-333,2025-11-14,healthservices_plus,HealthServices Plus,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,49103.59841380173,7000
+IC-202511-334,2025-11-26,logisticspro,LogisticsPro,retailco,RetailCo,Shared Services,55253.190673943485,6500
+IC-202511-335,2025-11-23,dataanalytics_corp,DataAnalytics Corp,logisticspro,LogisticsPro,Inventory/Supplies,143596.09249560867,5000
+IC-202511-336,2025-11-03,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,15257.494846105355,7000
+IC-202511-337,2025-11-11,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Management Fees,10065.750284497988,7000
+IC-202511-338,2025-11-02,industrialsupply_co,IndustrialSupply Co,logisticspro,LogisticsPro,Shared Services,85778.24900616084,6500
+IC-202511-339,2025-11-24,retailco,RetailCo,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,192200.19238996223,5000
+IC-202511-340,2025-11-18,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Software Licenses,14044.049582070775,7000
+IC-202511-341,2025-11-04,healthservices_plus,HealthServices Plus,industrialsupply_co,IndustrialSupply Co,Management Fees,44641.42700183026,7000
+IC-202511-342,2025-11-28,retailco,RetailCo,healthservices_plus,HealthServices Plus,Shared Services,27789.351503297687,6500
+IC-202511-343,2025-11-18,techforge_saas,TechForge SaaS,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,50119.58776695906,5000
+IC-202511-344,2025-11-10,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,14859.139433117201,7000
+IC-202511-345,2025-11-04,healthservices_plus,HealthServices Plus,industrialsupply_co,IndustrialSupply Co,Management Fees,22585.156357407952,7000
+IC-202511-346,2025-11-02,industrialsupply_co,IndustrialSupply Co,logisticspro,LogisticsPro,Shared Services,23419.16848495611,6500
+IC-202511-347,2025-11-12,precisionmfg_inc,PrecisionMfg Inc,healthservices_plus,HealthServices Plus,Inventory/Supplies,73111.67533612635,5000
+IC-202511-348,2025-11-08,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,15891.10649309351,7000
+IC-202511-349,2025-11-23,healthservices_plus,HealthServices Plus,dataanalytics_corp,DataAnalytics Corp,Management Fees,30133.805224246164,7000
+IC-202511-350,2025-11-28,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Shared Services,96065.49279331451,6500
+IC-202511-351,2025-11-07,ecopackaging_ltd,EcoPackaging Ltd,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,215830.12805682796,5000
+IC-202511-352,2025-11-04,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Software Licenses,23352.945558088668,7000
+IC-202511-353,2025-11-27,industrialsupply_co,IndustrialSupply Co,healthservices_plus,HealthServices Plus,Management Fees,32474.55159238074,7000
+IC-202511-354,2025-11-25,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Shared Services,38998.66441355072,6500
+IC-202511-355,2025-11-08,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,86031.72954652386,5000
+IC-202511-356,2025-11-07,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,9816.076321463464,7000
+IC-202511-357,2025-11-18,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Management Fees,10241.881727359138,7000
+IC-202511-358,2025-11-11,dataanalytics_corp,DataAnalytics Corp,healthservices_plus,HealthServices Plus,Shared Services,42589.4335234125,6500
+IC-202511-359,2025-11-25,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Inventory/Supplies,50767.42910156018,5000
+IC-202511-360,2025-11-27,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Software Licenses,6742.185789228681,7000
+IC-202511-361,2025-11-02,logisticspro,LogisticsPro,retailco,RetailCo,Management Fees,29561.93601797133,7000
+IC-202511-362,2025-11-15,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Shared Services,83514.8106761481,6500
+IC-202511-363,2025-11-07,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,166684.303803687,5000
+IC-202511-364,2025-11-21,industrialsupply_co,IndustrialSupply Co,logisticspro,LogisticsPro,Software Licenses,9320.628807861445,7000
+IC-202511-365,2025-11-25,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Management Fees,29004.013627668817,7000
+IC-202511-366,2025-11-03,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Shared Services,39388.295610940986,6500
+IC-202511-367,2025-11-07,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,118328.22253812036,5000
+IC-202511-368,2025-11-07,techforge_saas,TechForge SaaS,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,22090.947864043606,7000
+IC-202511-369,2025-11-22,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,37215.376550500885,7000
+IC-202511-370,2025-11-25,industrialsupply_co,IndustrialSupply Co,healthservices_plus,HealthServices Plus,Shared Services,45765.40281565838,6500
+IC-202511-371,2025-11-04,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,214328.31395579106,5000
+IC-202511-372,2025-11-19,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,22967.10550335331,7000
+IC-202511-373,2025-11-13,ecopackaging_ltd,EcoPackaging Ltd,dataanalytics_corp,DataAnalytics Corp,Management Fees,17351.386604316045,7000
+IC-202511-374,2025-11-13,logisticspro,LogisticsPro,industrialsupply_co,IndustrialSupply Co,Shared Services,84413.95178883013,6500
+IC-202511-375,2025-11-10,retailco,RetailCo,healthservices_plus,HealthServices Plus,Inventory/Supplies,228680.9458175974,5000
+IC-202511-376,2025-11-07,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Software Licenses,17470.38390348309,7000
+IC-202511-377,2025-11-26,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Management Fees,21254.024874153663,7000
+IC-202511-378,2025-11-03,logisticspro,LogisticsPro,techforge_saas,TechForge SaaS,Shared Services,24955.721486319035,6500
+IC-202511-379,2025-11-21,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,70112.54641668887,5000
+IC-202511-380,2025-11-24,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Software Licenses,9627.15284518818,7000
+IC-202511-381,2025-11-19,dataanalytics_corp,DataAnalytics Corp,industrialsupply_co,IndustrialSupply Co,Management Fees,30665.103674171012,7000
+IC-202511-382,2025-11-19,techforge_saas,TechForge SaaS,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,27651.255681897273,6500
+IC-202511-383,2025-11-12,industrialsupply_co,IndustrialSupply Co,healthservices_plus,HealthServices Plus,Inventory/Supplies,152948.43875135598,5000
+IC-202511-384,2025-11-17,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Software Licenses,16513.305059948394,7000
+IC-202511-385,2025-11-15,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Management Fees,31493.619873727246,7000
+IC-202511-386,2025-11-13,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Shared Services,32388.605926305703,6500
+IC-202511-387,2025-11-05,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Inventory/Supplies,91201.13571040798,5000
+IC-202511-388,2025-11-21,retailco,RetailCo,healthservices_plus,HealthServices Plus,Software Licenses,13060.626225654732,7000
+IC-202511-389,2025-11-11,techforge_saas,TechForge SaaS,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,40056.93270125211,7000
+IC-202511-390,2025-11-16,dataanalytics_corp,DataAnalytics Corp,precisionmfg_inc,PrecisionMfg Inc,Shared Services,99801.450493814,6500
+IC-202511-391,2025-11-03,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,117762.60432096964,5000
+IC-202511-392,2025-11-15,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,10479.775630860362,7000
+IC-202511-393,2025-11-08,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,19133.250094744435,7000
+IC-202511-394,2025-11-23,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Shared Services,32139.433036244194,6500
+IC-202511-395,2025-11-16,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Inventory/Supplies,182268.5357889449,5000
+IC-202511-396,2025-11-17,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Software Licenses,13871.266909970054,7000
+IC-202511-397,2025-11-24,logisticspro,LogisticsPro,techforge_saas,TechForge SaaS,Management Fees,13328.922648322892,7000
+IC-202511-398,2025-11-18,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Shared Services,85816.2337373765,6500
+IC-202511-399,2025-11-13,industrialsupply_co,IndustrialSupply Co,healthservices_plus,HealthServices Plus,Inventory/Supplies,193076.20343573103,5000
+IC-202511-400,2025-11-08,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,11584.61230682789,7000
+IC-202511-401,2025-11-15,techforge_saas,TechForge SaaS,healthservices_plus,HealthServices Plus,Management Fees,38224.61219137172,7000
+IC-202511-402,2025-11-12,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Shared Services,35103.52222187555,6500
+IC-202511-403,2025-11-13,ecopackaging_ltd,EcoPackaging Ltd,logisticspro,LogisticsPro,Inventory/Supplies,208398.60668114194,5000
+IC-202511-404,2025-11-21,healthservices_plus,HealthServices Plus,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,23619.97239425168,7000
+IC-202511-405,2025-11-02,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Management Fees,28889.939957806342,7000
+IC-202511-406,2025-11-21,dataanalytics_corp,DataAnalytics Corp,healthservices_plus,HealthServices Plus,Shared Services,78400.13768646892,6500
+IC-202511-407,2025-11-18,dataanalytics_corp,DataAnalytics Corp,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,164170.7872557523,5000
+IC-202511-408,2025-11-16,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Software Licenses,5283.932689434474,7000
+IC-202511-409,2025-11-05,ecopackaging_ltd,EcoPackaging Ltd,logisticspro,LogisticsPro,Management Fees,49816.86051701824,7000
+IC-202511-410,2025-11-06,industrialsupply_co,IndustrialSupply Co,retailco,RetailCo,Shared Services,24724.011556661757,6500
+IC-202511-411,2025-11-10,logisticspro,LogisticsPro,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,52732.33709412188,5000
+IC-202511-412,2025-11-02,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Software Licenses,9487.659595995909,7000
+IC-202511-413,2025-11-19,logisticspro,LogisticsPro,techforge_saas,TechForge SaaS,Management Fees,30443.75285889592,7000
+IC-202511-414,2025-11-10,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Shared Services,49763.48542497659,6500
+IC-202511-415,2025-11-13,healthservices_plus,HealthServices Plus,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,217489.91901669238,5000
+IC-202511-416,2025-11-13,dataanalytics_corp,DataAnalytics Corp,logisticspro,LogisticsPro,Software Licenses,11312.664307343046,7000
+IC-202511-417,2025-11-27,techforge_saas,TechForge SaaS,retailco,RetailCo,Management Fees,48996.1709124094,7000
+IC-202511-418,2025-11-14,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Shared Services,59683.41808132664,6500
+IC-202511-419,2025-11-23,techforge_saas,TechForge SaaS,logisticspro,LogisticsPro,Inventory/Supplies,111933.7740802585,5000
+IC-202511-420,2025-11-25,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,6791.3204863262135,7000
+IC-202511-421,2025-11-28,logisticspro,LogisticsPro,dataanalytics_corp,DataAnalytics Corp,Management Fees,18698.11728868944,7000
+IC-202511-422,2025-11-15,dataanalytics_corp,DataAnalytics Corp,industrialsupply_co,IndustrialSupply Co,Shared Services,60474.06401171151,6500
+IC-202511-423,2025-11-12,precisionmfg_inc,PrecisionMfg Inc,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,205543.49781451013,5000
+IC-202511-424,2025-11-14,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Software Licenses,22035.806773210832,7000
+IC-202511-425,2025-11-04,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Management Fees,28318.52857958142,7000
+IC-202511-426,2025-11-12,healthservices_plus,HealthServices Plus,techforge_saas,TechForge SaaS,Shared Services,70537.79346612672,6500
+IC-202511-427,2025-11-08,healthservices_plus,HealthServices Plus,retailco,RetailCo,Inventory/Supplies,101621.52863468294,5000
+IC-202511-428,2025-11-26,healthservices_plus,HealthServices Plus,industrialsupply_co,IndustrialSupply Co,Software Licenses,20355.292354286754,7000
+IC-202511-429,2025-11-07,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Management Fees,35856.29500912356,7000
+IC-202511-430,2025-11-23,healthservices_plus,HealthServices Plus,techforge_saas,TechForge SaaS,Shared Services,75331.47215786546,6500
+IC-202511-431,2025-11-14,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Inventory/Supplies,179911.20135139237,5000
+IC-202511-432,2025-11-24,ecopackaging_ltd,EcoPackaging Ltd,dataanalytics_corp,DataAnalytics Corp,Software Licenses,12701.161114379232,7000
+IC-202511-433,2025-11-05,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Management Fees,39436.81625495796,7000
+IC-202511-434,2025-11-15,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Shared Services,78026.11125887025,6500
+IC-202511-435,2025-11-26,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Inventory/Supplies,180037.43328913068,5000
+IC-202511-436,2025-11-03,techforge_saas,TechForge SaaS,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,6102.030703176622,7000
+IC-202511-437,2025-11-18,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Management Fees,22466.116666185953,7000
+IC-202511-438,2025-11-16,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,44554.4858384986,6500
+IC-202511-439,2025-11-28,precisionmfg_inc,PrecisionMfg Inc,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,148795.8298280376,5000
+IC-202511-440,2025-11-22,logisticspro,LogisticsPro,techforge_saas,TechForge SaaS,Software Licenses,8849.863012716542,7000
+IC-202511-441,2025-11-27,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Management Fees,27521.76303621535,7000
+IC-202511-442,2025-11-07,retailco,RetailCo,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,95823.68528115656,6500
+IC-202511-443,2025-11-18,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Inventory/Supplies,243311.78371102863,5000
+IC-202511-444,2025-11-10,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Software Licenses,11116.27022567328,7000
+IC-202511-445,2025-11-27,dataanalytics_corp,DataAnalytics Corp,healthservices_plus,HealthServices Plus,Management Fees,23142.82530929177,7000
+IC-202511-446,2025-11-02,retailco,RetailCo,logisticspro,LogisticsPro,Shared Services,42890.80339666514,6500
+IC-202511-447,2025-11-14,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,174245.30609603346,5000
+IC-202511-448,2025-11-02,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,12015.552460206243,7000
+IC-202511-449,2025-11-19,ecopackaging_ltd,EcoPackaging Ltd,logisticspro,LogisticsPro,Management Fees,16616.806085136373,7000
+IC-202511-450,2025-11-08,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Shared Services,28278.005091726773,6500
+IC-202511-451,2025-11-24,logisticspro,LogisticsPro,retailco,RetailCo,Inventory/Supplies,213661.5635350606,5000
+IC-202511-452,2025-11-05,healthservices_plus,HealthServices Plus,dataanalytics_corp,DataAnalytics Corp,Software Licenses,15899.64556200036,7000
+IC-202511-453,2025-11-08,retailco,RetailCo,dataanalytics_corp,DataAnalytics Corp,Management Fees,31491.026946721522,7000
+IC-202511-454,2025-11-15,dataanalytics_corp,DataAnalytics Corp,healthservices_plus,HealthServices Plus,Shared Services,99329.94743689825,6500
+IC-202511-455,2025-11-06,ecopackaging_ltd,EcoPackaging Ltd,healthservices_plus,HealthServices Plus,Inventory/Supplies,71405.82684220762,5000
+IC-202511-456,2025-11-12,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Software Licenses,13985.490939132997,7000
+IC-202511-457,2025-11-19,industrialsupply_co,IndustrialSupply Co,retailco,RetailCo,Management Fees,28963.050564314304,7000
+IC-202511-458,2025-11-12,logisticspro,LogisticsPro,healthservices_plus,HealthServices Plus,Shared Services,56619.50537329707,6500
+IC-202511-459,2025-11-17,techforge_saas,TechForge SaaS,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,232521.00537662208,5000
+IC-202511-460,2025-11-06,dataanalytics_corp,DataAnalytics Corp,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,20400.42456911657,7000
+IC-202511-461,2025-11-10,retailco,RetailCo,healthservices_plus,HealthServices Plus,Management Fees,30869.336754129825,7000
+IC-202511-462,2025-11-23,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Shared Services,98894.14378269558,6500
+IC-202511-463,2025-11-12,retailco,RetailCo,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,191716.70915356505,5000
+IC-202511-464,2025-11-25,healthservices_plus,HealthServices Plus,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,14490.671252448814,7000
+IC-202511-465,2025-11-19,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,42544.35253469423,7000
+IC-202511-466,2025-11-03,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Shared Services,47621.16416456425,6500
+IC-202511-467,2025-11-09,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Inventory/Supplies,78775.23107795604,5000
+IC-202511-468,2025-11-02,techforge_saas,TechForge SaaS,logisticspro,LogisticsPro,Software Licenses,22559.567649993183,7000
+IC-202511-469,2025-11-14,retailco,RetailCo,industrialsupply_co,IndustrialSupply Co,Management Fees,35121.21858278148,7000
+IC-202511-470,2025-11-17,logisticspro,LogisticsPro,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,92938.22786733061,6500
+IC-202511-471,2025-11-11,healthservices_plus,HealthServices Plus,retailco,RetailCo,Inventory/Supplies,168827.27829551027,5000
+IC-202511-472,2025-11-23,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Software Licenses,17630.887573523207,7000
+IC-202511-473,2025-11-26,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,17265.256875152874,7000
+IC-202511-474,2025-11-18,techforge_saas,TechForge SaaS,healthservices_plus,HealthServices Plus,Shared Services,22258.30077205651,6500
+IC-202511-475,2025-11-19,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,205364.27344805622,5000
+IC-202511-476,2025-11-15,retailco,RetailCo,dataanalytics_corp,DataAnalytics Corp,Software Licenses,18694.50327762009,7000
+IC-202511-477,2025-11-03,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Management Fees,10786.059309873912,7000
+IC-202511-478,2025-11-04,logisticspro,LogisticsPro,techforge_saas,TechForge SaaS,Shared Services,83206.65999771502,6500
+IC-202511-479,2025-11-13,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Inventory/Supplies,239430.58720127094,5000
+IC-202511-480,2025-11-15,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,9342.064589397807,7000
+IC-202511-481,2025-11-08,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Management Fees,17315.722122746745,7000
+IC-202511-482,2025-11-08,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Shared Services,21121.16140208456,6500
+IC-202511-483,2025-11-03,industrialsupply_co,IndustrialSupply Co,retailco,RetailCo,Inventory/Supplies,64442.63706703759,5000
+IC-202511-484,2025-11-26,dataanalytics_corp,DataAnalytics Corp,healthservices_plus,HealthServices Plus,Software Licenses,17155.568772137744,7000
+IC-202511-485,2025-11-06,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Management Fees,20127.956280512408,7000
+IC-202511-486,2025-11-25,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Shared Services,88262.78388537616,6500
+IC-202511-487,2025-11-05,retailco,RetailCo,logisticspro,LogisticsPro,Inventory/Supplies,121213.45982382896,5000
+IC-202511-488,2025-11-04,retailco,RetailCo,industrialsupply_co,IndustrialSupply Co,Software Licenses,10782.734368375219,7000
+IC-202511-489,2025-11-12,healthservices_plus,HealthServices Plus,industrialsupply_co,IndustrialSupply Co,Management Fees,33252.84078900213,7000
+IC-202511-490,2025-11-02,retailco,RetailCo,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,47277.32507699877,6500
+IC-202511-491,2025-11-21,retailco,RetailCo,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,208791.01694311813,5000
+IC-202511-492,2025-11-17,logisticspro,LogisticsPro,retailco,RetailCo,Software Licenses,11141.754867204974,7000
+IC-202511-493,2025-11-25,industrialsupply_co,IndustrialSupply Co,logisticspro,LogisticsPro,Management Fees,48620.71672939065,7000
+IC-202511-494,2025-11-06,logisticspro,LogisticsPro,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,59142.34088412825,6500
+IC-202511-495,2025-11-28,retailco,RetailCo,healthservices_plus,HealthServices Plus,Inventory/Supplies,214183.84272260003,5000
+IC-202511-496,2025-11-21,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Software Licenses,11430.660176766816,7000
+IC-202511-497,2025-11-22,retailco,RetailCo,healthservices_plus,HealthServices Plus,Management Fees,28142.912384606992,7000
+IC-202511-498,2025-11-12,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Shared Services,78202.91417841142,6500
+IC-202511-499,2025-11-24,techforge_saas,TechForge SaaS,healthservices_plus,HealthServices Plus,Inventory/Supplies,132099.74273947586,5000
+IC-202511-500,2025-11-15,logisticspro,LogisticsPro,techforge_saas,TechForge SaaS,Software Licenses,6904.97867945739,7000
+IC-202511-501,2025-11-12,dataanalytics_corp,DataAnalytics Corp,logisticspro,LogisticsPro,Management Fees,36905.7737410716,7000
+IC-202511-502,2025-11-24,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,59478.399845830216,6500
+IC-202511-503,2025-11-20,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Inventory/Supplies,78436.27527747033,5000
+IC-202511-504,2025-11-24,dataanalytics_corp,DataAnalytics Corp,industrialsupply_co,IndustrialSupply Co,Software Licenses,11376.346457460095,7000
+IC-202511-505,2025-11-25,retailco,RetailCo,dataanalytics_corp,DataAnalytics Corp,Management Fees,10627.836223851185,7000
+IC-202511-506,2025-11-08,techforge_saas,TechForge SaaS,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,87375.49846984916,6500
+IC-202511-507,2025-11-25,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Inventory/Supplies,146738.1646293588,5000
+IC-202511-508,2025-11-16,healthservices_plus,HealthServices Plus,dataanalytics_corp,DataAnalytics Corp,Software Licenses,12331.023747584524,7000
+IC-202511-509,2025-11-19,dataanalytics_corp,DataAnalytics Corp,industrialsupply_co,IndustrialSupply Co,Management Fees,17615.27145188139,7000
+IC-202511-510,2025-11-27,logisticspro,LogisticsPro,retailco,RetailCo,Shared Services,20316.79544097142,6500
+IC-202511-511,2025-11-27,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Inventory/Supplies,68969.83865063122,5000
+IC-202511-512,2025-11-16,dataanalytics_corp,DataAnalytics Corp,industrialsupply_co,IndustrialSupply Co,Software Licenses,22837.462600168197,7000
+IC-202511-513,2025-11-20,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Management Fees,46704.027850476006,7000
+IC-202511-514,2025-11-13,dataanalytics_corp,DataAnalytics Corp,healthservices_plus,HealthServices Plus,Shared Services,24068.27389086569,6500
+IC-202511-515,2025-11-23,healthservices_plus,HealthServices Plus,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,242322.55168665663,5000
+IC-202511-516,2025-11-06,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Software Licenses,13888.819153429975,7000
+IC-202511-517,2025-11-19,retailco,RetailCo,healthservices_plus,HealthServices Plus,Management Fees,39783.87903852304,7000
+IC-202511-518,2025-11-09,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,21736.00762204333,6500
+IC-202511-519,2025-11-23,techforge_saas,TechForge SaaS,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,227728.42276730345,5000
+IC-202511-520,2025-11-20,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Software Licenses,18700.121733263575,7000
+IC-202511-521,2025-11-11,dataanalytics_corp,DataAnalytics Corp,precisionmfg_inc,PrecisionMfg Inc,Management Fees,27693.41832200862,7000
+IC-202511-522,2025-11-02,logisticspro,LogisticsPro,healthservices_plus,HealthServices Plus,Shared Services,53720.89460082324,6500
+IC-202511-523,2025-11-08,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Inventory/Supplies,211152.78365866625,5000
+IC-202511-524,2025-11-11,ecopackaging_ltd,EcoPackaging Ltd,healthservices_plus,HealthServices Plus,Software Licenses,16384.604241828958,7000
+IC-202511-525,2025-11-14,healthservices_plus,HealthServices Plus,retailco,RetailCo,Management Fees,36944.3932798678,7000
+IC-202511-526,2025-11-10,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Shared Services,60297.5547671965,6500
+IC-202511-527,2025-11-14,precisionmfg_inc,PrecisionMfg Inc,healthservices_plus,HealthServices Plus,Inventory/Supplies,60739.41571986137,5000
+IC-202511-528,2025-11-24,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Software Licenses,10322.159123385984,7000
+IC-202511-529,2025-11-17,ecopackaging_ltd,EcoPackaging Ltd,logisticspro,LogisticsPro,Management Fees,37736.03413716176,7000
+IC-202511-530,2025-11-20,retailco,RetailCo,logisticspro,LogisticsPro,Shared Services,36280.88866655092,6500
+IC-202511-531,2025-11-10,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,221314.39773666713,5000
+IC-202511-532,2025-11-07,industrialsupply_co,IndustrialSupply Co,logisticspro,LogisticsPro,Software Licenses,6164.756616405504,7000
+IC-202511-533,2025-11-26,retailco,RetailCo,healthservices_plus,HealthServices Plus,Management Fees,29715.85142338411,7000
+IC-202511-534,2025-11-09,precisionmfg_inc,PrecisionMfg Inc,dataanalytics_corp,DataAnalytics Corp,Shared Services,30091.012641292167,6500
+IC-202511-535,2025-11-19,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Inventory/Supplies,107632.90457679026,5000
+IC-202511-536,2025-11-18,ecopackaging_ltd,EcoPackaging Ltd,healthservices_plus,HealthServices Plus,Software Licenses,18721.823078869736,7000
+IC-202511-537,2025-11-24,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Management Fees,31524.840401592526,7000
+IC-202511-538,2025-11-22,logisticspro,LogisticsPro,healthservices_plus,HealthServices Plus,Shared Services,61370.551360851045,6500
+IC-202511-539,2025-11-17,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Inventory/Supplies,148266.08638242618,5000
+IC-202511-540,2025-11-21,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,13874.028940593356,7000
+IC-202511-541,2025-11-04,retailco,RetailCo,logisticspro,LogisticsPro,Management Fees,34307.42564203244,7000
+IC-202511-542,2025-11-03,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Shared Services,93853.49694033434,6500
+IC-202511-543,2025-11-03,healthservices_plus,HealthServices Plus,techforge_saas,TechForge SaaS,Inventory/Supplies,95132.91661041102,5000
+IC-202511-544,2025-11-10,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,22167.388134393168,7000
+IC-202511-545,2025-11-20,healthservices_plus,HealthServices Plus,techforge_saas,TechForge SaaS,Management Fees,20014.34918283422,7000
+IC-202511-546,2025-11-20,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Shared Services,59586.07612804371,6500
+IC-202511-547,2025-11-15,ecopackaging_ltd,EcoPackaging Ltd,logisticspro,LogisticsPro,Inventory/Supplies,51699.1157214419,5000
+IC-202511-548,2025-11-06,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,16538.722466896794,7000
+IC-202511-549,2025-11-15,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Management Fees,25458.50257311741,7000
+IC-202511-550,2025-11-20,industrialsupply_co,IndustrialSupply Co,retailco,RetailCo,Shared Services,50098.35026889529,6500
+IC-202511-551,2025-11-28,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Inventory/Supplies,59829.678069035406,5000
+IC-202511-552,2025-11-12,healthservices_plus,HealthServices Plus,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,20382.154870145983,7000
+IC-202511-553,2025-11-25,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Management Fees,30931.449972009992,7000
+IC-202511-554,2025-11-16,logisticspro,LogisticsPro,industrialsupply_co,IndustrialSupply Co,Shared Services,28147.78121139062,6500
+IC-202511-555,2025-11-12,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Inventory/Supplies,84335.63900864338,5000
+IC-202511-556,2025-11-24,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Software Licenses,14128.268794248486,7000
+IC-202511-557,2025-11-16,retailco,RetailCo,dataanalytics_corp,DataAnalytics Corp,Management Fees,41765.3824692909,7000
+IC-202511-558,2025-11-25,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Shared Services,27101.861356498615,6500
+IC-202511-559,2025-11-20,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,161943.4871856627,5000
+IC-202511-560,2025-11-02,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,20853.851456987555,7000
+IC-202511-561,2025-11-17,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Management Fees,44349.79874118321,7000
+IC-202511-562,2025-11-12,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Shared Services,75530.53231809895,6500
+IC-202511-563,2025-11-20,techforge_saas,TechForge SaaS,logisticspro,LogisticsPro,Inventory/Supplies,162375.39124830262,5000
+IC-202511-564,2025-11-15,retailco,RetailCo,healthservices_plus,HealthServices Plus,Software Licenses,13128.125736019909,7000
+IC-202511-565,2025-11-19,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Management Fees,19092.882842801097,7000
+IC-202511-566,2025-11-06,logisticspro,LogisticsPro,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,38458.7672165643,6500
+IC-202511-567,2025-11-16,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,67940.18380296916,5000
+IC-202511-568,2025-11-28,dataanalytics_corp,DataAnalytics Corp,logisticspro,LogisticsPro,Software Licenses,8557.595909212572,7000
+IC-202511-569,2025-11-10,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Management Fees,35571.8189066183,7000
+IC-202511-570,2025-11-26,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Shared Services,44344.607345669145,6500
+IC-202511-571,2025-11-03,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Inventory/Supplies,170365.26972660958,5000
+IC-202511-572,2025-11-17,healthservices_plus,HealthServices Plus,retailco,RetailCo,Software Licenses,21133.71709527159,7000
+IC-202511-573,2025-11-02,logisticspro,LogisticsPro,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,49571.1978042554,7000
+IC-202511-574,2025-11-11,retailco,RetailCo,techforge_saas,TechForge SaaS,Shared Services,84407.4701439621,6500
+IC-202511-575,2025-11-18,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,249639.01089555715,5000
+IC-202511-576,2025-11-11,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Software Licenses,19789.493077682266,7000
+IC-202511-577,2025-11-06,industrialsupply_co,IndustrialSupply Co,healthservices_plus,HealthServices Plus,Management Fees,12082.89624885079,7000
+IC-202511-578,2025-11-23,logisticspro,LogisticsPro,industrialsupply_co,IndustrialSupply Co,Shared Services,84012.21187134006,6500
+IC-202511-579,2025-11-22,techforge_saas,TechForge SaaS,retailco,RetailCo,Inventory/Supplies,236308.88142130405,5000
+IC-202511-580,2025-11-19,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Software Licenses,16712.083356790143,7000
+IC-202511-581,2025-11-07,retailco,RetailCo,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,23239.677904136122,7000
+IC-202511-582,2025-11-09,ecopackaging_ltd,EcoPackaging Ltd,dataanalytics_corp,DataAnalytics Corp,Shared Services,46160.54147968817,6500
+IC-202511-583,2025-11-03,logisticspro,LogisticsPro,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,193027.35536223513,5000
+IC-202511-584,2025-11-17,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Software Licenses,10698.265051048716,7000
+IC-202511-585,2025-11-16,logisticspro,LogisticsPro,retailco,RetailCo,Management Fees,10391.175212230475,7000
+IC-202511-586,2025-11-21,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Shared Services,72748.59098230752,6500
+IC-202511-587,2025-11-20,logisticspro,LogisticsPro,healthservices_plus,HealthServices Plus,Inventory/Supplies,155878.1242695067,5000
+IC-202511-588,2025-11-22,techforge_saas,TechForge SaaS,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,14661.324903866052,7000
+IC-202511-589,2025-11-07,precisionmfg_inc,PrecisionMfg Inc,dataanalytics_corp,DataAnalytics Corp,Management Fees,25183.974257933292,7000
+IC-202511-590,2025-11-27,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,50578.98560115931,6500
+IC-202511-591,2025-11-11,techforge_saas,TechForge SaaS,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,113451.83487137352,5000
+IC-202511-592,2025-11-14,retailco,RetailCo,dataanalytics_corp,DataAnalytics Corp,Software Licenses,20265.898239945633,7000
+IC-202511-593,2025-11-28,logisticspro,LogisticsPro,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,13724.286260335602,7000
+IC-202511-594,2025-11-24,healthservices_plus,HealthServices Plus,precisionmfg_inc,PrecisionMfg Inc,Shared Services,96296.29011933663,6500
+IC-202511-595,2025-11-26,healthservices_plus,HealthServices Plus,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,165412.80904514052,5000
+IC-202511-596,2025-11-02,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Software Licenses,15173.83881458752,7000
+IC-202511-597,2025-11-14,healthservices_plus,HealthServices Plus,retailco,RetailCo,Management Fees,45096.29381580588,7000
+IC-202511-598,2025-11-08,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Shared Services,52359.28515615275,6500
+IC-202511-599,2025-11-16,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Inventory/Supplies,127436.65483118687,5000
+IC-202511-600,2025-11-22,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,15085.26921586063,7000
+IC-202511-601,2025-11-10,dataanalytics_corp,DataAnalytics Corp,precisionmfg_inc,PrecisionMfg Inc,Management Fees,39906.072982599115,7000
+IC-202511-602,2025-11-21,techforge_saas,TechForge SaaS,industrialsupply_co,IndustrialSupply Co,Shared Services,32178.257113349344,6500
+IC-202511-603,2025-11-22,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,222592.8092950951,5000
+IC-202511-604,2025-11-28,healthservices_plus,HealthServices Plus,industrialsupply_co,IndustrialSupply Co,Software Licenses,7709.890378576896,7000
+IC-202511-605,2025-11-15,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Management Fees,20911.75570799383,7000
+IC-202511-606,2025-11-16,logisticspro,LogisticsPro,industrialsupply_co,IndustrialSupply Co,Shared Services,54926.53773934596,6500
+IC-202511-607,2025-11-11,healthservices_plus,HealthServices Plus,techforge_saas,TechForge SaaS,Inventory/Supplies,174634.48490643746,5000
+IC-202511-608,2025-11-03,retailco,RetailCo,industrialsupply_co,IndustrialSupply Co,Software Licenses,14201.282334951235,7000
+IC-202511-609,2025-11-02,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Management Fees,11519.03870278426,7000
+IC-202511-610,2025-11-13,industrialsupply_co,IndustrialSupply Co,logisticspro,LogisticsPro,Shared Services,72338.39823998994,6500
+IC-202511-611,2025-11-06,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Inventory/Supplies,155609.48980075985,5000
+IC-202511-612,2025-11-24,healthservices_plus,HealthServices Plus,industrialsupply_co,IndustrialSupply Co,Software Licenses,5215.96784779024,7000
+IC-202511-613,2025-11-19,techforge_saas,TechForge SaaS,industrialsupply_co,IndustrialSupply Co,Management Fees,13297.33088075963,7000
+IC-202511-614,2025-11-10,techforge_saas,TechForge SaaS,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,58915.39097134996,6500
+IC-202511-615,2025-11-04,healthservices_plus,HealthServices Plus,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,102963.26435566376,5000
+IC-202511-616,2025-11-16,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,22804.41341109112,7000
+IC-202511-617,2025-11-10,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Management Fees,39195.56470814391,7000
+IC-202511-618,2025-11-22,techforge_saas,TechForge SaaS,industrialsupply_co,IndustrialSupply Co,Shared Services,92396.95041359312,6500
+IC-202511-619,2025-11-14,healthservices_plus,HealthServices Plus,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,114941.0668516528,5000
+IC-202511-620,2025-11-09,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Software Licenses,10095.3517265724,7000
+IC-202511-621,2025-11-16,healthservices_plus,HealthServices Plus,dataanalytics_corp,DataAnalytics Corp,Management Fees,42390.81615589049,7000
+IC-202511-622,2025-11-06,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Shared Services,26619.064278965725,6500
+IC-202511-623,2025-11-10,techforge_saas,TechForge SaaS,logisticspro,LogisticsPro,Inventory/Supplies,64251.666529645576,5000
+IC-202511-624,2025-11-14,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,13773.694057995872,7000
+IC-202511-625,2025-11-08,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Management Fees,32779.06058652043,7000
+IC-202511-626,2025-11-15,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,33166.25157708023,6500
+IC-202511-627,2025-11-25,logisticspro,LogisticsPro,techforge_saas,TechForge SaaS,Inventory/Supplies,222554.15549184513,5000
+IC-202511-628,2025-11-16,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,6010.149416645642,7000
+IC-202511-629,2025-11-06,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,42680.01933990522,7000
+IC-202511-630,2025-11-17,techforge_saas,TechForge SaaS,logisticspro,LogisticsPro,Shared Services,97113.28096585507,6500
+IC-202511-631,2025-11-02,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Inventory/Supplies,60091.114124024745,5000
+IC-202511-632,2025-11-02,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Software Licenses,15948.128120024505,7000
+IC-202511-633,2025-11-15,logisticspro,LogisticsPro,healthservices_plus,HealthServices Plus,Management Fees,29498.71341855896,7000
+IC-202511-634,2025-11-11,retailco,RetailCo,dataanalytics_corp,DataAnalytics Corp,Shared Services,58401.48078756967,6500
+IC-202511-635,2025-11-23,industrialsupply_co,IndustrialSupply Co,logisticspro,LogisticsPro,Inventory/Supplies,138547.18554129166,5000
+IC-202511-636,2025-11-28,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Software Licenses,19763.01509683379,7000
+IC-202511-637,2025-11-21,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,13228.338167759439,7000
+IC-202511-638,2025-11-07,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Shared Services,53986.28265415204,6500
+IC-202511-639,2025-11-05,healthservices_plus,HealthServices Plus,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,158892.26642983372,5000
+IC-202511-640,2025-11-06,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Software Licenses,15812.21988649458,7000
+IC-202511-641,2025-11-09,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Management Fees,30586.780962073102,7000
+IC-202511-642,2025-11-20,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,49021.37065099807,6500
+IC-202511-643,2025-11-02,healthservices_plus,HealthServices Plus,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,68947.78295586884,5000
+IC-202511-644,2025-11-19,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,9998.034432737797,7000
+IC-202511-645,2025-11-05,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Management Fees,29827.630809148555,7000
+IC-202511-646,2025-11-11,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Shared Services,89116.38576076085,6500
+IC-202511-647,2025-11-16,retailco,RetailCo,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,70123.99544451802,5000
+IC-202511-648,2025-11-26,healthservices_plus,HealthServices Plus,industrialsupply_co,IndustrialSupply Co,Software Licenses,9214.133301498125,7000
+IC-202511-649,2025-11-24,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Management Fees,28028.242330015426,7000
+IC-202511-650,2025-11-10,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Shared Services,54971.84840360277,6500
+IC-202511-651,2025-11-15,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,123455.54025614185,5000
+IC-202511-652,2025-11-17,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Software Licenses,5767.277227114023,7000
+IC-202511-653,2025-11-03,healthservices_plus,HealthServices Plus,retailco,RetailCo,Management Fees,10510.617060715895,7000
+IC-202511-654,2025-11-08,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Shared Services,85051.99906910514,6500
+IC-202511-655,2025-11-18,healthservices_plus,HealthServices Plus,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,170717.15753164113,5000
+IC-202511-656,2025-11-08,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Software Licenses,18629.20230850544,7000
+IC-202511-657,2025-11-21,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Management Fees,10902.743328095083,7000
+IC-202511-658,2025-11-15,dataanalytics_corp,DataAnalytics Corp,logisticspro,LogisticsPro,Shared Services,60464.73780738638,6500
+IC-202511-659,2025-11-23,healthservices_plus,HealthServices Plus,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,126832.1515906925,5000
+IC-202511-660,2025-11-11,ecopackaging_ltd,EcoPackaging Ltd,dataanalytics_corp,DataAnalytics Corp,Software Licenses,16818.321856544535,7000
+IC-202511-661,2025-11-25,retailco,RetailCo,dataanalytics_corp,DataAnalytics Corp,Management Fees,47672.66000200623,7000
+IC-202511-662,2025-11-04,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Shared Services,62286.73611499539,6500
+IC-202511-663,2025-11-21,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,196630.60462131706,5000
+IC-202511-664,2025-11-17,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Software Licenses,19109.933038692478,7000
+IC-202511-665,2025-11-28,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,31382.181790241564,7000
+IC-202511-666,2025-11-09,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Shared Services,99806.6074356778,6500
+IC-202511-667,2025-11-26,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Inventory/Supplies,112508.73044734444,5000
+IC-202511-668,2025-11-17,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Software Licenses,14457.586444210901,7000
+IC-202511-669,2025-11-02,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Management Fees,17579.60583598417,7000
+IC-202511-670,2025-11-03,retailco,RetailCo,dataanalytics_corp,DataAnalytics Corp,Shared Services,80053.5211425324,6500
+IC-202511-671,2025-11-14,techforge_saas,TechForge SaaS,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,161401.36126262572,5000
+IC-202511-672,2025-11-25,healthservices_plus,HealthServices Plus,retailco,RetailCo,Software Licenses,18708.81044742583,7000
+IC-202511-673,2025-11-28,ecopackaging_ltd,EcoPackaging Ltd,healthservices_plus,HealthServices Plus,Management Fees,40132.51727517028,7000
+IC-202511-674,2025-11-06,retailco,RetailCo,healthservices_plus,HealthServices Plus,Shared Services,22515.676404715803,6500
+IC-202511-675,2025-11-06,techforge_saas,TechForge SaaS,healthservices_plus,HealthServices Plus,Inventory/Supplies,165575.41628818182,5000
+IC-202511-676,2025-11-18,precisionmfg_inc,PrecisionMfg Inc,dataanalytics_corp,DataAnalytics Corp,Software Licenses,19944.492901771737,7000
+IC-202511-677,2025-11-20,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Management Fees,20266.467595836577,7000
+IC-202511-678,2025-11-08,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Shared Services,22683.669712972624,6500
+IC-202511-679,2025-11-23,logisticspro,LogisticsPro,techforge_saas,TechForge SaaS,Inventory/Supplies,123350.41528518802,5000
+IC-202511-680,2025-11-09,techforge_saas,TechForge SaaS,industrialsupply_co,IndustrialSupply Co,Software Licenses,23616.65728351615,7000
+IC-202511-681,2025-11-23,techforge_saas,TechForge SaaS,retailco,RetailCo,Management Fees,26862.16992872137,7000
+IC-202511-682,2025-11-25,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,61315.54735222572,6500
+IC-202511-683,2025-11-11,techforge_saas,TechForge SaaS,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,59286.731096562464,5000
+IC-202511-684,2025-11-19,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Software Licenses,10240.700090137492,7000
+IC-202511-685,2025-11-20,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Management Fees,44667.6539359758,7000
+IC-202511-686,2025-11-08,healthservices_plus,HealthServices Plus,retailco,RetailCo,Shared Services,46737.22698080917,6500
+IC-202511-687,2025-11-15,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,52602.04268517454,5000
+IC-202511-688,2025-11-28,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,17071.624942461254,7000
+IC-202511-689,2025-11-06,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Management Fees,37236.68850469006,7000
+IC-202511-690,2025-11-26,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Shared Services,88365.49312261127,6500
+IC-202511-691,2025-11-12,logisticspro,LogisticsPro,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,100698.75065143808,5000
+IC-202511-692,2025-11-13,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Software Licenses,23881.89571860729,7000
+IC-202511-693,2025-11-23,industrialsupply_co,IndustrialSupply Co,logisticspro,LogisticsPro,Management Fees,11430.64972059741,7000
+IC-202511-694,2025-11-20,logisticspro,LogisticsPro,healthservices_plus,HealthServices Plus,Shared Services,30539.503970557133,6500
+IC-202511-695,2025-11-03,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Inventory/Supplies,109150.56692406588,5000
+IC-202511-696,2025-11-07,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Software Licenses,17545.168012719565,7000
+IC-202511-697,2025-11-04,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Management Fees,10338.059842498422,7000
+IC-202511-698,2025-11-25,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Shared Services,53279.168638019335,6500
+IC-202511-699,2025-11-28,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Inventory/Supplies,164242.78192295952,5000
+IC-202511-700,2025-11-04,techforge_saas,TechForge SaaS,industrialsupply_co,IndustrialSupply Co,Software Licenses,13308.780325193216,7000
+IC-202511-701,2025-11-24,ecopackaging_ltd,EcoPackaging Ltd,dataanalytics_corp,DataAnalytics Corp,Management Fees,29145.794822020995,7000
+IC-202511-702,2025-11-14,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Shared Services,68722.31557655326,6500
+IC-202511-703,2025-11-19,dataanalytics_corp,DataAnalytics Corp,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,112821.96381787414,5000
+IC-202511-704,2025-11-14,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,7437.78424160718,7000
+IC-202511-705,2025-11-15,healthservices_plus,HealthServices Plus,retailco,RetailCo,Management Fees,16556.810481877794,7000
+IC-202511-706,2025-11-17,healthservices_plus,HealthServices Plus,techforge_saas,TechForge SaaS,Shared Services,75463.79748411936,6500
+IC-202511-707,2025-11-13,logisticspro,LogisticsPro,techforge_saas,TechForge SaaS,Inventory/Supplies,246381.06445738857,5000
+IC-202511-708,2025-11-27,techforge_saas,TechForge SaaS,healthservices_plus,HealthServices Plus,Software Licenses,5378.552810229269,7000
+IC-202511-709,2025-11-04,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,10734.866181524176,7000
+IC-202511-710,2025-11-23,logisticspro,LogisticsPro,industrialsupply_co,IndustrialSupply Co,Shared Services,83375.1950620196,6500
+IC-202511-711,2025-11-21,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,141065.74996172043,5000
+IC-202511-712,2025-11-14,logisticspro,LogisticsPro,healthservices_plus,HealthServices Plus,Software Licenses,20130.771669906135,7000
+IC-202511-713,2025-11-09,healthservices_plus,HealthServices Plus,industrialsupply_co,IndustrialSupply Co,Management Fees,43721.47787710813,7000
+IC-202511-714,2025-11-21,retailco,RetailCo,logisticspro,LogisticsPro,Shared Services,87344.69672230551,6500
+IC-202511-715,2025-11-11,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,120695.49502567576,5000
+IC-202511-716,2025-11-02,industrialsupply_co,IndustrialSupply Co,healthservices_plus,HealthServices Plus,Software Licenses,6055.1322966418165,7000
+IC-202511-717,2025-11-13,techforge_saas,TechForge SaaS,logisticspro,LogisticsPro,Management Fees,39765.06742857481,7000
+IC-202511-718,2025-11-09,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Shared Services,72198.77827249261,6500
+IC-202511-719,2025-11-10,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,83951.69964142717,5000
+IC-202511-720,2025-11-24,dataanalytics_corp,DataAnalytics Corp,logisticspro,LogisticsPro,Software Licenses,18717.525501729295,7000
+IC-202511-721,2025-11-10,ecopackaging_ltd,EcoPackaging Ltd,logisticspro,LogisticsPro,Management Fees,24789.51243490755,7000
+IC-202511-722,2025-11-14,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Shared Services,88030.15354397644,6500
+IC-202511-723,2025-11-02,retailco,RetailCo,techforge_saas,TechForge SaaS,Inventory/Supplies,131845.0960383592,5000
+IC-202511-724,2025-11-27,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Software Licenses,8970.857177364032,7000
+IC-202511-725,2025-11-20,techforge_saas,TechForge SaaS,retailco,RetailCo,Management Fees,22208.581205154365,7000
+IC-202511-726,2025-11-05,logisticspro,LogisticsPro,industrialsupply_co,IndustrialSupply Co,Shared Services,99147.2510271699,6500
+IC-202511-727,2025-11-06,healthservices_plus,HealthServices Plus,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,205674.38090909825,5000
+IC-202511-728,2025-11-20,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,13309.867933918287,7000
+IC-202511-729,2025-11-20,healthservices_plus,HealthServices Plus,retailco,RetailCo,Management Fees,22148.954065273032,7000
+IC-202511-730,2025-11-28,techforge_saas,TechForge SaaS,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,89594.36499175949,6500
+IC-202511-731,2025-11-04,industrialsupply_co,IndustrialSupply Co,healthservices_plus,HealthServices Plus,Inventory/Supplies,53900.52952210404,5000
+IC-202511-732,2025-11-09,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Software Licenses,10763.042715548061,7000
+IC-202511-733,2025-11-25,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Management Fees,10271.52696094359,7000
+IC-202511-734,2025-11-27,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Shared Services,89871.31663273755,6500
+IC-202511-735,2025-11-06,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,237389.85078173908,5000
+IC-202511-736,2025-11-13,healthservices_plus,HealthServices Plus,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,23530.95561501951,7000
+IC-202511-737,2025-11-14,ecopackaging_ltd,EcoPackaging Ltd,dataanalytics_corp,DataAnalytics Corp,Management Fees,39064.17749327476,7000
+IC-202511-738,2025-11-25,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Shared Services,80916.70667489269,6500
+IC-202511-739,2025-11-19,healthservices_plus,HealthServices Plus,retailco,RetailCo,Inventory/Supplies,208540.68115615027,5000
+IC-202511-740,2025-11-04,ecopackaging_ltd,EcoPackaging Ltd,dataanalytics_corp,DataAnalytics Corp,Software Licenses,18356.12439973234,7000
+IC-202511-741,2025-11-18,techforge_saas,TechForge SaaS,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,18169.544822794574,7000
+IC-202511-742,2025-11-11,retailco,RetailCo,industrialsupply_co,IndustrialSupply Co,Shared Services,92120.44955610426,6500
+IC-202511-743,2025-11-10,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Inventory/Supplies,148950.8480871407,5000
+IC-202511-744,2025-11-07,dataanalytics_corp,DataAnalytics Corp,industrialsupply_co,IndustrialSupply Co,Software Licenses,19458.613444772072,7000
+IC-202511-745,2025-11-05,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,36891.1531789632,7000
+IC-202511-746,2025-11-11,retailco,RetailCo,techforge_saas,TechForge SaaS,Shared Services,75861.80748244372,6500
+IC-202511-747,2025-11-24,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,201660.5234421037,5000
+IC-202511-748,2025-11-27,healthservices_plus,HealthServices Plus,dataanalytics_corp,DataAnalytics Corp,Software Licenses,6573.241166285173,7000
+IC-202511-749,2025-11-22,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Management Fees,23643.77266349607,7000
+IC-202511-750,2025-11-19,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Shared Services,69555.60590545226,6500
+IC-202511-751,2025-11-24,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,160897.82286423416,5000
+IC-202511-752,2025-11-18,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,22048.777712837462,7000
+IC-202511-753,2025-11-21,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Management Fees,12067.427196445273,7000
+IC-202511-754,2025-11-02,techforge_saas,TechForge SaaS,retailco,RetailCo,Shared Services,83189.1696828431,6500
+IC-202511-755,2025-11-08,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,105469.35234492585,5000
+IC-202511-756,2025-11-14,industrialsupply_co,IndustrialSupply Co,healthservices_plus,HealthServices Plus,Software Licenses,24510.546580418035,7000
+IC-202511-757,2025-11-28,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,38626.506082892454,7000
+IC-202511-758,2025-11-08,retailco,RetailCo,techforge_saas,TechForge SaaS,Shared Services,63070.73495171466,6500
+IC-202511-759,2025-11-27,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Inventory/Supplies,204482.19992545684,5000
+IC-202511-760,2025-11-07,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Software Licenses,23157.453538704813,7000
+IC-202511-761,2025-11-09,dataanalytics_corp,DataAnalytics Corp,industrialsupply_co,IndustrialSupply Co,Management Fees,22345.305940958027,7000
+IC-202511-762,2025-11-26,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,25745.166701113256,6500
+IC-202511-763,2025-11-18,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Inventory/Supplies,105693.0581830692,5000
+IC-202511-764,2025-11-14,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Software Licenses,19857.976281968637,7000
+IC-202511-765,2025-11-02,logisticspro,LogisticsPro,healthservices_plus,HealthServices Plus,Management Fees,27471.086772932787,7000
+IC-202511-766,2025-11-23,dataanalytics_corp,DataAnalytics Corp,logisticspro,LogisticsPro,Shared Services,61805.825620944765,6500
+IC-202511-767,2025-11-15,dataanalytics_corp,DataAnalytics Corp,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,68296.59158592942,5000
+IC-202511-768,2025-11-25,retailco,RetailCo,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,11661.742626769541,7000
+IC-202511-769,2025-11-07,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,34348.917687128655,7000
+IC-202511-770,2025-11-06,industrialsupply_co,IndustrialSupply Co,retailco,RetailCo,Shared Services,72134.38359027416,6500
+IC-202511-771,2025-11-06,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,147826.80634318144,5000
+IC-202511-772,2025-11-22,logisticspro,LogisticsPro,retailco,RetailCo,Software Licenses,23191.10856874405,7000
+IC-202511-773,2025-11-13,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Management Fees,22955.822103215167,7000
+IC-202511-774,2025-11-13,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Shared Services,84243.64197407039,6500
+IC-202511-775,2025-11-05,healthservices_plus,HealthServices Plus,techforge_saas,TechForge SaaS,Inventory/Supplies,185910.3673145368,5000
+IC-202511-776,2025-11-11,precisionmfg_inc,PrecisionMfg Inc,healthservices_plus,HealthServices Plus,Software Licenses,15840.66690194404,7000
+IC-202511-777,2025-11-04,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Management Fees,25726.817382570567,7000
+IC-202511-778,2025-11-10,healthservices_plus,HealthServices Plus,dataanalytics_corp,DataAnalytics Corp,Shared Services,24923.44273078695,6500
+IC-202511-779,2025-11-04,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Inventory/Supplies,157583.90526584862,5000
+IC-202511-780,2025-11-27,precisionmfg_inc,PrecisionMfg Inc,dataanalytics_corp,DataAnalytics Corp,Software Licenses,18107.663989269065,7000
+IC-202511-781,2025-11-10,retailco,RetailCo,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,35225.44762118602,7000
+IC-202511-782,2025-11-16,healthservices_plus,HealthServices Plus,retailco,RetailCo,Shared Services,51558.77050780042,6500
+IC-202511-783,2025-11-26,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,54080.32213764127,5000
+IC-202511-784,2025-11-20,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Software Licenses,16114.09720783892,7000
+IC-202511-785,2025-11-06,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Management Fees,21017.867191620364,7000
+IC-202511-786,2025-11-26,logisticspro,LogisticsPro,retailco,RetailCo,Shared Services,96858.24705825944,6500
+IC-202511-787,2025-11-20,retailco,RetailCo,techforge_saas,TechForge SaaS,Inventory/Supplies,51639.664226192435,5000
+IC-202511-788,2025-11-16,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Software Licenses,9421.577473868838,7000
+IC-202511-789,2025-11-24,techforge_saas,TechForge SaaS,industrialsupply_co,IndustrialSupply Co,Management Fees,29988.226933386213,7000
+IC-202511-790,2025-11-06,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Shared Services,66838.87506520285,6500
+IC-202511-791,2025-11-08,retailco,RetailCo,logisticspro,LogisticsPro,Inventory/Supplies,51184.813090800475,5000
+IC-202511-792,2025-11-14,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,19964.14236790255,7000
+IC-202511-793,2025-11-20,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Management Fees,30243.323829620436,7000
+IC-202511-794,2025-11-02,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Shared Services,45060.05923910576,6500
+IC-202511-795,2025-11-09,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Inventory/Supplies,106820.82984548659,5000
+IC-202511-796,2025-11-16,logisticspro,LogisticsPro,retailco,RetailCo,Software Licenses,13375.1798096531,7000
+IC-202511-797,2025-11-13,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,40426.45368094426,7000
+IC-202511-798,2025-11-08,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,50804.05433628934,6500
+IC-202511-799,2025-11-15,ecopackaging_ltd,EcoPackaging Ltd,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,208392.20289334314,5000
+IC-202511-800,2025-11-15,dataanalytics_corp,DataAnalytics Corp,industrialsupply_co,IndustrialSupply Co,Software Licenses,7221.266065633094,7000
+IC-202511-801,2025-11-04,retailco,RetailCo,techforge_saas,TechForge SaaS,Management Fees,36354.21616907368,7000
+IC-202511-802,2025-11-03,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,77330.55493616252,6500
+IC-202511-803,2025-11-15,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Inventory/Supplies,146157.23363594548,5000
+IC-202511-804,2025-11-13,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Software Licenses,5730.407587627477,7000
+IC-202511-805,2025-11-07,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Management Fees,22561.760120705767,7000
+IC-202511-806,2025-11-13,techforge_saas,TechForge SaaS,logisticspro,LogisticsPro,Shared Services,51316.34166355769,6500
+IC-202511-807,2025-11-10,logisticspro,LogisticsPro,healthservices_plus,HealthServices Plus,Inventory/Supplies,209654.5993092611,5000
+IC-202511-808,2025-11-26,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Software Licenses,15240.362533509382,7000
+IC-202511-809,2025-11-24,retailco,RetailCo,healthservices_plus,HealthServices Plus,Management Fees,11159.86977343792,7000
+IC-202511-810,2025-11-15,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,88880.70570464109,6500
+IC-202511-811,2025-11-08,precisionmfg_inc,PrecisionMfg Inc,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,94851.67663024634,5000
+IC-202511-812,2025-11-26,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Software Licenses,23664.501226382567,7000
+IC-202511-813,2025-11-03,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Management Fees,37924.67696334094,7000
+IC-202511-814,2025-11-03,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Shared Services,95378.6975592933,6500
+IC-202511-815,2025-11-07,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Inventory/Supplies,187474.88353955952,5000
+IC-202511-816,2025-11-13,retailco,RetailCo,techforge_saas,TechForge SaaS,Software Licenses,19699.65943259791,7000
+IC-202511-817,2025-11-12,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Management Fees,38859.5669252669,7000
+IC-202511-818,2025-11-09,techforge_saas,TechForge SaaS,industrialsupply_co,IndustrialSupply Co,Shared Services,71484.1698389934,6500
+IC-202511-819,2025-11-06,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Inventory/Supplies,103231.6772102353,5000
+IC-202511-820,2025-11-05,retailco,RetailCo,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,20469.48035645536,7000
+IC-202511-821,2025-11-27,techforge_saas,TechForge SaaS,retailco,RetailCo,Management Fees,44126.9191458689,7000
+IC-202511-822,2025-11-16,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Shared Services,65707.16227624618,6500
+IC-202511-823,2025-11-14,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Inventory/Supplies,187474.49315156133,5000
+IC-202511-824,2025-11-22,industrialsupply_co,IndustrialSupply Co,logisticspro,LogisticsPro,Software Licenses,18764.66554671299,7000
+IC-202511-825,2025-11-18,healthservices_plus,HealthServices Plus,precisionmfg_inc,PrecisionMfg Inc,Management Fees,29062.71774320074,7000
+IC-202511-826,2025-11-18,retailco,RetailCo,dataanalytics_corp,DataAnalytics Corp,Shared Services,77992.82174688675,6500
+IC-202511-827,2025-11-02,precisionmfg_inc,PrecisionMfg Inc,logisticspro,LogisticsPro,Inventory/Supplies,123391.56636339905,5000
+IC-202511-828,2025-11-20,ecopackaging_ltd,EcoPackaging Ltd,healthservices_plus,HealthServices Plus,Software Licenses,10451.154976308011,7000
+IC-202511-829,2025-11-08,logisticspro,LogisticsPro,techforge_saas,TechForge SaaS,Management Fees,25278.320761810755,7000
+IC-202511-830,2025-11-23,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Shared Services,61645.64354393387,6500
+IC-202511-831,2025-11-23,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Inventory/Supplies,133410.64074058412,5000
+IC-202511-832,2025-11-09,techforge_saas,TechForge SaaS,retailco,RetailCo,Software Licenses,21795.29448077206,7000
+IC-202511-833,2025-11-17,retailco,RetailCo,industrialsupply_co,IndustrialSupply Co,Management Fees,18804.393200766543,7000
+IC-202511-834,2025-11-06,retailco,RetailCo,healthservices_plus,HealthServices Plus,Shared Services,30544.829879796733,6500
+IC-202511-835,2025-11-19,logisticspro,LogisticsPro,techforge_saas,TechForge SaaS,Inventory/Supplies,117593.99584809576,5000
+IC-202511-836,2025-11-19,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,12577.741806652106,7000
+IC-202511-837,2025-11-04,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Management Fees,42572.039346863516,7000
+IC-202511-838,2025-11-13,logisticspro,LogisticsPro,retailco,RetailCo,Shared Services,37811.93881814283,6500
+IC-202511-839,2025-11-18,logisticspro,LogisticsPro,healthservices_plus,HealthServices Plus,Inventory/Supplies,222430.59165862435,5000
+IC-202511-840,2025-11-06,industrialsupply_co,IndustrialSupply Co,healthservices_plus,HealthServices Plus,Software Licenses,9892.325481045322,7000
+IC-202511-841,2025-11-19,techforge_saas,TechForge SaaS,retailco,RetailCo,Management Fees,32088.891206953864,7000
+IC-202511-842,2025-11-10,retailco,RetailCo,dataanalytics_corp,DataAnalytics Corp,Shared Services,78713.62962301605,6500
+IC-202511-843,2025-11-12,healthservices_plus,HealthServices Plus,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,149215.09570010623,5000
+IC-202511-844,2025-11-04,retailco,RetailCo,dataanalytics_corp,DataAnalytics Corp,Software Licenses,12371.249380554276,7000
+IC-202511-845,2025-11-12,dataanalytics_corp,DataAnalytics Corp,healthservices_plus,HealthServices Plus,Management Fees,21425.063987343085,7000
+IC-202511-846,2025-11-10,dataanalytics_corp,DataAnalytics Corp,industrialsupply_co,IndustrialSupply Co,Shared Services,65050.12751136375,6500
+IC-202511-847,2025-11-16,healthservices_plus,HealthServices Plus,retailco,RetailCo,Inventory/Supplies,240784.16076934442,5000
+IC-202511-848,2025-11-15,retailco,RetailCo,logisticspro,LogisticsPro,Software Licenses,8060.851943276426,7000
+IC-202511-849,2025-11-06,logisticspro,LogisticsPro,dataanalytics_corp,DataAnalytics Corp,Management Fees,30044.788033013927,7000
+IC-202511-850,2025-11-09,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Shared Services,46353.33258995543,6500
+IC-202511-851,2025-11-07,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,235473.28189231068,5000
+IC-202511-852,2025-11-12,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Software Licenses,19689.740806448073,7000
+IC-202511-853,2025-11-22,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Management Fees,26579.239170174395,7000
+IC-202511-854,2025-11-16,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Shared Services,86608.72104307084,6500
+IC-202511-855,2025-11-28,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Inventory/Supplies,100960.6532063391,5000
+IC-202511-856,2025-11-17,dataanalytics_corp,DataAnalytics Corp,healthservices_plus,HealthServices Plus,Software Licenses,15437.689238549565,7000
+IC-202511-857,2025-11-26,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Management Fees,49866.90434211168,7000
+IC-202511-858,2025-11-15,logisticspro,LogisticsPro,retailco,RetailCo,Shared Services,52328.78781943657,6500
+IC-202511-859,2025-11-05,industrialsupply_co,IndustrialSupply Co,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,210283.36218172542,5000
+IC-202511-860,2025-11-23,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,14870.616604652418,7000
+IC-202511-861,2025-11-12,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Management Fees,38510.87174067618,7000
+IC-202511-862,2025-11-28,healthservices_plus,HealthServices Plus,precisionmfg_inc,PrecisionMfg Inc,Shared Services,90773.998796268,6500
+IC-202511-863,2025-11-28,dataanalytics_corp,DataAnalytics Corp,healthservices_plus,HealthServices Plus,Inventory/Supplies,125422.3969068889,5000
+IC-202511-864,2025-11-26,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,15830.125642449757,7000
+IC-202511-865,2025-11-24,industrialsupply_co,IndustrialSupply Co,healthservices_plus,HealthServices Plus,Management Fees,36047.90848381385,7000
+IC-202511-866,2025-11-08,retailco,RetailCo,industrialsupply_co,IndustrialSupply Co,Shared Services,34368.69910618423,6500
+IC-202511-867,2025-11-17,dataanalytics_corp,DataAnalytics Corp,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,208270.54473046688,5000
+IC-202511-868,2025-11-18,techforge_saas,TechForge SaaS,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,6134.399071034757,7000
+IC-202511-869,2025-11-08,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Management Fees,45063.924753400745,7000
+IC-202511-870,2025-11-18,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Shared Services,50242.484978655615,6500
+IC-202511-871,2025-11-18,logisticspro,LogisticsPro,techforge_saas,TechForge SaaS,Inventory/Supplies,83426.86297386144,5000
+IC-202511-872,2025-11-14,retailco,RetailCo,industrialsupply_co,IndustrialSupply Co,Software Licenses,22931.43049938555,7000
+IC-202511-873,2025-11-22,healthservices_plus,HealthServices Plus,dataanalytics_corp,DataAnalytics Corp,Management Fees,31963.328902748915,7000
+IC-202511-874,2025-11-12,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Shared Services,85831.04546348016,6500
+IC-202511-875,2025-11-24,dataanalytics_corp,DataAnalytics Corp,retailco,RetailCo,Inventory/Supplies,70896.47906156693,5000
+IC-202511-876,2025-11-23,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Software Licenses,17524.89645526066,7000
+IC-202511-877,2025-11-27,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Management Fees,43007.717392227605,7000
+IC-202511-878,2025-11-14,industrialsupply_co,IndustrialSupply Co,retailco,RetailCo,Shared Services,77245.02618657859,6500
+IC-202511-879,2025-11-14,healthservices_plus,HealthServices Plus,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,226050.35465633744,5000
+IC-202511-880,2025-11-21,logisticspro,LogisticsPro,industrialsupply_co,IndustrialSupply Co,Software Licenses,5054.024336683269,7000
+IC-202511-881,2025-11-07,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Management Fees,16773.27429627766,7000
+IC-202511-882,2025-11-07,ecopackaging_ltd,EcoPackaging Ltd,dataanalytics_corp,DataAnalytics Corp,Shared Services,64547.553050765004,6500
+IC-202511-883,2025-11-18,retailco,RetailCo,healthservices_plus,HealthServices Plus,Inventory/Supplies,156462.05267598212,5000
+IC-202511-884,2025-11-16,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Software Licenses,14812.949986814536,7000
+IC-202511-885,2025-11-27,ecopackaging_ltd,EcoPackaging Ltd,healthservices_plus,HealthServices Plus,Management Fees,49157.185880679615,7000
+IC-202511-886,2025-11-17,techforge_saas,TechForge SaaS,precisionmfg_inc,PrecisionMfg Inc,Shared Services,68329.24999847596,6500
+IC-202511-887,2025-11-24,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Inventory/Supplies,58818.44327950643,5000
+IC-202511-888,2025-11-06,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Software Licenses,23650.8625217196,7000
+IC-202511-889,2025-11-13,retailco,RetailCo,dataanalytics_corp,DataAnalytics Corp,Management Fees,41451.715703851114,7000
+IC-202511-890,2025-11-02,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Shared Services,87460.96342574114,6500
+IC-202511-891,2025-11-22,logisticspro,LogisticsPro,healthservices_plus,HealthServices Plus,Inventory/Supplies,100453.81792016918,5000
+IC-202511-892,2025-11-23,precisionmfg_inc,PrecisionMfg Inc,healthservices_plus,HealthServices Plus,Software Licenses,13131.356158109818,7000
+IC-202511-893,2025-11-22,techforge_saas,TechForge SaaS,retailco,RetailCo,Management Fees,39074.54264071226,7000
+IC-202511-894,2025-11-06,ecopackaging_ltd,EcoPackaging Ltd,dataanalytics_corp,DataAnalytics Corp,Shared Services,33675.59148540686,6500
+IC-202511-895,2025-11-12,logisticspro,LogisticsPro,techforge_saas,TechForge SaaS,Inventory/Supplies,99254.14682063465,5000
+IC-202511-896,2025-11-16,healthservices_plus,HealthServices Plus,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,13843.122762256235,7000
+IC-202511-897,2025-11-20,precisionmfg_inc,PrecisionMfg Inc,dataanalytics_corp,DataAnalytics Corp,Management Fees,33814.228900412476,7000
+IC-202511-898,2025-11-09,dataanalytics_corp,DataAnalytics Corp,healthservices_plus,HealthServices Plus,Shared Services,84064.75957414659,6500
+IC-202511-899,2025-11-22,industrialsupply_co,IndustrialSupply Co,healthservices_plus,HealthServices Plus,Inventory/Supplies,216596.41493968753,5000
+IC-202511-900,2025-11-27,retailco,RetailCo,industrialsupply_co,IndustrialSupply Co,Software Licenses,8911.412942030462,7000
+IC-202511-901,2025-11-14,healthservices_plus,HealthServices Plus,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,20502.009200800007,7000
+IC-202511-902,2025-11-22,logisticspro,LogisticsPro,dataanalytics_corp,DataAnalytics Corp,Shared Services,75845.94707829191,6500
+IC-202511-903,2025-11-14,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Inventory/Supplies,112605.07094031626,5000
+IC-202511-904,2025-11-14,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Software Licenses,13773.10762700749,7000
+IC-202511-905,2025-11-02,healthservices_plus,HealthServices Plus,techforge_saas,TechForge SaaS,Management Fees,19237.66658394978,7000
+IC-202511-906,2025-11-11,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Shared Services,33808.72903218196,6500
+IC-202511-907,2025-11-22,healthservices_plus,HealthServices Plus,retailco,RetailCo,Inventory/Supplies,146142.8112968712,5000
+IC-202511-908,2025-11-27,industrialsupply_co,IndustrialSupply Co,logisticspro,LogisticsPro,Software Licenses,7765.510553556172,7000
+IC-202511-909,2025-11-17,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Management Fees,43680.96872259803,7000
+IC-202511-910,2025-11-22,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Shared Services,54015.150685892666,6500
+IC-202511-911,2025-11-05,healthservices_plus,HealthServices Plus,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,148371.3742786295,5000
+IC-202511-912,2025-11-13,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,7937.931377555585,7000
+IC-202511-913,2025-11-12,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Management Fees,40435.65891844961,7000
+IC-202511-914,2025-11-28,ecopackaging_ltd,EcoPackaging Ltd,dataanalytics_corp,DataAnalytics Corp,Shared Services,63001.84801624388,6500
+IC-202511-915,2025-11-28,industrialsupply_co,IndustrialSupply Co,retailco,RetailCo,Inventory/Supplies,203679.98578975597,5000
+IC-202511-916,2025-11-02,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,16462.98495962491,7000
+IC-202511-917,2025-11-26,industrialsupply_co,IndustrialSupply Co,precisionmfg_inc,PrecisionMfg Inc,Management Fees,41046.85968160895,7000
+IC-202511-918,2025-11-11,dataanalytics_corp,DataAnalytics Corp,techforge_saas,TechForge SaaS,Shared Services,72910.56622759912,6500
+IC-202511-919,2025-11-23,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,194310.77651869223,5000
+IC-202511-920,2025-11-16,techforge_saas,TechForge SaaS,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,5242.495001754896,7000
+IC-202511-921,2025-11-17,retailco,RetailCo,industrialsupply_co,IndustrialSupply Co,Management Fees,12000.890676662315,7000
+IC-202511-922,2025-11-20,logisticspro,LogisticsPro,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,52544.74330854796,6500
+IC-202511-923,2025-11-03,retailco,RetailCo,logisticspro,LogisticsPro,Inventory/Supplies,239917.353512917,5000
+IC-202511-924,2025-11-06,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Software Licenses,19567.72372201465,7000
+IC-202511-925,2025-11-14,techforge_saas,TechForge SaaS,precisionmfg_inc,PrecisionMfg Inc,Management Fees,18210.87763215207,7000
+IC-202511-926,2025-11-06,industrialsupply_co,IndustrialSupply Co,logisticspro,LogisticsPro,Shared Services,53830.117477342304,6500
+IC-202511-927,2025-11-28,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Inventory/Supplies,90070.17028968118,5000
+IC-202511-928,2025-11-15,industrialsupply_co,IndustrialSupply Co,retailco,RetailCo,Software Licenses,13286.166246683462,7000
+IC-202511-929,2025-11-25,ecopackaging_ltd,EcoPackaging Ltd,dataanalytics_corp,DataAnalytics Corp,Management Fees,43798.01509090416,7000
+IC-202511-930,2025-11-19,logisticspro,LogisticsPro,healthservices_plus,HealthServices Plus,Shared Services,29801.531402967506,6500
+IC-202511-931,2025-11-02,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Inventory/Supplies,165787.4352410714,5000
+IC-202511-932,2025-11-26,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Software Licenses,7172.148046929851,7000
+IC-202511-933,2025-11-22,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Management Fees,10487.193416661657,7000
+IC-202511-934,2025-11-25,retailco,RetailCo,techforge_saas,TechForge SaaS,Shared Services,73817.0889200349,6500
+IC-202511-935,2025-11-11,logisticspro,LogisticsPro,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,207333.38977499254,5000
+IC-202511-936,2025-11-12,retailco,RetailCo,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,6332.5599682074935,7000
+IC-202511-937,2025-11-25,healthservices_plus,HealthServices Plus,industrialsupply_co,IndustrialSupply Co,Management Fees,25591.012784891496,7000
+IC-202511-938,2025-11-08,logisticspro,LogisticsPro,industrialsupply_co,IndustrialSupply Co,Shared Services,58337.3005946813,6500
+IC-202511-939,2025-11-26,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Inventory/Supplies,79482.55672679667,5000
+IC-202511-940,2025-11-13,retailco,RetailCo,industrialsupply_co,IndustrialSupply Co,Software Licenses,17877.358551102527,7000
+IC-202511-941,2025-11-22,industrialsupply_co,IndustrialSupply Co,logisticspro,LogisticsPro,Management Fees,11286.610812905255,7000
+IC-202511-942,2025-11-17,techforge_saas,TechForge SaaS,healthservices_plus,HealthServices Plus,Shared Services,67327.94583333918,6500
+IC-202511-943,2025-11-02,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,225566.5207151629,5000
+IC-202511-944,2025-11-04,logisticspro,LogisticsPro,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,7815.409155424267,7000
+IC-202511-945,2025-11-20,healthservices_plus,HealthServices Plus,logisticspro,LogisticsPro,Management Fees,11017.885731801562,7000
+IC-202511-946,2025-11-26,techforge_saas,TechForge SaaS,retailco,RetailCo,Shared Services,82015.26154351246,6500
+IC-202511-947,2025-11-04,industrialsupply_co,IndustrialSupply Co,techforge_saas,TechForge SaaS,Inventory/Supplies,225474.90410827828,5000
+IC-202511-948,2025-11-03,healthservices_plus,HealthServices Plus,industrialsupply_co,IndustrialSupply Co,Software Licenses,15462.602258124487,7000
+IC-202511-949,2025-11-15,logisticspro,LogisticsPro,industrialsupply_co,IndustrialSupply Co,Management Fees,32278.08366656701,7000
+IC-202511-950,2025-11-10,dataanalytics_corp,DataAnalytics Corp,logisticspro,LogisticsPro,Shared Services,37702.12728529472,6500
+IC-202511-951,2025-11-03,dataanalytics_corp,DataAnalytics Corp,logisticspro,LogisticsPro,Inventory/Supplies,83628.21717894942,5000
+IC-202511-952,2025-11-14,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Software Licenses,14249.804208111867,7000
+IC-202511-953,2025-11-28,dataanalytics_corp,DataAnalytics Corp,logisticspro,LogisticsPro,Management Fees,36758.14840273098,7000
+IC-202511-954,2025-11-08,ecopackaging_ltd,EcoPackaging Ltd,dataanalytics_corp,DataAnalytics Corp,Shared Services,86986.41231464328,6500
+IC-202511-955,2025-11-14,retailco,RetailCo,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,63039.953341230095,5000
+IC-202511-956,2025-11-05,retailco,RetailCo,precisionmfg_inc,PrecisionMfg Inc,Software Licenses,22159.038908046725,7000
+IC-202511-957,2025-11-21,retailco,RetailCo,dataanalytics_corp,DataAnalytics Corp,Management Fees,19164.664556455962,7000
+IC-202511-958,2025-11-09,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Shared Services,73954.60451748775,6500
+IC-202511-959,2025-11-27,ecopackaging_ltd,EcoPackaging Ltd,logisticspro,LogisticsPro,Inventory/Supplies,62966.843757238246,5000
+IC-202511-960,2025-11-20,techforge_saas,TechForge SaaS,dataanalytics_corp,DataAnalytics Corp,Software Licenses,14895.887098837467,7000
+IC-202511-961,2025-11-12,retailco,RetailCo,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,22049.029922491176,7000
+IC-202511-962,2025-11-11,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Shared Services,61701.42030592526,6500
+IC-202511-963,2025-11-07,dataanalytics_corp,DataAnalytics Corp,precisionmfg_inc,PrecisionMfg Inc,Inventory/Supplies,175870.9885257877,5000
+IC-202511-964,2025-11-24,healthservices_plus,HealthServices Plus,techforge_saas,TechForge SaaS,Software Licenses,6824.896826085107,7000
+IC-202511-965,2025-11-13,dataanalytics_corp,DataAnalytics Corp,healthservices_plus,HealthServices Plus,Management Fees,31824.338577086026,7000
+IC-202511-966,2025-11-19,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Shared Services,83966.29152816025,6500
+IC-202511-967,2025-11-10,healthservices_plus,HealthServices Plus,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,195236.42698929223,5000
+IC-202511-968,2025-11-03,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Software Licenses,20860.163182450764,7000
+IC-202511-969,2025-11-07,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Management Fees,37261.04119546601,7000
+IC-202511-970,2025-11-27,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Shared Services,85051.47122394692,6500
+IC-202511-971,2025-11-27,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,210082.17249873563,5000
+IC-202511-972,2025-11-15,logisticspro,LogisticsPro,retailco,RetailCo,Software Licenses,24110.354128344818,7000
+IC-202511-973,2025-11-23,healthservices_plus,HealthServices Plus,precisionmfg_inc,PrecisionMfg Inc,Management Fees,24160.78552128045,7000
+IC-202511-974,2025-11-14,techforge_saas,TechForge SaaS,logisticspro,LogisticsPro,Shared Services,77936.39302466961,6500
+IC-202511-975,2025-11-09,logisticspro,LogisticsPro,retailco,RetailCo,Inventory/Supplies,238062.36018555035,5000
+IC-202511-976,2025-11-27,ecopackaging_ltd,EcoPackaging Ltd,retailco,RetailCo,Software Licenses,24477.555340872794,7000
+IC-202511-977,2025-11-13,logisticspro,LogisticsPro,retailco,RetailCo,Management Fees,34537.818902719606,7000
+IC-202511-978,2025-11-05,ecopackaging_ltd,EcoPackaging Ltd,industrialsupply_co,IndustrialSupply Co,Shared Services,79160.27639248662,6500
+IC-202511-979,2025-11-09,retailco,RetailCo,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,187845.9472725904,5000
+IC-202511-980,2025-11-25,dataanalytics_corp,DataAnalytics Corp,logisticspro,LogisticsPro,Software Licenses,22602.627068672835,7000
+IC-202511-981,2025-11-22,healthservices_plus,HealthServices Plus,industrialsupply_co,IndustrialSupply Co,Management Fees,27923.006063265373,7000
+IC-202511-982,2025-11-27,logisticspro,LogisticsPro,precisionmfg_inc,PrecisionMfg Inc,Shared Services,59480.029125809335,6500
+IC-202511-983,2025-11-22,logisticspro,LogisticsPro,dataanalytics_corp,DataAnalytics Corp,Inventory/Supplies,53849.792769778796,5000
+IC-202511-984,2025-11-03,precisionmfg_inc,PrecisionMfg Inc,techforge_saas,TechForge SaaS,Software Licenses,23979.54688239192,7000
+IC-202511-985,2025-11-19,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,21148.548605645956,7000
+IC-202511-986,2025-11-25,ecopackaging_ltd,EcoPackaging Ltd,techforge_saas,TechForge SaaS,Shared Services,82816.22943302599,6500
+IC-202511-987,2025-11-05,retailco,RetailCo,techforge_saas,TechForge SaaS,Inventory/Supplies,87482.25759675539,5000
+IC-202511-988,2025-11-05,retailco,RetailCo,dataanalytics_corp,DataAnalytics Corp,Software Licenses,21754.581972453125,7000
+IC-202511-989,2025-11-08,healthservices_plus,HealthServices Plus,dataanalytics_corp,DataAnalytics Corp,Management Fees,24527.567843633966,7000
+IC-202511-990,2025-11-15,techforge_saas,TechForge SaaS,ecopackaging_ltd,EcoPackaging Ltd,Shared Services,41212.498376425196,6500
+IC-202511-991,2025-11-14,logisticspro,LogisticsPro,industrialsupply_co,IndustrialSupply Co,Inventory/Supplies,212883.839442935,5000
+IC-202511-992,2025-11-23,precisionmfg_inc,PrecisionMfg Inc,retailco,RetailCo,Software Licenses,23229.080069096784,7000
+IC-202511-993,2025-11-23,industrialsupply_co,IndustrialSupply Co,logisticspro,LogisticsPro,Management Fees,34925.89469343828,7000
+IC-202511-994,2025-11-12,industrialsupply_co,IndustrialSupply Co,dataanalytics_corp,DataAnalytics Corp,Shared Services,40121.04317411207,6500
+IC-202511-995,2025-11-21,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,114369.32704026406,5000
+IC-202511-996,2025-11-18,dataanalytics_corp,DataAnalytics Corp,ecopackaging_ltd,EcoPackaging Ltd,Software Licenses,17027.68445537462,7000
+IC-202511-997,2025-11-17,precisionmfg_inc,PrecisionMfg Inc,ecopackaging_ltd,EcoPackaging Ltd,Management Fees,41852.00743870654,7000
+IC-202511-998,2025-11-13,logisticspro,LogisticsPro,healthservices_plus,HealthServices Plus,Shared Services,71755.73666698443,6500
+IC-202511-999,2025-11-04,techforge_saas,TechForge SaaS,ecopackaging_ltd,EcoPackaging Ltd,Inventory/Supplies,75312.42730135181,5000
+IC-202511-1000,2025-11-17,logisticspro,LogisticsPro,dataanalytics_corp,DataAnalytics Corp,Software Licenses,12963.0988916955,7000

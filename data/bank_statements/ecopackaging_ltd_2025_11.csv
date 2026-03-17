@@ -1,0 +1,24 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2025-11-01,Beginning Balance,,,14947683.301272057,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-03,"Vendor Payment - Joyce, Wilson and Lam",168372.9235477417,,14779310.377724316,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-04,Customer Payment - Scott Ltd,,142532.63666184666,14921843.014386162,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-05,Customer Payment - Smith-Frost,,425204.7490843889,15347047.763470551,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-07,"Customer Payment - Mcdaniel, Bentley and Mclaughlin",,378001.5692673872,15725049.332737938,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-08,Vendor Payment - Diaz Inc,144061.45021225783,,15580987.88252568,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-09,"Vendor Payment - Mccall, Hanson and Alvarado",27827.491221746102,,15553160.391303934,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-10,Customer Payment - Cortez LLC,,243753.75722358556,15796914.14852752,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-10,"Vendor Payment - Parker, Ortiz and Powell",163314.8291727318,,15633599.319354787,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-14,Vendor Payment - Spencer-Lee,37320.19040973927,,15596279.128945049,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-15,"Customer Payment - Bentley, Byrd and Orr",,208220.21094104435,15804499.339886094,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-15,"Vendor Payment - Carroll, Sullivan and Bass",137018.80919377255,,15667480.53069232,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-16,Payroll,875000.0,,14792480.53069232,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-16,Vendor Payment - Mitchell-Jordan,116966.2115143702,,14675514.31917795,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-19,"Customer Payment - Lawson, Morris and Ramos",,89152.96417522716,14764667.283353178,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-20,"Vendor Payment - Lewis, Kennedy and Santana",32246.561797420494,,14732420.721555758,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-23,"Customer Payment - Jackson, Miller and Robertson",,332982.070302775,15065402.791858533,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-23,"Vendor Payment - Harvey, Davis and Crane",103876.34821392062,,14961526.443644613,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-25,Vendor Payment - Chambers and Sons,181818.3879633893,,14779708.055681223,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-27,Customer Payment - Hernandez Inc,,175790.76102803356,14955498.816709256,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-28,Vendor Payment - Riggs PLC,183728.2346718901,,14771770.582037365,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-29,Customer Payment - Gibson Ltd,,175673.02734501567,14947443.60938238,ecopackaging_ltd,EcoPackaging Ltd,2025-11
+2025-11-29,"Vendor Payment - Lee, Horton and Snyder",58767.83703987543,,14888675.772342505,ecopackaging_ltd,EcoPackaging Ltd,2025-11

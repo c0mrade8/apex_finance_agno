@@ -1,0 +1,37 @@
+account_code,account_name,debit,credit,balance,account_type,company_id,company_name,period
+1000,Cash and Cash Equivalents,34851194.425678134,0.0,34851194.425678134,Asset,retailco,RetailCo,2026-01
+1100,Accounts Receivable,28870189.22171055,0.0,28870189.22171055,Asset,retailco,RetailCo,2026-01
+1150,Allowance for Doubtful Accounts,0.0,303445.4480779072,-303445.4480779072,Asset,retailco,RetailCo,2026-01
+1200,Inventory - Raw Materials,17257396.305866655,0.0,17257396.305866655,Asset,retailco,RetailCo,2026-01
+1210,Inventory - Work in Process,18602591.707295593,0.0,18602591.707295593,Asset,retailco,RetailCo,2026-01
+1220,Inventory - Finished Goods,22392029.777460992,0.0,22392029.777460992,Asset,retailco,RetailCo,2026-01
+1300,Prepaid Expenses,4650607.051050251,0.0,4650607.051050251,Asset,retailco,RetailCo,2026-01
+1400,"Property, Plant & Equipment",80000000.0,0.0,80000000.0,Asset,retailco,RetailCo,2026-01
+1450,Accumulated Depreciation,0.0,30000000.0,-30000000.0,Asset,retailco,RetailCo,2026-01
+1500,Intangible Assets,60000000.0,0.0,60000000.0,Asset,retailco,RetailCo,2026-01
+1550,Accumulated Amortization,0.0,16000000.0,-16000000.0,Asset,retailco,RetailCo,2026-01
+2000,Accounts Payable,0.0,9008899.110797651,-9008899.110797651,Liability,retailco,RetailCo,2026-01
+2100,Accrued Expenses,0.0,3930183.552159089,-3930183.552159089,Liability,retailco,RetailCo,2026-01
+2150,Accrued Payroll,0.0,2339055.378771221,-2339055.378771221,Liability,retailco,RetailCo,2026-01
+2200,Deferred Revenue,0.0,0.0,0.0,Liability,retailco,RetailCo,2026-01
+2300,Current Portion of Long-term Debt,0.0,231691426.21169084,-231691426.21169084,Liability,retailco,RetailCo,2026-01
+2400,Long-term Debt,0.0,123536914.4026798,-123536914.4026798,Liability,retailco,RetailCo,2026-01
+3000,Common Stock,0.0,100000000.0,-100000000.0,Equity,retailco,RetailCo,2026-01
+3100,Retained Earnings,0.0,-251315438.93019152,251315438.93019152,Equity,retailco,RetailCo,2026-01
+4000,Store Revenue,0.0,15172272.40389536,-15172272.40389536,Revenue,retailco,RetailCo,2026-01
+5000,Cost of Goods Sold - Materials,3135602.9634717074,0.0,3135602.9634717074,COGS,retailco,RetailCo,2026-01
+5100,Cost of Goods Sold - Labor,3135602.9634717074,0.0,3135602.9634717074,COGS,retailco,RetailCo,2026-01
+5200,Cost of Goods Sold - Overhead,3135602.9634717074,0.0,3135602.9634717074,COGS,retailco,RetailCo,2026-01
+6000,Salaries and Wages,2017912.2297180828,0.0,2017912.2297180828,Operating Expense,retailco,RetailCo,2026-01
+6100,Employee Benefits,461237.08107841894,0.0,461237.08107841894,Operating Expense,retailco,RetailCo,2026-01
+6200,Rent,288273.1756740119,0.0,288273.1756740119,Operating Expense,retailco,RetailCo,2026-01
+6300,Utilities,63500.98658285916,0.0,63500.98658285916,Operating Expense,retailco,RetailCo,2026-01
+6400,Insurance,279659.2075802092,0.0,279659.2075802092,Operating Expense,retailco,RetailCo,2026-01
+6500,Professional Fees,250447.15044711973,0.0,250447.15044711973,Operating Expense,retailco,RetailCo,2026-01
+7000,Sales and Marketing,461237.08107841894,0.0,461237.08107841894,Operating Expense,retailco,RetailCo,2026-01
+7100,Advertising,218159.19079706597,0.0,218159.19079706597,Operating Expense,retailco,RetailCo,2026-01
+7200,Travel and Entertainment,151966.76632483373,0.0,151966.76632483373,Operating Expense,retailco,RetailCo,2026-01
+8000,Research and Development,0.0,0.0,0.0,Operating Expense,retailco,RetailCo,2026-01
+9000,Depreciation Expense,172963.9054044071,0.0,172963.9054044071,Operating Expense,retailco,RetailCo,2026-01
+9100,Amortization Expense,172963.9054044071,0.0,172963.9054044071,Operating Expense,retailco,RetailCo,2026-01
+9500,Interest Expense,97619.51831327546,0.0,97619.51831327546,Operating Expense,retailco,RetailCo,2026-01

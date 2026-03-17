@@ -1,0 +1,37 @@
+account_code,account_name,debit,credit,balance,account_type,company_id,company_name,period
+1000,Cash and Cash Equivalents,27356784.086393684,0.0,27356784.086393684,Asset,precisionmfg_inc,PrecisionMfg Inc,2025-12
+1100,Accounts Receivable,14445183.626851937,0.0,14445183.626851937,Asset,precisionmfg_inc,PrecisionMfg Inc,2025-12
+1150,Allowance for Doubtful Accounts,0.0,191145.85856946447,-191145.85856946447,Asset,precisionmfg_inc,PrecisionMfg Inc,2025-12
+1200,Inventory - Raw Materials,6163449.20064609,0.0,6163449.20064609,Asset,precisionmfg_inc,PrecisionMfg Inc,2025-12
+1210,Inventory - Work in Process,9456489.868859064,0.0,9456489.868859064,Asset,precisionmfg_inc,PrecisionMfg Inc,2025-12
+1220,Inventory - Finished Goods,14198796.579254277,0.0,14198796.579254277,Asset,precisionmfg_inc,PrecisionMfg Inc,2025-12
+1300,Prepaid Expenses,1881086.546733934,0.0,1881086.546733934,Asset,precisionmfg_inc,PrecisionMfg Inc,2025-12
+1400,"Property, Plant & Equipment",48000000.0,0.0,48000000.0,Asset,precisionmfg_inc,PrecisionMfg Inc,2025-12
+1450,Accumulated Depreciation,0.0,18000000.0,-18000000.0,Asset,precisionmfg_inc,PrecisionMfg Inc,2025-12
+1500,Intangible Assets,36000000.0,0.0,36000000.0,Asset,precisionmfg_inc,PrecisionMfg Inc,2025-12
+1550,Accumulated Amortization,0.0,9600000.0,-9600000.0,Asset,precisionmfg_inc,PrecisionMfg Inc,2025-12
+2000,Accounts Payable,0.0,7677194.959907899,-7677194.959907899,Liability,precisionmfg_inc,PrecisionMfg Inc,2025-12
+2100,Accrued Expenses,0.0,2411533.6456008516,-2411533.6456008516,Liability,precisionmfg_inc,PrecisionMfg Inc,2025-12
+2150,Accrued Payroll,0.0,1409963.6165949833,-1409963.6165949833,Liability,precisionmfg_inc,PrecisionMfg Inc,2025-12
+2200,Deferred Revenue,0.0,0.0,0.0,Liability,precisionmfg_inc,PrecisionMfg Inc,2025-12
+2300,Current Portion of Long-term Debt,0.0,191078942.75013474,-191078942.75013474,Liability,precisionmfg_inc,PrecisionMfg Inc,2025-12
+2400,Long-term Debt,0.0,126200963.88946559,-126200963.88946559,Liability,precisionmfg_inc,PrecisionMfg Inc,2025-12
+3000,Common Stock,0.0,60000000.0,-60000000.0,Equity,precisionmfg_inc,PrecisionMfg Inc,2025-12
+3100,Retained Earnings,0.0,-259306751.64370567,259306751.64370567,Equity,precisionmfg_inc,PrecisionMfg Inc,2025-12
+4000,Product Sales,0.0,9557292.928473223,-9557292.928473223,Revenue,precisionmfg_inc,PrecisionMfg Inc,2025-12
+5000,Cost of Goods Sold - Materials,2166319.7304539303,0.0,2166319.7304539303,COGS,precisionmfg_inc,PrecisionMfg Inc,2025-12
+5100,Cost of Goods Sold - Labor,2166319.7304539303,0.0,2166319.7304539303,COGS,precisionmfg_inc,PrecisionMfg Inc,2025-12
+5200,Cost of Goods Sold - Overhead,2166319.7304539303,0.0,2166319.7304539303,COGS,precisionmfg_inc,PrecisionMfg Inc,2025-12
+6000,Salaries and Wages,1070416.807989001,0.0,1070416.807989001,Operating Expense,precisionmfg_inc,PrecisionMfg Inc,2025-12
+6100,Employee Benefits,244666.69896891454,0.0,244666.69896891454,Operating Expense,precisionmfg_inc,PrecisionMfg Inc,2025-12
+6200,Rent,152916.68685557158,0.0,152916.68685557158,Operating Expense,precisionmfg_inc,PrecisionMfg Inc,2025-12
+6300,Utilities,107935.42752617871,0.0,107935.42752617871,Operating Expense,precisionmfg_inc,PrecisionMfg Inc,2025-12
+6400,Insurance,108085.14888641397,0.0,108085.14888641397,Operating Expense,precisionmfg_inc,PrecisionMfg Inc,2025-12
+6500,Professional Fees,96126.44904295642,0.0,96126.44904295642,Operating Expense,precisionmfg_inc,PrecisionMfg Inc,2025-12
+7000,Sales and Marketing,244666.69896891454,0.0,244666.69896891454,Operating Expense,precisionmfg_inc,PrecisionMfg Inc,2025-12
+7100,Advertising,41628.78736605153,0.0,41628.78736605153,Operating Expense,precisionmfg_inc,PrecisionMfg Inc,2025-12
+7200,Travel and Entertainment,132768.6894892719,0.0,132768.6894892719,Operating Expense,precisionmfg_inc,PrecisionMfg Inc,2025-12
+8000,Research and Development,367000.0484533718,0.0,367000.0484533718,Operating Expense,precisionmfg_inc,PrecisionMfg Inc,2025-12
+9000,Depreciation Expense,91750.01211334295,0.0,91750.01211334295,Operating Expense,precisionmfg_inc,PrecisionMfg Inc,2025-12
+9100,Amortization Expense,91750.01211334295,0.0,91750.01211334295,Operating Expense,precisionmfg_inc,PrecisionMfg Inc,2025-12
+9500,Interest Expense,69825.43716694858,0.0,69825.43716694858,Operating Expense,precisionmfg_inc,PrecisionMfg Inc,2025-12

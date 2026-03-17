@@ -1,0 +1,37 @@
+account_code,account_name,debit,credit,balance,account_type,company_id,company_name,period
+1000,Cash and Cash Equivalents,31276081.640912708,0.0,31276081.640912708,Asset,retailco,RetailCo,2024-12
+1100,Accounts Receivable,35789791.32633802,0.0,35789791.32633802,Asset,retailco,RetailCo,2024-12
+1150,Allowance for Doubtful Accounts,0.0,318991.5267974615,-318991.5267974615,Asset,retailco,RetailCo,2024-12
+1200,Inventory - Raw Materials,16574182.111771937,0.0,16574182.111771937,Asset,retailco,RetailCo,2024-12
+1210,Inventory - Work in Process,12940014.082815459,0.0,12940014.082815459,Asset,retailco,RetailCo,2024-12
+1220,Inventory - Finished Goods,17709353.43965758,0.0,17709353.43965758,Asset,retailco,RetailCo,2024-12
+1300,Prepaid Expenses,6163877.573737068,0.0,6163877.573737068,Asset,retailco,RetailCo,2024-12
+1400,"Property, Plant & Equipment",80000000.0,0.0,80000000.0,Asset,retailco,RetailCo,2024-12
+1450,Accumulated Depreciation,0.0,30000000.0,-30000000.0,Asset,retailco,RetailCo,2024-12
+1500,Intangible Assets,60000000.0,0.0,60000000.0,Asset,retailco,RetailCo,2024-12
+1550,Accumulated Amortization,0.0,16000000.0,-16000000.0,Asset,retailco,RetailCo,2024-12
+2000,Accounts Payable,0.0,8988772.923017897,-8988772.923017897,Liability,retailco,RetailCo,2024-12
+2100,Accrued Expenses,0.0,2914144.2270002104,-2914144.2270002104,Liability,retailco,RetailCo,2024-12
+2150,Accrued Payroll,0.0,1983763.9440766156,-1983763.9440766156,Liability,retailco,RetailCo,2024-12
+2200,Deferred Revenue,0.0,0.0,0.0,Liability,retailco,RetailCo,2024-12
+2300,Current Portion of Long-term Debt,0.0,154344804.8604041,-154344804.8604041,Liability,retailco,RetailCo,2024-12
+2400,Long-term Debt,0.0,304335356.18949485,-304335356.18949485,Liability,retailco,RetailCo,2024-12
+3000,Common Stock,0.0,100000000.0,-100000000.0,Equity,retailco,RetailCo,2024-12
+3100,Retained Earnings,0.0,-359803155.89195746,359803155.89195746,Equity,retailco,RetailCo,2024-12
+4000,Store Revenue,0.0,15949576.339873075,-15949576.339873075,Revenue,retailco,RetailCo,2024-12
+5000,Cost of Goods Sold - Materials,3296245.7769071027,0.0,3296245.7769071027,COGS,retailco,RetailCo,2024-12
+5100,Cost of Goods Sold - Labor,3296245.7769071027,0.0,3296245.7769071027,COGS,retailco,RetailCo,2024-12
+5200,Cost of Goods Sold - Overhead,3296245.7769071027,0.0,3296245.7769071027,COGS,retailco,RetailCo,2024-12
+6000,Salaries and Wages,2121293.653203119,0.0,2121293.653203119,Operating Expense,retailco,RetailCo,2024-12
+6100,Employee Benefits,484867.12073214154,0.0,484867.12073214154,Operating Expense,retailco,RetailCo,2024-12
+6200,Rent,303041.9504575885,0.0,303041.9504575885,Operating Expense,retailco,RetailCo,2024-12
+6300,Utilities,104595.1347103056,0.0,104595.1347103056,Operating Expense,retailco,RetailCo,2024-12
+6400,Insurance,187925.61896781588,0.0,187925.61896781588,Operating Expense,retailco,RetailCo,2024-12
+6500,Professional Fees,232504.99978513987,0.0,232504.99978513987,Operating Expense,retailco,RetailCo,2024-12
+7000,Sales and Marketing,484867.12073214154,0.0,484867.12073214154,Operating Expense,retailco,RetailCo,2024-12
+7100,Advertising,86518.94307834718,0.0,86518.94307834718,Operating Expense,retailco,RetailCo,2024-12
+7200,Travel and Entertainment,198143.91133533107,0.0,198143.91133533107,Operating Expense,retailco,RetailCo,2024-12
+8000,Research and Development,0.0,0.0,0.0,Operating Expense,retailco,RetailCo,2024-12
+9000,Depreciation Expense,181825.17027455306,0.0,181825.17027455306,Operating Expense,retailco,RetailCo,2024-12
+9100,Amortization Expense,181825.17027455306,0.0,181825.17027455306,Operating Expense,retailco,RetailCo,2024-12
+9500,Interest Expense,122807.81920166942,0.0,122807.81920166942,Operating Expense,retailco,RetailCo,2024-12

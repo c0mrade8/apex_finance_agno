@@ -1,0 +1,37 @@
+account_code,account_name,debit,credit,balance,account_type,company_id,company_name,period
+1000,Cash and Cash Equivalents,12074292.858178403,0.0,12074292.858178403,Asset,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+1100,Accounts Receivable,10861788.690416057,0.0,10861788.690416057,Asset,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+1150,Allowance for Doubtful Accounts,0.0,96540.66323126479,-96540.66323126479,Asset,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+1200,Inventory - Raw Materials,6093092.204915047,0.0,6093092.204915047,Asset,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+1210,Inventory - Work in Process,6264589.520570017,0.0,6264589.520570017,Asset,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+1220,Inventory - Finished Goods,4516091.686007287,0.0,4516091.686007287,Asset,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+1300,Prepaid Expenses,2061788.4690114874,0.0,2061788.4690114874,Asset,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+1400,"Property, Plant & Equipment",24000000.0,0.0,24000000.0,Asset,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+1450,Accumulated Depreciation,0.0,9000000.0,-9000000.0,Asset,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+1500,Intangible Assets,18000000.0,0.0,18000000.0,Asset,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+1550,Accumulated Amortization,0.0,4800000.0,-4800000.0,Asset,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+2000,Accounts Payable,0.0,2278965.122581767,-2278965.122581767,Liability,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+2100,Accrued Expenses,0.0,1008356.7025496591,-1008356.7025496591,Liability,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+2150,Accrued Payroll,0.0,488262.76519444736,-488262.76519444736,Liability,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+2200,Deferred Revenue,0.0,0.0,0.0,Liability,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+2300,Current Portion of Long-term Debt,0.0,59212724.69102433,-59212724.69102433,Liability,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+2400,Long-term Debt,0.0,62981538.138425805,-62981538.138425805,Liability,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+3000,Common Stock,0.0,30000000.0,-30000000.0,Equity,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+3100,Retained Earnings,0.0,-86127755.96377604,86127755.96377604,Equity,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+4000,Product Sales,0.0,4827033.161563239,-4827033.161563239,Revenue,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+5000,Cost of Goods Sold - Materials,1158487.9587751774,0.0,1158487.9587751774,COGS,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+5100,Cost of Goods Sold - Labor,1158487.9587751774,0.0,1158487.9587751774,COGS,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+5200,Cost of Goods Sold - Overhead,1158487.9587751774,0.0,1158487.9587751774,COGS,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+6000,Salaries and Wages,473049.2498331974,0.0,473049.2498331974,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+6100,Employee Benefits,108125.54281901655,0.0,108125.54281901655,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+6200,Rent,67578.46426188535,0.0,67578.46426188535,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+6300,Utilities,34933.88651753786,0.0,34933.88651753786,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+6400,Insurance,51114.57747046033,0.0,51114.57747046033,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+6500,Professional Fees,34522.22066066834,0.0,34522.22066066834,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+7000,Sales and Marketing,108125.54281901655,0.0,108125.54281901655,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+7100,Advertising,37773.31360512312,0.0,37773.31360512312,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+7200,Travel and Entertainment,26357.986899506155,0.0,26357.986899506155,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+8000,Research and Development,162188.31422852483,0.0,162188.31422852483,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+9000,Depreciation Expense,40547.07855713121,0.0,40547.07855713121,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+9100,Amortization Expense,40547.07855713121,0.0,40547.07855713121,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2024-11
+9500,Interest Expense,33694.7191414235,0.0,33694.7191414235,Operating Expense,ecopackaging_ltd,EcoPackaging Ltd,2024-11

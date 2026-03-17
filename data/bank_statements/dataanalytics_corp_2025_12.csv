@@ -1,0 +1,27 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2025-12-01,Beginning Balance,,,6231278.212693697,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-02,Vendor Payment - Miller-Wright,68131.66698375485,,6163146.545709942,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-03,"Vendor Payment - Duran, Obrien and Gibbs",66994.7139644002,,6096151.831745542,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-04,Customer Payment - Rowe Group,,263735.1672756054,6359886.999021147,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-04,Vendor Payment - Kerr-Evans,27337.125110810448,,6332549.873910337,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-07,"Customer Payment - Branch, Torres and Oliver",,406006.51559450384,6738556.389504841,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-07,"Vendor Payment - Choi, Garcia and Farmer",94189.36147421108,,6644367.028030629,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-09,"Vendor Payment - Clark, Guerrero and Moore",108332.94301534274,,6536034.085015287,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-11,Customer Payment - Arnold and Sons,,275372.16904007236,6811406.254055359,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-11,Vendor Payment - Ortiz Ltd,151368.18533126527,,6660038.068724094,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-12,"Vendor Payment - Harrison, Johnson and Roberts",179026.74890650617,,6481011.319817588,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-14,Customer Payment - Warner-Gibson,,334502.0130972349,6815513.332914823,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-15,"Vendor Payment - Hall, Baker and Moody",17429.462715026235,,6798083.870199797,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-16,Payroll,364583.3333333333,,6433500.536866464,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-17,"Customer Payment - Guerrero, Peck and Coleman",,372214.9557235974,6805715.492590061,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-17,"Vendor Payment - Walker, Hernandez and Baker",143264.62559435377,,6662450.866995707,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-18,Vendor Payment - Jones and Sons,55365.61918478798,,6607085.247810919,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-19,Customer Payment - Larson-Holloway,,69723.43044999836,6676808.678260917,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-19,Vendor Payment - Gonzales-Harrison,162129.64772101876,,6514679.030539898,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-22,Vendor Payment - Lyons-Bender,117927.50548198367,,6396751.525057915,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-23,"Customer Payment - Fernandez, Kim and George",,394091.7083559618,6790843.233413876,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-23,Vendor Payment - Navarro-Munoz,138095.60805364448,,6652747.625360232,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-25,Vendor Payment - Davis Ltd,173979.1282538527,,6478768.497106379,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-26,"Customer Payment - Matthews, Smith and Hubbard",,131685.18505428106,6610453.68216066,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-29,Customer Payment - Johnston-Hines,,329787.58861880517,6940241.270779464,dataanalytics_corp,DataAnalytics Corp,2025-12
+2025-12-30,Vendor Payment - Ruiz Ltd,135411.05279093492,,6804830.217988529,dataanalytics_corp,DataAnalytics Corp,2025-12

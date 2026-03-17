@@ -1,0 +1,15 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2025-11-01,Beginning Balance,,,6232084.695589154,healthservices_plus,HealthServices Plus,2025-11
+2025-11-03,Customer Payment - Williams PLC,,155556.57194162358,6387641.2675307775,healthservices_plus,HealthServices Plus,2025-11
+2025-11-04,Vendor Payment - Novak and Sons,195015.05550241616,,6192626.212028361,healthservices_plus,HealthServices Plus,2025-11
+2025-11-05,Vendor Payment - Russell Group,96647.19431474636,,6095979.017713615,healthservices_plus,HealthServices Plus,2025-11
+2025-11-06,Vendor Payment - Hancock Inc,65323.83230229388,,6030655.185411321,healthservices_plus,HealthServices Plus,2025-11
+2025-11-12,Vendor Payment - Gray Group,58815.72435974626,,5971839.461051575,healthservices_plus,HealthServices Plus,2025-11
+2025-11-15,Customer Payment - House-Glover,,257078.9361429207,6228918.397194495,healthservices_plus,HealthServices Plus,2025-11
+2025-11-16,Payroll,510416.6666666667,,5718501.730527828,healthservices_plus,HealthServices Plus,2025-11
+2025-11-22,Customer Payment - Henderson-Bernard,,313926.74666259135,6032428.47719042,healthservices_plus,HealthServices Plus,2025-11
+2025-11-22,"Vendor Payment - Stanley, Tucker and Lee",96943.83485273512,,5935484.6423376845,healthservices_plus,HealthServices Plus,2025-11
+2025-11-23,Vendor Payment - Novak PLC,15781.421776283434,,5919703.220561401,healthservices_plus,HealthServices Plus,2025-11
+2025-11-26,"Customer Payment - Daniels, Adkins and Brown",,51604.89470581755,5971308.115267218,healthservices_plus,HealthServices Plus,2025-11
+2025-11-27,"Customer Payment - Woods, Calhoun and Schmidt",,241735.54633892974,6213043.661606148,healthservices_plus,HealthServices Plus,2025-11
+2025-11-28,Vendor Payment - Yu Inc,106618.61600639128,,6106425.045599757,healthservices_plus,HealthServices Plus,2025-11

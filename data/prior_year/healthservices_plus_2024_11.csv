@@ -1,0 +1,32 @@
+account_code,account_name,debit,credit,balance,account_type,company_id,company_name,period
+1000,Cash and Cash Equivalents,5123985.251943117,0.0,5123985.251943117,Asset,healthservices_plus,HealthServices Plus,2024-11
+1100,Accounts Receivable,3427997.727214511,0.0,3427997.727214511,Asset,healthservices_plus,HealthServices Plus,2024-11
+1150,Allowance for Doubtful Accounts,0.0,53805.72889297349,-53805.72889297349,Asset,healthservices_plus,HealthServices Plus,2024-11
+1300,Prepaid Expenses,840627.9168615119,0.0,840627.9168615119,Asset,healthservices_plus,HealthServices Plus,2024-11
+1400,"Property, Plant & Equipment",14000000.0,0.0,14000000.0,Asset,healthservices_plus,HealthServices Plus,2024-11
+1450,Accumulated Depreciation,0.0,5250000.0,-5250000.0,Asset,healthservices_plus,HealthServices Plus,2024-11
+1500,Intangible Assets,10500000.0,0.0,10500000.0,Asset,healthservices_plus,HealthServices Plus,2024-11
+1550,Accumulated Amortization,0.0,2800000.0,-2800000.0,Asset,healthservices_plus,HealthServices Plus,2024-11
+2000,Accounts Payable,0.0,2587957.1366366236,-2587957.1366366236,Liability,healthservices_plus,HealthServices Plus,2024-11
+2100,Accrued Expenses,0.0,290197.72329386254,-290197.72329386254,Liability,healthservices_plus,HealthServices Plus,2024-11
+2150,Accrued Payroll,0.0,334730.77374854556,-334730.77374854556,Liability,healthservices_plus,HealthServices Plus,2024-11
+2200,Deferred Revenue,0.0,0.0,0.0,Liability,healthservices_plus,HealthServices Plus,2024-11
+2300,Current Portion of Long-term Debt,0.0,41240448.98488035,-41240448.98488035,Liability,healthservices_plus,HealthServices Plus,2024-11
+2400,Long-term Debt,0.0,66528438.42021501,-66528438.42021501,Liability,healthservices_plus,HealthServices Plus,2024-11
+3000,Common Stock,0.0,17500000.0,-17500000.0,Equity,healthservices_plus,HealthServices Plus,2024-11
+3100,Retained Earnings,0.0,-102990967.59893633,102990967.59893633,Equity,healthservices_plus,HealthServices Plus,2024-11
+4100,Service Revenue,0.0,2690286.4446486747,-2690286.4446486747,Revenue,healthservices_plus,HealthServices Plus,2024-11
+5300,Cost of Services,1210628.9000919035,0.0,1210628.9000919035,COGS,healthservices_plus,HealthServices Plus,2024-11
+6000,Salaries and Wages,517880.14059486985,0.0,517880.14059486985,Operating Expense,healthservices_plus,HealthServices Plus,2024-11
+6100,Employee Benefits,118372.6035645417,0.0,118372.6035645417,Operating Expense,healthservices_plus,HealthServices Plus,2024-11
+6200,Rent,73982.87722783856,0.0,73982.87722783856,Operating Expense,healthservices_plus,HealthServices Plus,2024-11
+6300,Utilities,33508.68608502897,0.0,33508.68608502897,Operating Expense,healthservices_plus,HealthServices Plus,2024-11
+6400,Insurance,44817.92790707133,0.0,44817.92790707133,Operating Expense,healthservices_plus,HealthServices Plus,2024-11
+6500,Professional Fees,17257.11922727603,0.0,17257.11922727603,Operating Expense,healthservices_plus,HealthServices Plus,2024-11
+7000,Sales and Marketing,118372.6035645417,0.0,118372.6035645417,Operating Expense,healthservices_plus,HealthServices Plus,2024-11
+7100,Advertising,23576.460905057953,0.0,23576.460905057953,Operating Expense,healthservices_plus,HealthServices Plus,2024-11
+7200,Travel and Entertainment,73191.56365048901,0.0,73191.56365048901,Operating Expense,healthservices_plus,HealthServices Plus,2024-11
+8000,Research and Development,0.0,0.0,0.0,Operating Expense,healthservices_plus,HealthServices Plus,2024-11
+9000,Depreciation Expense,44389.726336703134,0.0,44389.726336703134,Operating Expense,healthservices_plus,HealthServices Plus,2024-11
+9100,Amortization Expense,44389.726336703134,0.0,44389.726336703134,Operating Expense,healthservices_plus,HealthServices Plus,2024-11
+9500,Interest Expense,71918.38186854335,0.0,71918.38186854335,Operating Expense,healthservices_plus,HealthServices Plus,2024-11

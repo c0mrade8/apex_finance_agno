@@ -1,0 +1,21 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2026-01-01,Beginning Balance,,,9251569.629161432,techforge_saas,TechForge SaaS,2026-01
+2026-01-02,Customer Payment - Morgan-French,,437319.73548364476,9688889.364645077,techforge_saas,TechForge SaaS,2026-01
+2026-01-07,Vendor Payment - Hoover-Campbell,68948.01038759324,,9619941.354257483,techforge_saas,TechForge SaaS,2026-01
+2026-01-09,Customer Payment - Monroe-Carpenter,,255042.10444504087,9874983.458702523,techforge_saas,TechForge SaaS,2026-01
+2026-01-10,"Customer Payment - Burns, Hernandez and Ryan",,234858.6493449562,10109842.10804748,techforge_saas,TechForge SaaS,2026-01
+2026-01-11,Customer Payment - Cook-Hines,,279437.9578001003,10389280.06584758,techforge_saas,TechForge SaaS,2026-01
+2026-01-13,Vendor Payment - Gibson-Morris,199451.9396252993,,10189828.12622228,techforge_saas,TechForge SaaS,2026-01
+2026-01-15,Customer Payment - Pollard and Sons,,207154.5309091116,10396982.657131393,techforge_saas,TechForge SaaS,2026-01
+2026-01-15,"Vendor Payment - Reyes, Chase and Jenkins",151326.70637317514,,10245655.950758217,techforge_saas,TechForge SaaS,2026-01
+2026-01-16,Payroll,656249.9999999999,,9589405.950758217,techforge_saas,TechForge SaaS,2026-01
+2026-01-18,Customer Payment - Garner-Thornton,,200120.53062388644,9789526.481382104,techforge_saas,TechForge SaaS,2026-01
+2026-01-19,Vendor Payment - Hughes-Alvarado,112809.00982820943,,9676717.471553894,techforge_saas,TechForge SaaS,2026-01
+2026-01-21,"Customer Payment - Pollard, Simpson and Johnson",,241014.0024818183,9917731.474035712,techforge_saas,TechForge SaaS,2026-01
+2026-01-21,"Vendor Payment - Sanford, Rivera and Garcia",14091.19405673363,,9903640.279978978,techforge_saas,TechForge SaaS,2026-01
+2026-01-22,Customer Payment - Garcia-Lozano,,489411.8027816896,10393052.082760667,techforge_saas,TechForge SaaS,2026-01
+2026-01-22,Vendor Payment - Bowen Group,187655.846933802,,10205396.235826865,techforge_saas,TechForge SaaS,2026-01
+2026-01-23,"Customer Payment - Booker, Jones and Harrington",,469082.852323018,10674479.088149883,techforge_saas,TechForge SaaS,2026-01
+2026-01-24,Customer Payment - Morgan-Schwartz,,311861.81980696,10986340.907956842,techforge_saas,TechForge SaaS,2026-01
+2026-01-29,"Customer Payment - Miller, Murphy and Craig",,56708.95499735833,11043049.862954201,techforge_saas,TechForge SaaS,2026-01
+2026-01-30,"Vendor Payment - James, Stewart and Higgins",59288.61270629713,,10983761.250247903,techforge_saas,TechForge SaaS,2026-01

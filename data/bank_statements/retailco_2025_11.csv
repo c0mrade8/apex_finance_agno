@@ -1,0 +1,22 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2025-11-01,Beginning Balance,,,48661261.454019226,retailco,RetailCo,2025-11
+2025-11-02,"Customer Payment - Martin, Rose and Obrien",,203915.22794170593,48865176.68196093,retailco,RetailCo,2025-11
+2025-11-02,Vendor Payment - Hickman Ltd,168746.9293705913,,48696429.75259034,retailco,RetailCo,2025-11
+2025-11-04,"Customer Payment - Harris, Collins and Carney",,107203.53606786884,48803633.28865821,retailco,RetailCo,2025-11
+2025-11-07,"Customer Payment - Brooks, Lam and Hayes",,324564.370283988,49128197.6589422,retailco,RetailCo,2025-11
+2025-11-09,Vendor Payment - Walker LLC,182004.13909545136,,48946193.51984675,retailco,RetailCo,2025-11
+2025-11-10,Customer Payment - Chapman and Sons,,197110.6102635765,49143304.13011033,retailco,RetailCo,2025-11
+2025-11-12,"Customer Payment - Robinson, Jones and Welch",,425018.6484144742,49568322.77852481,retailco,RetailCo,2025-11
+2025-11-12,Vendor Payment - Jones Inc,57168.17098903749,,49511154.60753577,retailco,RetailCo,2025-11
+2025-11-13,Customer Payment - Jones-Young,,121167.25725628488,49632321.86479206,retailco,RetailCo,2025-11
+2025-11-15,"Vendor Payment - Washington, Ryan and Cummings",11124.332333561491,,49621197.53245849,retailco,RetailCo,2025-11
+2025-11-16,Payroll,2916666.6666666665,,46704530.86579183,retailco,RetailCo,2025-11
+2025-11-17,"Vendor Payment - Johnston, Sanchez and Kennedy",96342.62464920906,,46608188.241142616,retailco,RetailCo,2025-11
+2025-11-18,Vendor Payment - Lee-Davis,52252.50023402763,,46555935.740908585,retailco,RetailCo,2025-11
+2025-11-25,Customer Payment - Gomez-Jenkins,,360221.30075142515,46916157.04166001,retailco,RetailCo,2025-11
+2025-11-25,"Vendor Payment - Brown, Valdez and Lucas",74477.9712976507,,46841679.07036236,retailco,RetailCo,2025-11
+2025-11-26,Customer Payment - Powell LLC,,160241.097170229,47001920.167532586,retailco,RetailCo,2025-11
+2025-11-26,Vendor Payment - Wright and Sons,177334.67811789585,,46824585.48941469,retailco,RetailCo,2025-11
+2025-11-27,"Vendor Payment - West, Henderson and Ramirez",26527.607079406822,,46798057.88233528,retailco,RetailCo,2025-11
+2025-11-29,Customer Payment - Baxter Inc,,94829.80142734676,46892887.68376263,retailco,RetailCo,2025-11
+2025-11-30,Vendor Payment - Morton-Chase,67479.19757763462,,46825408.486185,retailco,RetailCo,2025-11

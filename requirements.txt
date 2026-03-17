@@ -1,0 +1,7 @@
+sqlalchemy 
+psycopg2-binary 
+alembic
+dotenv
+agno
+groq
+redis

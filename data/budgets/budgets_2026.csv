@@ -1,0 +1,1549 @@
+company_id,company_name,year,month,account_code,account_name,budget_amount
+techforge_saas,TechForge SaaS,2026,1,4200,Subscription Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,1,4100,Professional Services Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,1,5300,Cost of Services,1050000.0
+techforge_saas,TechForge SaaS,2026,1,6000,Salaries and Wages,944999.9999999999
+techforge_saas,TechForge SaaS,2026,1,6100,Employee Benefits,216000.0
+techforge_saas,TechForge SaaS,2026,1,6200,Rent,135490.63040114567
+techforge_saas,TechForge SaaS,2026,1,6300,Utilities,65137.37783428072
+techforge_saas,TechForge SaaS,2026,1,6400,Insurance,151475.71392139318
+techforge_saas,TechForge SaaS,2026,1,6500,Professional Fees,108567.25622436857
+techforge_saas,TechForge SaaS,2026,1,7000,Sales and Marketing,405000.0
+techforge_saas,TechForge SaaS,2026,1,7100,Advertising,143257.4063396361
+techforge_saas,TechForge SaaS,2026,1,7200,Travel and Entertainment,88565.35691130607
+techforge_saas,TechForge SaaS,2026,1,8000,Research and Development,150716.50867758965
+techforge_saas,TechForge SaaS,2026,1,9000,Depreciation Expense,96033.78130328961
+techforge_saas,TechForge SaaS,2026,1,9100,Amortization Expense,55170.466359872225
+techforge_saas,TechForge SaaS,2026,1,9500,Interest Expense,151781.25345328046
+techforge_saas,TechForge SaaS,2026,2,4200,Subscription Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,2,4100,Professional Services Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,2,5300,Cost of Services,1050000.0
+techforge_saas,TechForge SaaS,2026,2,6000,Salaries and Wages,944999.9999999999
+techforge_saas,TechForge SaaS,2026,2,6100,Employee Benefits,216000.0
+techforge_saas,TechForge SaaS,2026,2,6200,Rent,63858.96109290242
+techforge_saas,TechForge SaaS,2026,2,6300,Utilities,88485.8728597648
+techforge_saas,TechForge SaaS,2026,2,6400,Insurance,156606.69244148693
+techforge_saas,TechForge SaaS,2026,2,6500,Professional Fees,156665.57186925603
+techforge_saas,TechForge SaaS,2026,2,7000,Sales and Marketing,405000.0
+techforge_saas,TechForge SaaS,2026,2,7100,Advertising,115931.29191731488
+techforge_saas,TechForge SaaS,2026,2,7200,Travel and Entertainment,122238.41891433831
+techforge_saas,TechForge SaaS,2026,2,8000,Research and Development,102432.11637365854
+techforge_saas,TechForge SaaS,2026,2,9000,Depreciation Expense,85666.76334339098
+techforge_saas,TechForge SaaS,2026,2,9100,Amortization Expense,89495.77089995092
+techforge_saas,TechForge SaaS,2026,2,9500,Interest Expense,126631.99325632013
+techforge_saas,TechForge SaaS,2026,3,4200,Subscription Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,3,4100,Professional Services Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,3,5300,Cost of Services,1050000.0
+techforge_saas,TechForge SaaS,2026,3,6000,Salaries and Wages,944999.9999999999
+techforge_saas,TechForge SaaS,2026,3,6100,Employee Benefits,216000.0
+techforge_saas,TechForge SaaS,2026,3,6200,Rent,135256.44917926943
+techforge_saas,TechForge SaaS,2026,3,6300,Utilities,139490.5367223916
+techforge_saas,TechForge SaaS,2026,3,6400,Insurance,139278.7594218118
+techforge_saas,TechForge SaaS,2026,3,6500,Professional Fees,63850.25912925856
+techforge_saas,TechForge SaaS,2026,3,7000,Sales and Marketing,405000.0
+techforge_saas,TechForge SaaS,2026,3,7100,Advertising,107397.39290787879
+techforge_saas,TechForge SaaS,2026,3,7200,Travel and Entertainment,60216.34608179758
+techforge_saas,TechForge SaaS,2026,3,8000,Research and Development,113349.11929096344
+techforge_saas,TechForge SaaS,2026,3,9000,Depreciation Expense,101685.29414832471
+techforge_saas,TechForge SaaS,2026,3,9100,Amortization Expense,149872.05173789634
+techforge_saas,TechForge SaaS,2026,3,9500,Interest Expense,91898.82135562449
+techforge_saas,TechForge SaaS,2026,4,4200,Subscription Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,4,4100,Professional Services Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,4,5300,Cost of Services,1050000.0
+techforge_saas,TechForge SaaS,2026,4,6000,Salaries and Wages,944999.9999999999
+techforge_saas,TechForge SaaS,2026,4,6100,Employee Benefits,216000.0
+techforge_saas,TechForge SaaS,2026,4,6200,Rent,66643.23777418143
+techforge_saas,TechForge SaaS,2026,4,6300,Utilities,69443.10166170627
+techforge_saas,TechForge SaaS,2026,4,6400,Insurance,136243.148225487
+techforge_saas,TechForge SaaS,2026,4,6500,Professional Fees,120767.55083815618
+techforge_saas,TechForge SaaS,2026,4,7000,Sales and Marketing,405000.0
+techforge_saas,TechForge SaaS,2026,4,7100,Advertising,64921.24902126135
+techforge_saas,TechForge SaaS,2026,4,7200,Travel and Entertainment,63083.53506041972
+techforge_saas,TechForge SaaS,2026,4,8000,Research and Development,129704.66619758496
+techforge_saas,TechForge SaaS,2026,4,9000,Depreciation Expense,61858.404687332906
+techforge_saas,TechForge SaaS,2026,4,9100,Amortization Expense,142760.88640335845
+techforge_saas,TechForge SaaS,2026,4,9500,Interest Expense,130274.16053290159
+techforge_saas,TechForge SaaS,2026,5,4200,Subscription Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,5,4100,Professional Services Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,5,5300,Cost of Services,1050000.0
+techforge_saas,TechForge SaaS,2026,5,6000,Salaries and Wages,944999.9999999999
+techforge_saas,TechForge SaaS,2026,5,6100,Employee Benefits,216000.0
+techforge_saas,TechForge SaaS,2026,5,6200,Rent,62785.66830932517
+techforge_saas,TechForge SaaS,2026,5,6300,Utilities,63162.473121200725
+techforge_saas,TechForge SaaS,2026,5,6400,Insurance,160557.07447812695
+techforge_saas,TechForge SaaS,2026,5,6500,Professional Fees,94421.24594166099
+techforge_saas,TechForge SaaS,2026,5,7000,Sales and Marketing,405000.0
+techforge_saas,TechForge SaaS,2026,5,7100,Advertising,94029.35188322421
+techforge_saas,TechForge SaaS,2026,5,7200,Travel and Entertainment,141782.35326381025
+techforge_saas,TechForge SaaS,2026,5,8000,Research and Development,156302.84635745673
+techforge_saas,TechForge SaaS,2026,5,9000,Depreciation Expense,160488.11489287
+techforge_saas,TechForge SaaS,2026,5,9100,Amortization Expense,135364.84400796567
+techforge_saas,TechForge SaaS,2026,5,9500,Interest Expense,94636.03523733889
+techforge_saas,TechForge SaaS,2026,6,4200,Subscription Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,6,4100,Professional Services Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,6,5300,Cost of Services,1050000.0
+techforge_saas,TechForge SaaS,2026,6,6000,Salaries and Wages,944999.9999999999
+techforge_saas,TechForge SaaS,2026,6,6100,Employee Benefits,216000.0
+techforge_saas,TechForge SaaS,2026,6,6200,Rent,63018.077403456235
+techforge_saas,TechForge SaaS,2026,6,6300,Utilities,137931.86692016316
+techforge_saas,TechForge SaaS,2026,6,6400,Insurance,114307.65897146692
+techforge_saas,TechForge SaaS,2026,6,6500,Professional Fees,99815.97699867345
+techforge_saas,TechForge SaaS,2026,6,7000,Sales and Marketing,405000.0
+techforge_saas,TechForge SaaS,2026,6,7100,Advertising,151886.2735902315
+techforge_saas,TechForge SaaS,2026,6,7200,Travel and Entertainment,66009.32808906434
+techforge_saas,TechForge SaaS,2026,6,8000,Research and Development,107203.51126341277
+techforge_saas,TechForge SaaS,2026,6,9000,Depreciation Expense,55226.19363488126
+techforge_saas,TechForge SaaS,2026,6,9100,Amortization Expense,104615.34933536564
+techforge_saas,TechForge SaaS,2026,6,9500,Interest Expense,60080.75377363843
+techforge_saas,TechForge SaaS,2026,7,4200,Subscription Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,7,4100,Professional Services Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,7,5300,Cost of Services,1050000.0
+techforge_saas,TechForge SaaS,2026,7,6000,Salaries and Wages,944999.9999999999
+techforge_saas,TechForge SaaS,2026,7,6100,Employee Benefits,216000.0
+techforge_saas,TechForge SaaS,2026,7,6200,Rent,66832.33495695176
+techforge_saas,TechForge SaaS,2026,7,6300,Utilities,66692.83465192732
+techforge_saas,TechForge SaaS,2026,7,6400,Insurance,124114.71262853486
+techforge_saas,TechForge SaaS,2026,7,6500,Professional Fees,134572.84696066572
+techforge_saas,TechForge SaaS,2026,7,7000,Sales and Marketing,405000.0
+techforge_saas,TechForge SaaS,2026,7,7100,Advertising,117003.82663049322
+techforge_saas,TechForge SaaS,2026,7,7200,Travel and Entertainment,157914.63523525052
+techforge_saas,TechForge SaaS,2026,7,8000,Research and Development,94486.02258856004
+techforge_saas,TechForge SaaS,2026,7,9000,Depreciation Expense,84856.90531844096
+techforge_saas,TechForge SaaS,2026,7,9100,Amortization Expense,147808.7058444617
+techforge_saas,TechForge SaaS,2026,7,9500,Interest Expense,78148.35056010088
+techforge_saas,TechForge SaaS,2026,8,4200,Subscription Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,8,4100,Professional Services Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,8,5300,Cost of Services,1050000.0
+techforge_saas,TechForge SaaS,2026,8,6000,Salaries and Wages,944999.9999999999
+techforge_saas,TechForge SaaS,2026,8,6100,Employee Benefits,216000.0
+techforge_saas,TechForge SaaS,2026,8,6200,Rent,158028.03425958598
+techforge_saas,TechForge SaaS,2026,8,6300,Utilities,55312.683266500164
+techforge_saas,TechForge SaaS,2026,8,6400,Insurance,158746.913284425
+techforge_saas,TechForge SaaS,2026,8,6500,Professional Fees,58661.27049066222
+techforge_saas,TechForge SaaS,2026,8,7000,Sales and Marketing,405000.0
+techforge_saas,TechForge SaaS,2026,8,7100,Advertising,150243.45627939166
+techforge_saas,TechForge SaaS,2026,8,7200,Travel and Entertainment,110991.71978132037
+techforge_saas,TechForge SaaS,2026,8,8000,Research and Development,161240.1979808844
+techforge_saas,TechForge SaaS,2026,8,9000,Depreciation Expense,61970.028991423074
+techforge_saas,TechForge SaaS,2026,8,9100,Amortization Expense,113816.26271534264
+techforge_saas,TechForge SaaS,2026,8,9500,Interest Expense,158684.6738468627
+techforge_saas,TechForge SaaS,2026,9,4200,Subscription Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,9,4100,Professional Services Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,9,5300,Cost of Services,1050000.0
+techforge_saas,TechForge SaaS,2026,9,6000,Salaries and Wages,944999.9999999999
+techforge_saas,TechForge SaaS,2026,9,6100,Employee Benefits,216000.0
+techforge_saas,TechForge SaaS,2026,9,6200,Rent,110494.56717037607
+techforge_saas,TechForge SaaS,2026,9,6300,Utilities,121975.05291860836
+techforge_saas,TechForge SaaS,2026,9,6400,Insurance,129140.85841033864
+techforge_saas,TechForge SaaS,2026,9,6500,Professional Fees,103090.4349949195
+techforge_saas,TechForge SaaS,2026,9,7000,Sales and Marketing,405000.0
+techforge_saas,TechForge SaaS,2026,9,7100,Advertising,121776.27264907885
+techforge_saas,TechForge SaaS,2026,9,7200,Travel and Entertainment,117105.94568769481
+techforge_saas,TechForge SaaS,2026,9,8000,Research and Development,151325.0651330268
+techforge_saas,TechForge SaaS,2026,9,9000,Depreciation Expense,58908.20907687745
+techforge_saas,TechForge SaaS,2026,9,9100,Amortization Expense,84344.02447596086
+techforge_saas,TechForge SaaS,2026,9,9500,Interest Expense,156644.44028026835
+techforge_saas,TechForge SaaS,2026,10,4200,Subscription Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,10,4100,Professional Services Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,10,5300,Cost of Services,1050000.0
+techforge_saas,TechForge SaaS,2026,10,6000,Salaries and Wages,944999.9999999999
+techforge_saas,TechForge SaaS,2026,10,6100,Employee Benefits,216000.0
+techforge_saas,TechForge SaaS,2026,10,6200,Rent,150148.48866021895
+techforge_saas,TechForge SaaS,2026,10,6300,Utilities,103210.92930085698
+techforge_saas,TechForge SaaS,2026,10,6400,Insurance,120974.32056256596
+techforge_saas,TechForge SaaS,2026,10,6500,Professional Fees,83957.16776196232
+techforge_saas,TechForge SaaS,2026,10,7000,Sales and Marketing,405000.0
+techforge_saas,TechForge SaaS,2026,10,7100,Advertising,74317.08525016623
+techforge_saas,TechForge SaaS,2026,10,7200,Travel and Entertainment,104079.42773351808
+techforge_saas,TechForge SaaS,2026,10,8000,Research and Development,92162.0406268137
+techforge_saas,TechForge SaaS,2026,10,9000,Depreciation Expense,117034.86007989418
+techforge_saas,TechForge SaaS,2026,10,9100,Amortization Expense,62395.34079221836
+techforge_saas,TechForge SaaS,2026,10,9500,Interest Expense,159234.63922794597
+techforge_saas,TechForge SaaS,2026,11,4200,Subscription Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,11,4100,Professional Services Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,11,5300,Cost of Services,1050000.0
+techforge_saas,TechForge SaaS,2026,11,6000,Salaries and Wages,944999.9999999999
+techforge_saas,TechForge SaaS,2026,11,6100,Employee Benefits,216000.0
+techforge_saas,TechForge SaaS,2026,11,6200,Rent,160510.7604037971
+techforge_saas,TechForge SaaS,2026,11,6300,Utilities,129401.46511413247
+techforge_saas,TechForge SaaS,2026,11,6400,Insurance,111898.40756516498
+techforge_saas,TechForge SaaS,2026,11,6500,Professional Fees,87428.9825589234
+techforge_saas,TechForge SaaS,2026,11,7000,Sales and Marketing,405000.0
+techforge_saas,TechForge SaaS,2026,11,7100,Advertising,141889.86212835045
+techforge_saas,TechForge SaaS,2026,11,7200,Travel and Entertainment,127950.96663581894
+techforge_saas,TechForge SaaS,2026,11,8000,Research and Development,71562.62944924826
+techforge_saas,TechForge SaaS,2026,11,9000,Depreciation Expense,152380.135925335
+techforge_saas,TechForge SaaS,2026,11,9100,Amortization Expense,142834.02223570223
+techforge_saas,TechForge SaaS,2026,11,9500,Interest Expense,156578.3906355278
+techforge_saas,TechForge SaaS,2026,12,4200,Subscription Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,12,4100,Professional Services Revenue,3750000.0
+techforge_saas,TechForge SaaS,2026,12,5300,Cost of Services,1050000.0
+techforge_saas,TechForge SaaS,2026,12,6000,Salaries and Wages,944999.9999999999
+techforge_saas,TechForge SaaS,2026,12,6100,Employee Benefits,216000.0
+techforge_saas,TechForge SaaS,2026,12,6200,Rent,132377.70690594288
+techforge_saas,TechForge SaaS,2026,12,6300,Utilities,120248.84116106528
+techforge_saas,TechForge SaaS,2026,12,6400,Insurance,99170.24791938683
+techforge_saas,TechForge SaaS,2026,12,6500,Professional Fees,154734.67620223342
+techforge_saas,TechForge SaaS,2026,12,7000,Sales and Marketing,405000.0
+techforge_saas,TechForge SaaS,2026,12,7100,Advertising,147534.9000660441
+techforge_saas,TechForge SaaS,2026,12,7200,Travel and Entertainment,58883.61637146845
+techforge_saas,TechForge SaaS,2026,12,8000,Research and Development,56847.63324570321
+techforge_saas,TechForge SaaS,2026,12,9000,Depreciation Expense,94658.04362282935
+techforge_saas,TechForge SaaS,2026,12,9100,Amortization Expense,141539.75972443796
+techforge_saas,TechForge SaaS,2026,12,9500,Interest Expense,160625.821966014
+precisionmfg_inc,PrecisionMfg Inc,2026,1,4000,Product Sales,10000000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,1,5000,Cost of Goods Sold - Materials,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,1,5100,Cost of Goods Sold - Labor,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,1,5200,Cost of Goods Sold - Overhead,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,1,6000,Salaries and Wages,1120000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,1,6100,Employee Benefits,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,1,6200,Rent,83253.3620612516
+precisionmfg_inc,PrecisionMfg Inc,2026,1,6300,Utilities,140048.73156507328
+precisionmfg_inc,PrecisionMfg Inc,2026,1,6400,Insurance,112754.02964877075
+precisionmfg_inc,PrecisionMfg Inc,2026,1,6500,Professional Fees,188149.0429202692
+precisionmfg_inc,PrecisionMfg Inc,2026,1,7000,Sales and Marketing,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,1,7100,Advertising,171791.2221613707
+precisionmfg_inc,PrecisionMfg Inc,2026,1,7200,Travel and Entertainment,171306.07420302564
+precisionmfg_inc,PrecisionMfg Inc,2026,1,8000,Research and Development,123992.7244537562
+precisionmfg_inc,PrecisionMfg Inc,2026,1,9000,Depreciation Expense,117096.89629922113
+precisionmfg_inc,PrecisionMfg Inc,2026,1,9100,Amortization Expense,98996.10520713039
+precisionmfg_inc,PrecisionMfg Inc,2026,1,9500,Interest Expense,71216.06357131866
+precisionmfg_inc,PrecisionMfg Inc,2026,2,4000,Product Sales,10000000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,2,5000,Cost of Goods Sold - Materials,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,2,5100,Cost of Goods Sold - Labor,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,2,5200,Cost of Goods Sold - Overhead,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,2,6000,Salaries and Wages,1120000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,2,6100,Employee Benefits,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,2,6200,Rent,174684.46416064678
+precisionmfg_inc,PrecisionMfg Inc,2026,2,6300,Utilities,168051.32916864994
+precisionmfg_inc,PrecisionMfg Inc,2026,2,6400,Insurance,191963.86218062468
+precisionmfg_inc,PrecisionMfg Inc,2026,2,6500,Professional Fees,191569.51514545985
+precisionmfg_inc,PrecisionMfg Inc,2026,2,7000,Sales and Marketing,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,2,7100,Advertising,135095.25831713632
+precisionmfg_inc,PrecisionMfg Inc,2026,2,7200,Travel and Entertainment,162430.38914310533
+precisionmfg_inc,PrecisionMfg Inc,2026,2,8000,Research and Development,184930.0134249508
+precisionmfg_inc,PrecisionMfg Inc,2026,2,9000,Depreciation Expense,172754.86600670865
+precisionmfg_inc,PrecisionMfg Inc,2026,2,9100,Amortization Expense,95660.5570231293
+precisionmfg_inc,PrecisionMfg Inc,2026,2,9500,Interest Expense,121669.64931969195
+precisionmfg_inc,PrecisionMfg Inc,2026,3,4000,Product Sales,10000000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,3,5000,Cost of Goods Sold - Materials,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,3,5100,Cost of Goods Sold - Labor,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,3,5200,Cost of Goods Sold - Overhead,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,3,6000,Salaries and Wages,1120000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,3,6100,Employee Benefits,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,3,6200,Rent,80532.40513939135
+precisionmfg_inc,PrecisionMfg Inc,2026,3,6300,Utilities,186118.53148911646
+precisionmfg_inc,PrecisionMfg Inc,2026,3,6400,Insurance,141590.35320971266
+precisionmfg_inc,PrecisionMfg Inc,2026,3,6500,Professional Fees,93266.27910444322
+precisionmfg_inc,PrecisionMfg Inc,2026,3,7000,Sales and Marketing,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,3,7100,Advertising,149977.68760394966
+precisionmfg_inc,PrecisionMfg Inc,2026,3,7200,Travel and Entertainment,143120.41477861066
+precisionmfg_inc,PrecisionMfg Inc,2026,3,8000,Research and Development,109844.82790820357
+precisionmfg_inc,PrecisionMfg Inc,2026,3,9000,Depreciation Expense,78535.37180155251
+precisionmfg_inc,PrecisionMfg Inc,2026,3,9100,Amortization Expense,149961.36903587834
+precisionmfg_inc,PrecisionMfg Inc,2026,3,9500,Interest Expense,130599.38571568552
+precisionmfg_inc,PrecisionMfg Inc,2026,4,4000,Product Sales,10000000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,4,5000,Cost of Goods Sold - Materials,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,4,5100,Cost of Goods Sold - Labor,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,4,5200,Cost of Goods Sold - Overhead,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,4,6000,Salaries and Wages,1120000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,4,6100,Employee Benefits,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,4,6200,Rent,162856.7541421618
+precisionmfg_inc,PrecisionMfg Inc,2026,4,6300,Utilities,130580.92814233513
+precisionmfg_inc,PrecisionMfg Inc,2026,4,6400,Insurance,173079.23204077312
+precisionmfg_inc,PrecisionMfg Inc,2026,4,6500,Professional Fees,134644.07536313415
+precisionmfg_inc,PrecisionMfg Inc,2026,4,7000,Sales and Marketing,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,4,7100,Advertising,135800.06035652943
+precisionmfg_inc,PrecisionMfg Inc,2026,4,7200,Travel and Entertainment,176211.66114026817
+precisionmfg_inc,PrecisionMfg Inc,2026,4,8000,Research and Development,115645.80687518681
+precisionmfg_inc,PrecisionMfg Inc,2026,4,9000,Depreciation Expense,81153.94924168201
+precisionmfg_inc,PrecisionMfg Inc,2026,4,9100,Amortization Expense,67684.18256810738
+precisionmfg_inc,PrecisionMfg Inc,2026,4,9500,Interest Expense,160657.56872622322
+precisionmfg_inc,PrecisionMfg Inc,2026,5,4000,Product Sales,10000000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,5,5000,Cost of Goods Sold - Materials,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,5,5100,Cost of Goods Sold - Labor,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,5,5200,Cost of Goods Sold - Overhead,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,5,6000,Salaries and Wages,1120000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,5,6100,Employee Benefits,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,5,6200,Rent,143399.62257324345
+precisionmfg_inc,PrecisionMfg Inc,2026,5,6300,Utilities,154122.2103167006
+precisionmfg_inc,PrecisionMfg Inc,2026,5,6400,Insurance,91259.41267314057
+precisionmfg_inc,PrecisionMfg Inc,2026,5,6500,Professional Fees,81455.54887510653
+precisionmfg_inc,PrecisionMfg Inc,2026,5,7000,Sales and Marketing,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,5,7100,Advertising,65861.7172054889
+precisionmfg_inc,PrecisionMfg Inc,2026,5,7200,Travel and Entertainment,108875.2075272444
+precisionmfg_inc,PrecisionMfg Inc,2026,5,8000,Research and Development,139509.46391739303
+precisionmfg_inc,PrecisionMfg Inc,2026,5,9000,Depreciation Expense,114207.23777276573
+precisionmfg_inc,PrecisionMfg Inc,2026,5,9100,Amortization Expense,119996.79001903732
+precisionmfg_inc,PrecisionMfg Inc,2026,5,9500,Interest Expense,179732.3128951998
+precisionmfg_inc,PrecisionMfg Inc,2026,6,4000,Product Sales,10000000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,6,5000,Cost of Goods Sold - Materials,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,6,5100,Cost of Goods Sold - Labor,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,6,5200,Cost of Goods Sold - Overhead,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,6,6000,Salaries and Wages,1120000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,6,6100,Employee Benefits,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,6,6200,Rent,108576.69977898244
+precisionmfg_inc,PrecisionMfg Inc,2026,6,6300,Utilities,129790.65461245578
+precisionmfg_inc,PrecisionMfg Inc,2026,6,6400,Insurance,164307.58563086632
+precisionmfg_inc,PrecisionMfg Inc,2026,6,6500,Professional Fees,114757.47613712258
+precisionmfg_inc,PrecisionMfg Inc,2026,6,7000,Sales and Marketing,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,6,7100,Advertising,143627.0976291678
+precisionmfg_inc,PrecisionMfg Inc,2026,6,7200,Travel and Entertainment,174382.55471958336
+precisionmfg_inc,PrecisionMfg Inc,2026,6,8000,Research and Development,185538.63982817816
+precisionmfg_inc,PrecisionMfg Inc,2026,6,9000,Depreciation Expense,82825.40555891686
+precisionmfg_inc,PrecisionMfg Inc,2026,6,9100,Amortization Expense,182603.2160206713
+precisionmfg_inc,PrecisionMfg Inc,2026,6,9500,Interest Expense,126990.88551418089
+precisionmfg_inc,PrecisionMfg Inc,2026,7,4000,Product Sales,10000000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,7,5000,Cost of Goods Sold - Materials,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,7,5100,Cost of Goods Sold - Labor,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,7,5200,Cost of Goods Sold - Overhead,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,7,6000,Salaries and Wages,1120000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,7,6100,Employee Benefits,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,7,6200,Rent,97055.28170226667
+precisionmfg_inc,PrecisionMfg Inc,2026,7,6300,Utilities,122769.37679849744
+precisionmfg_inc,PrecisionMfg Inc,2026,7,6400,Insurance,189444.16963654102
+precisionmfg_inc,PrecisionMfg Inc,2026,7,6500,Professional Fees,127055.1160310873
+precisionmfg_inc,PrecisionMfg Inc,2026,7,7000,Sales and Marketing,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,7,7100,Advertising,106080.20611680104
+precisionmfg_inc,PrecisionMfg Inc,2026,7,7200,Travel and Entertainment,145075.3093525409
+precisionmfg_inc,PrecisionMfg Inc,2026,7,8000,Research and Development,94738.6392036087
+precisionmfg_inc,PrecisionMfg Inc,2026,7,9000,Depreciation Expense,73710.50599790899
+precisionmfg_inc,PrecisionMfg Inc,2026,7,9100,Amortization Expense,80496.6044045631
+precisionmfg_inc,PrecisionMfg Inc,2026,7,9500,Interest Expense,80389.86738659487
+precisionmfg_inc,PrecisionMfg Inc,2026,8,4000,Product Sales,10000000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,8,5000,Cost of Goods Sold - Materials,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,8,5100,Cost of Goods Sold - Labor,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,8,5200,Cost of Goods Sold - Overhead,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,8,6000,Salaries and Wages,1120000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,8,6100,Employee Benefits,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,8,6200,Rent,83443.54476957368
+precisionmfg_inc,PrecisionMfg Inc,2026,8,6300,Utilities,81769.8780991245
+precisionmfg_inc,PrecisionMfg Inc,2026,8,6400,Insurance,146031.9673348115
+precisionmfg_inc,PrecisionMfg Inc,2026,8,6500,Professional Fees,87280.65080309052
+precisionmfg_inc,PrecisionMfg Inc,2026,8,7000,Sales and Marketing,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,8,7100,Advertising,108245.41226545448
+precisionmfg_inc,PrecisionMfg Inc,2026,8,7200,Travel and Entertainment,178788.9164679695
+precisionmfg_inc,PrecisionMfg Inc,2026,8,8000,Research and Development,124667.08995364766
+precisionmfg_inc,PrecisionMfg Inc,2026,8,9000,Depreciation Expense,149447.39053069148
+precisionmfg_inc,PrecisionMfg Inc,2026,8,9100,Amortization Expense,86056.94351380861
+precisionmfg_inc,PrecisionMfg Inc,2026,8,9500,Interest Expense,88612.99440750986
+precisionmfg_inc,PrecisionMfg Inc,2026,9,4000,Product Sales,10000000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,9,5000,Cost of Goods Sold - Materials,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,9,5100,Cost of Goods Sold - Labor,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,9,5200,Cost of Goods Sold - Overhead,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,9,6000,Salaries and Wages,1120000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,9,6100,Employee Benefits,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,9,6200,Rent,69231.1828821093
+precisionmfg_inc,PrecisionMfg Inc,2026,9,6300,Utilities,85623.68807323706
+precisionmfg_inc,PrecisionMfg Inc,2026,9,6400,Insurance,99659.5633960907
+precisionmfg_inc,PrecisionMfg Inc,2026,9,6500,Professional Fees,86657.34198742358
+precisionmfg_inc,PrecisionMfg Inc,2026,9,7000,Sales and Marketing,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,9,7100,Advertising,75353.92432090313
+precisionmfg_inc,PrecisionMfg Inc,2026,9,7200,Travel and Entertainment,79441.3915008769
+precisionmfg_inc,PrecisionMfg Inc,2026,9,8000,Research and Development,122979.68230818887
+precisionmfg_inc,PrecisionMfg Inc,2026,9,9000,Depreciation Expense,90410.71595594143
+precisionmfg_inc,PrecisionMfg Inc,2026,9,9100,Amortization Expense,110626.54221415364
+precisionmfg_inc,PrecisionMfg Inc,2026,9,9500,Interest Expense,128437.41066942168
+precisionmfg_inc,PrecisionMfg Inc,2026,10,4000,Product Sales,10000000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,10,5000,Cost of Goods Sold - Materials,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,10,5100,Cost of Goods Sold - Labor,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,10,5200,Cost of Goods Sold - Overhead,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,10,6000,Salaries and Wages,1120000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,10,6100,Employee Benefits,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,10,6200,Rent,152370.53806455876
+precisionmfg_inc,PrecisionMfg Inc,2026,10,6300,Utilities,69031.95389966066
+precisionmfg_inc,PrecisionMfg Inc,2026,10,6400,Insurance,166324.53106035743
+precisionmfg_inc,PrecisionMfg Inc,2026,10,6500,Professional Fees,144371.24985483618
+precisionmfg_inc,PrecisionMfg Inc,2026,10,7000,Sales and Marketing,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,10,7100,Advertising,74465.1560894556
+precisionmfg_inc,PrecisionMfg Inc,2026,10,7200,Travel and Entertainment,175818.06388566745
+precisionmfg_inc,PrecisionMfg Inc,2026,10,8000,Research and Development,181871.66726807208
+precisionmfg_inc,PrecisionMfg Inc,2026,10,9000,Depreciation Expense,71817.97886142255
+precisionmfg_inc,PrecisionMfg Inc,2026,10,9100,Amortization Expense,99440.33896284208
+precisionmfg_inc,PrecisionMfg Inc,2026,10,9500,Interest Expense,167193.76381351182
+precisionmfg_inc,PrecisionMfg Inc,2026,11,4000,Product Sales,10000000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,11,5000,Cost of Goods Sold - Materials,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,11,5100,Cost of Goods Sold - Labor,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,11,5200,Cost of Goods Sold - Overhead,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,11,6000,Salaries and Wages,1120000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,11,6100,Employee Benefits,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,11,6200,Rent,159777.24036910824
+precisionmfg_inc,PrecisionMfg Inc,2026,11,6300,Utilities,87618.6904776163
+precisionmfg_inc,PrecisionMfg Inc,2026,11,6400,Insurance,90796.71338709892
+precisionmfg_inc,PrecisionMfg Inc,2026,11,6500,Professional Fees,111420.42915729688
+precisionmfg_inc,PrecisionMfg Inc,2026,11,7000,Sales and Marketing,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,11,7100,Advertising,126018.94210445073
+precisionmfg_inc,PrecisionMfg Inc,2026,11,7200,Travel and Entertainment,143136.61075587786
+precisionmfg_inc,PrecisionMfg Inc,2026,11,8000,Research and Development,111220.94586493088
+precisionmfg_inc,PrecisionMfg Inc,2026,11,9000,Depreciation Expense,123204.44366504293
+precisionmfg_inc,PrecisionMfg Inc,2026,11,9100,Amortization Expense,159676.2800811208
+precisionmfg_inc,PrecisionMfg Inc,2026,11,9500,Interest Expense,68695.44996999654
+precisionmfg_inc,PrecisionMfg Inc,2026,12,4000,Product Sales,10000000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,12,5000,Cost of Goods Sold - Materials,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,12,5100,Cost of Goods Sold - Labor,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,12,5200,Cost of Goods Sold - Overhead,2266666.6666666665
+precisionmfg_inc,PrecisionMfg Inc,2026,12,6000,Salaries and Wages,1120000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,12,6100,Employee Benefits,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,12,6200,Rent,96311.92887603465
+precisionmfg_inc,PrecisionMfg Inc,2026,12,6300,Utilities,155308.7469932227
+precisionmfg_inc,PrecisionMfg Inc,2026,12,6400,Insurance,178586.47522396152
+precisionmfg_inc,PrecisionMfg Inc,2026,12,6500,Professional Fees,129494.71259080525
+precisionmfg_inc,PrecisionMfg Inc,2026,12,7000,Sales and Marketing,256000.0
+precisionmfg_inc,PrecisionMfg Inc,2026,12,7100,Advertising,132110.5261139604
+precisionmfg_inc,PrecisionMfg Inc,2026,12,7200,Travel and Entertainment,77718.01745149134
+precisionmfg_inc,PrecisionMfg Inc,2026,12,8000,Research and Development,121268.78295340217
+precisionmfg_inc,PrecisionMfg Inc,2026,12,9000,Depreciation Expense,132175.01010624296
+precisionmfg_inc,PrecisionMfg Inc,2026,12,9100,Amortization Expense,95036.2244652454
+precisionmfg_inc,PrecisionMfg Inc,2026,12,9500,Interest Expense,98463.13356152076
+retailco,RetailCo,2026,1,4000,Store Revenue,16666666.666666666
+retailco,RetailCo,2026,1,5000,Cost of Goods Sold - Materials,3444444.444444444
+retailco,RetailCo,2026,1,5100,Cost of Goods Sold - Labor,3444444.444444444
+retailco,RetailCo,2026,1,5200,Cost of Goods Sold - Overhead,3444444.444444444
+retailco,RetailCo,2026,1,6000,Salaries and Wages,2216666.6666666665
+retailco,RetailCo,2026,1,6100,Employee Benefits,506666.6666666666
+retailco,RetailCo,2026,1,6200,Rent,222245.3213198377
+retailco,RetailCo,2026,1,6300,Utilities,131751.3701036907
+retailco,RetailCo,2026,1,6400,Insurance,208260.0552810718
+retailco,RetailCo,2026,1,6500,Professional Fees,180233.49510579128
+retailco,RetailCo,2026,1,7000,Sales and Marketing,506666.6666666666
+retailco,RetailCo,2026,1,7100,Advertising,209632.66255173835
+retailco,RetailCo,2026,1,7200,Travel and Entertainment,157006.40672754362
+retailco,RetailCo,2026,1,8000,Research and Development,352266.91112077335
+retailco,RetailCo,2026,1,9000,Depreciation Expense,277043.42156702565
+retailco,RetailCo,2026,1,9100,Amortization Expense,298705.92084993736
+retailco,RetailCo,2026,1,9500,Interest Expense,326590.047113859
+retailco,RetailCo,2026,2,4000,Store Revenue,16666666.666666666
+retailco,RetailCo,2026,2,5000,Cost of Goods Sold - Materials,3444444.444444444
+retailco,RetailCo,2026,2,5100,Cost of Goods Sold - Labor,3444444.444444444
+retailco,RetailCo,2026,2,5200,Cost of Goods Sold - Overhead,3444444.444444444
+retailco,RetailCo,2026,2,6000,Salaries and Wages,2216666.6666666665
+retailco,RetailCo,2026,2,6100,Employee Benefits,506666.6666666666
+retailco,RetailCo,2026,2,6200,Rent,252938.6903953612
+retailco,RetailCo,2026,2,6300,Utilities,148686.47298214733
+retailco,RetailCo,2026,2,6400,Insurance,262733.6572606988
+retailco,RetailCo,2026,2,6500,Professional Fees,275333.083231956
+retailco,RetailCo,2026,2,7000,Sales and Marketing,506666.6666666666
+retailco,RetailCo,2026,2,7100,Advertising,315511.3334600302
+retailco,RetailCo,2026,2,7200,Travel and Entertainment,236020.41837818542
+retailco,RetailCo,2026,2,8000,Research and Development,158987.01004154282
+retailco,RetailCo,2026,2,9000,Depreciation Expense,198556.56280234354
+retailco,RetailCo,2026,2,9100,Amortization Expense,218647.5150876542
+retailco,RetailCo,2026,2,9500,Interest Expense,290299.0344706723
+retailco,RetailCo,2026,3,4000,Store Revenue,16666666.666666666
+retailco,RetailCo,2026,3,5000,Cost of Goods Sold - Materials,3444444.444444444
+retailco,RetailCo,2026,3,5100,Cost of Goods Sold - Labor,3444444.444444444
+retailco,RetailCo,2026,3,5200,Cost of Goods Sold - Overhead,3444444.444444444
+retailco,RetailCo,2026,3,6000,Salaries and Wages,2216666.6666666665
+retailco,RetailCo,2026,3,6100,Employee Benefits,506666.6666666666
+retailco,RetailCo,2026,3,6200,Rent,271263.837182791
+retailco,RetailCo,2026,3,6300,Utilities,216877.83722745438
+retailco,RetailCo,2026,3,6400,Insurance,376583.8630275548
+retailco,RetailCo,2026,3,6500,Professional Fees,280129.62090374477
+retailco,RetailCo,2026,3,7000,Sales and Marketing,506666.6666666666
+retailco,RetailCo,2026,3,7100,Advertising,186764.1205731186
+retailco,RetailCo,2026,3,7200,Travel and Entertainment,152451.55973050228
+retailco,RetailCo,2026,3,8000,Research and Development,165390.98192669742
+retailco,RetailCo,2026,3,9000,Depreciation Expense,188975.9578574087
+retailco,RetailCo,2026,3,9100,Amortization Expense,167372.61455908744
+retailco,RetailCo,2026,3,9500,Interest Expense,173930.3127596641
+retailco,RetailCo,2026,4,4000,Store Revenue,16666666.666666666
+retailco,RetailCo,2026,4,5000,Cost of Goods Sold - Materials,3444444.444444444
+retailco,RetailCo,2026,4,5100,Cost of Goods Sold - Labor,3444444.444444444
+retailco,RetailCo,2026,4,5200,Cost of Goods Sold - Overhead,3444444.444444444
+retailco,RetailCo,2026,4,6000,Salaries and Wages,2216666.6666666665
+retailco,RetailCo,2026,4,6100,Employee Benefits,506666.6666666666
+retailco,RetailCo,2026,4,6200,Rent,198890.7760691079
+retailco,RetailCo,2026,4,6300,Utilities,170587.9774746712
+retailco,RetailCo,2026,4,6400,Insurance,353847.240905361
+retailco,RetailCo,2026,4,6500,Professional Fees,146992.54890094936
+retailco,RetailCo,2026,4,7000,Sales and Marketing,506666.6666666666
+retailco,RetailCo,2026,4,7100,Advertising,259542.88535779784
+retailco,RetailCo,2026,4,7200,Travel and Entertainment,230633.86283738088
+retailco,RetailCo,2026,4,8000,Research and Development,375535.9162835136
+retailco,RetailCo,2026,4,9000,Depreciation Expense,155049.85521590657
+retailco,RetailCo,2026,4,9100,Amortization Expense,227456.75175825454
+retailco,RetailCo,2026,4,9500,Interest Expense,372265.84309642675
+retailco,RetailCo,2026,5,4000,Store Revenue,16666666.666666666
+retailco,RetailCo,2026,5,5000,Cost of Goods Sold - Materials,3444444.444444444
+retailco,RetailCo,2026,5,5100,Cost of Goods Sold - Labor,3444444.444444444
+retailco,RetailCo,2026,5,5200,Cost of Goods Sold - Overhead,3444444.444444444
+retailco,RetailCo,2026,5,6000,Salaries and Wages,2216666.6666666665
+retailco,RetailCo,2026,5,6100,Employee Benefits,506666.6666666666
+retailco,RetailCo,2026,5,6200,Rent,345928.4718931416
+retailco,RetailCo,2026,5,6300,Utilities,333658.2579738175
+retailco,RetailCo,2026,5,6400,Insurance,192002.0495180514
+retailco,RetailCo,2026,5,6500,Professional Fees,169958.18880548334
+retailco,RetailCo,2026,5,7000,Sales and Marketing,506666.6666666666
+retailco,RetailCo,2026,5,7100,Advertising,296056.2823808558
+retailco,RetailCo,2026,5,7200,Travel and Entertainment,362108.5839123217
+retailco,RetailCo,2026,5,8000,Research and Development,267713.2662301955
+retailco,RetailCo,2026,5,9000,Depreciation Expense,271475.21466570796
+retailco,RetailCo,2026,5,9100,Amortization Expense,197594.70372727196
+retailco,RetailCo,2026,5,9500,Interest Expense,321604.87640862394
+retailco,RetailCo,2026,6,4000,Store Revenue,16666666.666666666
+retailco,RetailCo,2026,6,5000,Cost of Goods Sold - Materials,3444444.444444444
+retailco,RetailCo,2026,6,5100,Cost of Goods Sold - Labor,3444444.444444444
+retailco,RetailCo,2026,6,5200,Cost of Goods Sold - Overhead,3444444.444444444
+retailco,RetailCo,2026,6,6000,Salaries and Wages,2216666.6666666665
+retailco,RetailCo,2026,6,6100,Employee Benefits,506666.6666666666
+retailco,RetailCo,2026,6,6200,Rent,174051.0829679059
+retailco,RetailCo,2026,6,6300,Utilities,208665.4065557417
+retailco,RetailCo,2026,6,6400,Insurance,234443.89778282557
+retailco,RetailCo,2026,6,6500,Professional Fees,255261.29593339527
+retailco,RetailCo,2026,6,7000,Sales and Marketing,506666.6666666666
+retailco,RetailCo,2026,6,7100,Advertising,188077.13221182034
+retailco,RetailCo,2026,6,7200,Travel and Entertainment,155758.66226726488
+retailco,RetailCo,2026,6,8000,Research and Development,281357.0774185469
+retailco,RetailCo,2026,6,9000,Depreciation Expense,199786.40682086477
+retailco,RetailCo,2026,6,9100,Amortization Expense,273913.68276039505
+retailco,RetailCo,2026,6,9500,Interest Expense,165771.88786946458
+retailco,RetailCo,2026,7,4000,Store Revenue,16666666.666666666
+retailco,RetailCo,2026,7,5000,Cost of Goods Sold - Materials,3444444.444444444
+retailco,RetailCo,2026,7,5100,Cost of Goods Sold - Labor,3444444.444444444
+retailco,RetailCo,2026,7,5200,Cost of Goods Sold - Overhead,3444444.444444444
+retailco,RetailCo,2026,7,6000,Salaries and Wages,2216666.6666666665
+retailco,RetailCo,2026,7,6100,Employee Benefits,506666.6666666666
+retailco,RetailCo,2026,7,6200,Rent,248555.49246988707
+retailco,RetailCo,2026,7,6300,Utilities,261589.32291306838
+retailco,RetailCo,2026,7,6400,Insurance,139795.2959950148
+retailco,RetailCo,2026,7,6500,Professional Fees,211939.75047579317
+retailco,RetailCo,2026,7,7000,Sales and Marketing,506666.6666666666
+retailco,RetailCo,2026,7,7100,Advertising,160718.38482454012
+retailco,RetailCo,2026,7,7200,Travel and Entertainment,142721.6591864345
+retailco,RetailCo,2026,7,8000,Research and Development,377456.59220545273
+retailco,RetailCo,2026,7,9000,Depreciation Expense,208329.64072692982
+retailco,RetailCo,2026,7,9100,Amortization Expense,331834.8596165075
+retailco,RetailCo,2026,7,9500,Interest Expense,191175.6325401535
+retailco,RetailCo,2026,8,4000,Store Revenue,16666666.666666666
+retailco,RetailCo,2026,8,5000,Cost of Goods Sold - Materials,3444444.444444444
+retailco,RetailCo,2026,8,5100,Cost of Goods Sold - Labor,3444444.444444444
+retailco,RetailCo,2026,8,5200,Cost of Goods Sold - Overhead,3444444.444444444
+retailco,RetailCo,2026,8,6000,Salaries and Wages,2216666.6666666665
+retailco,RetailCo,2026,8,6100,Employee Benefits,506666.6666666666
+retailco,RetailCo,2026,8,6200,Rent,299314.0229633954
+retailco,RetailCo,2026,8,6300,Utilities,319257.7245053872
+retailco,RetailCo,2026,8,6400,Insurance,277561.81428732054
+retailco,RetailCo,2026,8,6500,Professional Fees,246132.63443270678
+retailco,RetailCo,2026,8,7000,Sales and Marketing,506666.6666666666
+retailco,RetailCo,2026,8,7100,Advertising,230999.69825064135
+retailco,RetailCo,2026,8,7200,Travel and Entertainment,215046.62752422542
+retailco,RetailCo,2026,8,8000,Research and Development,362147.3832094492
+retailco,RetailCo,2026,8,9000,Depreciation Expense,337090.24997289135
+retailco,RetailCo,2026,8,9100,Amortization Expense,371140.15070218313
+retailco,RetailCo,2026,8,9500,Interest Expense,158155.296616338
+retailco,RetailCo,2026,9,4000,Store Revenue,16666666.666666666
+retailco,RetailCo,2026,9,5000,Cost of Goods Sold - Materials,3444444.444444444
+retailco,RetailCo,2026,9,5100,Cost of Goods Sold - Labor,3444444.444444444
+retailco,RetailCo,2026,9,5200,Cost of Goods Sold - Overhead,3444444.444444444
+retailco,RetailCo,2026,9,6000,Salaries and Wages,2216666.6666666665
+retailco,RetailCo,2026,9,6100,Employee Benefits,506666.6666666666
+retailco,RetailCo,2026,9,6200,Rent,311819.7603849232
+retailco,RetailCo,2026,9,6300,Utilities,364379.58239466284
+retailco,RetailCo,2026,9,6400,Insurance,172579.0434286339
+retailco,RetailCo,2026,9,6500,Professional Fees,143512.38773291698
+retailco,RetailCo,2026,9,7000,Sales and Marketing,506666.6666666666
+retailco,RetailCo,2026,9,7100,Advertising,314417.2311534816
+retailco,RetailCo,2026,9,7200,Travel and Entertainment,272199.85533891094
+retailco,RetailCo,2026,9,8000,Research and Development,339929.9567787622
+retailco,RetailCo,2026,9,9000,Depreciation Expense,162075.66874532666
+retailco,RetailCo,2026,9,9100,Amortization Expense,328134.3856711721
+retailco,RetailCo,2026,9,9500,Interest Expense,177745.5877454286
+retailco,RetailCo,2026,10,4000,Store Revenue,16666666.666666666
+retailco,RetailCo,2026,10,5000,Cost of Goods Sold - Materials,3444444.444444444
+retailco,RetailCo,2026,10,5100,Cost of Goods Sold - Labor,3444444.444444444
+retailco,RetailCo,2026,10,5200,Cost of Goods Sold - Overhead,3444444.444444444
+retailco,RetailCo,2026,10,6000,Salaries and Wages,2216666.6666666665
+retailco,RetailCo,2026,10,6100,Employee Benefits,506666.6666666666
+retailco,RetailCo,2026,10,6200,Rent,168126.17219264514
+retailco,RetailCo,2026,10,6300,Utilities,168280.6688091849
+retailco,RetailCo,2026,10,6400,Insurance,333025.5957919501
+retailco,RetailCo,2026,10,6500,Professional Fees,295183.295909704
+retailco,RetailCo,2026,10,7000,Sales and Marketing,506666.6666666666
+retailco,RetailCo,2026,10,7100,Advertising,259176.57427484353
+retailco,RetailCo,2026,10,7200,Travel and Entertainment,217570.38931128726
+retailco,RetailCo,2026,10,8000,Research and Development,348890.80367265403
+retailco,RetailCo,2026,10,9000,Depreciation Expense,226086.09388040096
+retailco,RetailCo,2026,10,9100,Amortization Expense,333538.5246661329
+retailco,RetailCo,2026,10,9500,Interest Expense,237914.17683778863
+retailco,RetailCo,2026,11,4000,Store Revenue,16666666.666666666
+retailco,RetailCo,2026,11,5000,Cost of Goods Sold - Materials,3444444.444444444
+retailco,RetailCo,2026,11,5100,Cost of Goods Sold - Labor,3444444.444444444
+retailco,RetailCo,2026,11,5200,Cost of Goods Sold - Overhead,3444444.444444444
+retailco,RetailCo,2026,11,6000,Salaries and Wages,2216666.6666666665
+retailco,RetailCo,2026,11,6100,Employee Benefits,506666.6666666666
+retailco,RetailCo,2026,11,6200,Rent,222159.25545430987
+retailco,RetailCo,2026,11,6300,Utilities,243878.8790363003
+retailco,RetailCo,2026,11,6400,Insurance,203015.72812158265
+retailco,RetailCo,2026,11,6500,Professional Fees,316061.0429779836
+retailco,RetailCo,2026,11,7000,Sales and Marketing,506666.6666666666
+retailco,RetailCo,2026,11,7100,Advertising,254022.49882342803
+retailco,RetailCo,2026,11,7200,Travel and Entertainment,185493.88277052704
+retailco,RetailCo,2026,11,8000,Research and Development,354558.891896224
+retailco,RetailCo,2026,11,9000,Depreciation Expense,223919.10941454684
+retailco,RetailCo,2026,11,9100,Amortization Expense,264366.72481554374
+retailco,RetailCo,2026,11,9500,Interest Expense,356306.2681110185
+retailco,RetailCo,2026,12,4000,Store Revenue,16666666.666666666
+retailco,RetailCo,2026,12,5000,Cost of Goods Sold - Materials,3444444.444444444
+retailco,RetailCo,2026,12,5100,Cost of Goods Sold - Labor,3444444.444444444
+retailco,RetailCo,2026,12,5200,Cost of Goods Sold - Overhead,3444444.444444444
+retailco,RetailCo,2026,12,6000,Salaries and Wages,2216666.6666666665
+retailco,RetailCo,2026,12,6100,Employee Benefits,506666.6666666666
+retailco,RetailCo,2026,12,6200,Rent,284806.958964878
+retailco,RetailCo,2026,12,6300,Utilities,156280.8369794522
+retailco,RetailCo,2026,12,6400,Insurance,364757.47131541366
+retailco,RetailCo,2026,12,6500,Professional Fees,285686.0401114258
+retailco,RetailCo,2026,12,7000,Sales and Marketing,506666.6666666666
+retailco,RetailCo,2026,12,7100,Advertising,211509.4223797951
+retailco,RetailCo,2026,12,7200,Travel and Entertainment,161948.92507472474
+retailco,RetailCo,2026,12,8000,Research and Development,327819.7146151416
+retailco,RetailCo,2026,12,9000,Depreciation Expense,283751.7648352234
+retailco,RetailCo,2026,12,9100,Amortization Expense,261810.14330066807
+retailco,RetailCo,2026,12,9500,Interest Expense,353119.4543729092
+healthservices_plus,HealthServices Plus,2026,1,4100,Service Revenue,2916666.6666666665
+healthservices_plus,HealthServices Plus,2026,1,5300,Cost of Services,1312499.9999999998
+healthservices_plus,HealthServices Plus,2026,1,6000,Salaries and Wages,561458.3333333334
+healthservices_plus,HealthServices Plus,2026,1,6100,Employee Benefits,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,1,6200,Rent,82684.98772024072
+healthservices_plus,HealthServices Plus,2026,1,6300,Utilities,41815.804782851534
+healthservices_plus,HealthServices Plus,2026,1,6400,Insurance,52085.49935021434
+healthservices_plus,HealthServices Plus,2026,1,6500,Professional Fees,48028.05313809488
+healthservices_plus,HealthServices Plus,2026,1,7000,Sales and Marketing,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,1,7100,Advertising,79819.88710674677
+healthservices_plus,HealthServices Plus,2026,1,7200,Travel and Entertainment,34234.99789554585
+healthservices_plus,HealthServices Plus,2026,1,8000,Research and Development,68651.25477924281
+healthservices_plus,HealthServices Plus,2026,1,9000,Depreciation Expense,81007.76566836097
+healthservices_plus,HealthServices Plus,2026,1,9100,Amortization Expense,88342.46169221224
+healthservices_plus,HealthServices Plus,2026,1,9500,Interest Expense,54033.5788759374
+healthservices_plus,HealthServices Plus,2026,2,4100,Service Revenue,2916666.6666666665
+healthservices_plus,HealthServices Plus,2026,2,5300,Cost of Services,1312499.9999999998
+healthservices_plus,HealthServices Plus,2026,2,6000,Salaries and Wages,561458.3333333334
+healthservices_plus,HealthServices Plus,2026,2,6100,Employee Benefits,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,2,6200,Rent,84780.67704978748
+healthservices_plus,HealthServices Plus,2026,2,6300,Utilities,39182.20312129246
+healthservices_plus,HealthServices Plus,2026,2,6400,Insurance,86397.35538629825
+healthservices_plus,HealthServices Plus,2026,2,6500,Professional Fees,40263.855832968875
+healthservices_plus,HealthServices Plus,2026,2,7000,Sales and Marketing,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,2,7100,Advertising,57575.93447762356
+healthservices_plus,HealthServices Plus,2026,2,7200,Travel and Entertainment,83243.11930418802
+healthservices_plus,HealthServices Plus,2026,2,8000,Research and Development,41703.03492154632
+healthservices_plus,HealthServices Plus,2026,2,9000,Depreciation Expense,46793.631194094494
+healthservices_plus,HealthServices Plus,2026,2,9100,Amortization Expense,78427.87313855508
+healthservices_plus,HealthServices Plus,2026,2,9500,Interest Expense,78285.67776170644
+healthservices_plus,HealthServices Plus,2026,3,4100,Service Revenue,2916666.6666666665
+healthservices_plus,HealthServices Plus,2026,3,5300,Cost of Services,1312499.9999999998
+healthservices_plus,HealthServices Plus,2026,3,6000,Salaries and Wages,561458.3333333334
+healthservices_plus,HealthServices Plus,2026,3,6100,Employee Benefits,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,3,6200,Rent,73223.63977680658
+healthservices_plus,HealthServices Plus,2026,3,6300,Utilities,76611.69185330557
+healthservices_plus,HealthServices Plus,2026,3,6400,Insurance,66908.15178147076
+healthservices_plus,HealthServices Plus,2026,3,6500,Professional Fees,48240.43961319613
+healthservices_plus,HealthServices Plus,2026,3,7000,Sales and Marketing,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,3,7100,Advertising,54265.4929165015
+healthservices_plus,HealthServices Plus,2026,3,7200,Travel and Entertainment,43735.85349475814
+healthservices_plus,HealthServices Plus,2026,3,8000,Research and Development,90375.57768557448
+healthservices_plus,HealthServices Plus,2026,3,9000,Depreciation Expense,69517.6401641594
+healthservices_plus,HealthServices Plus,2026,3,9100,Amortization Expense,57804.63257566689
+healthservices_plus,HealthServices Plus,2026,3,9500,Interest Expense,61728.70573383185
+healthservices_plus,HealthServices Plus,2026,4,4100,Service Revenue,2916666.6666666665
+healthservices_plus,HealthServices Plus,2026,4,5300,Cost of Services,1312499.9999999998
+healthservices_plus,HealthServices Plus,2026,4,6000,Salaries and Wages,561458.3333333334
+healthservices_plus,HealthServices Plus,2026,4,6100,Employee Benefits,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,4,6200,Rent,92867.34762509148
+healthservices_plus,HealthServices Plus,2026,4,6300,Utilities,41923.381699948484
+healthservices_plus,HealthServices Plus,2026,4,6400,Insurance,69699.74755441115
+healthservices_plus,HealthServices Plus,2026,4,6500,Professional Fees,64544.52356175323
+healthservices_plus,HealthServices Plus,2026,4,7000,Sales and Marketing,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,4,7100,Advertising,71318.3134403899
+healthservices_plus,HealthServices Plus,2026,4,7200,Travel and Entertainment,33245.40346183727
+healthservices_plus,HealthServices Plus,2026,4,8000,Research and Development,88044.61749058304
+healthservices_plus,HealthServices Plus,2026,4,9000,Depreciation Expense,91894.25645936512
+healthservices_plus,HealthServices Plus,2026,4,9100,Amortization Expense,68346.04594697423
+healthservices_plus,HealthServices Plus,2026,4,9500,Interest Expense,76785.09453210059
+healthservices_plus,HealthServices Plus,2026,5,4100,Service Revenue,2916666.6666666665
+healthservices_plus,HealthServices Plus,2026,5,5300,Cost of Services,1312499.9999999998
+healthservices_plus,HealthServices Plus,2026,5,6000,Salaries and Wages,561458.3333333334
+healthservices_plus,HealthServices Plus,2026,5,6100,Employee Benefits,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,5,6200,Rent,91277.04362554314
+healthservices_plus,HealthServices Plus,2026,5,6300,Utilities,77464.47903510973
+healthservices_plus,HealthServices Plus,2026,5,6400,Insurance,41871.255253665106
+healthservices_plus,HealthServices Plus,2026,5,6500,Professional Fees,69061.83644403718
+healthservices_plus,HealthServices Plus,2026,5,7000,Sales and Marketing,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,5,7100,Advertising,71014.21547623325
+healthservices_plus,HealthServices Plus,2026,5,7200,Travel and Entertainment,59298.3847419031
+healthservices_plus,HealthServices Plus,2026,5,8000,Research and Development,79338.50511925305
+healthservices_plus,HealthServices Plus,2026,5,9000,Depreciation Expense,92038.55011434513
+healthservices_plus,HealthServices Plus,2026,5,9100,Amortization Expense,91473.97957818481
+healthservices_plus,HealthServices Plus,2026,5,9500,Interest Expense,61012.192998431805
+healthservices_plus,HealthServices Plus,2026,6,4100,Service Revenue,2916666.6666666665
+healthservices_plus,HealthServices Plus,2026,6,5300,Cost of Services,1312499.9999999998
+healthservices_plus,HealthServices Plus,2026,6,6000,Salaries and Wages,561458.3333333334
+healthservices_plus,HealthServices Plus,2026,6,6100,Employee Benefits,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,6,6200,Rent,39349.44127478179
+healthservices_plus,HealthServices Plus,2026,6,6300,Utilities,95277.31026674979
+healthservices_plus,HealthServices Plus,2026,6,6400,Insurance,85912.62721361409
+healthservices_plus,HealthServices Plus,2026,6,6500,Professional Fees,40082.52204387629
+healthservices_plus,HealthServices Plus,2026,6,7000,Sales and Marketing,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,6,7100,Advertising,91170.68746794807
+healthservices_plus,HealthServices Plus,2026,6,7200,Travel and Entertainment,87901.68323231989
+healthservices_plus,HealthServices Plus,2026,6,8000,Research and Development,65375.44199892296
+healthservices_plus,HealthServices Plus,2026,6,9000,Depreciation Expense,70023.5071269663
+healthservices_plus,HealthServices Plus,2026,6,9100,Amortization Expense,57686.00683166669
+healthservices_plus,HealthServices Plus,2026,6,9500,Interest Expense,35597.20515774701
+healthservices_plus,HealthServices Plus,2026,7,4100,Service Revenue,2916666.6666666665
+healthservices_plus,HealthServices Plus,2026,7,5300,Cost of Services,1312499.9999999998
+healthservices_plus,HealthServices Plus,2026,7,6000,Salaries and Wages,561458.3333333334
+healthservices_plus,HealthServices Plus,2026,7,6100,Employee Benefits,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,7,6200,Rent,53591.82300561198
+healthservices_plus,HealthServices Plus,2026,7,6300,Utilities,83599.76295170572
+healthservices_plus,HealthServices Plus,2026,7,6400,Insurance,32380.55480946202
+healthservices_plus,HealthServices Plus,2026,7,6500,Professional Fees,53482.86351684842
+healthservices_plus,HealthServices Plus,2026,7,7000,Sales and Marketing,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,7,7100,Advertising,57632.49117208553
+healthservices_plus,HealthServices Plus,2026,7,7200,Travel and Entertainment,66566.21785518338
+healthservices_plus,HealthServices Plus,2026,7,8000,Research and Development,91107.40205315214
+healthservices_plus,HealthServices Plus,2026,7,9000,Depreciation Expense,54307.20130514918
+healthservices_plus,HealthServices Plus,2026,7,9100,Amortization Expense,54346.16378834128
+healthservices_plus,HealthServices Plus,2026,7,9500,Interest Expense,79406.33008704218
+healthservices_plus,HealthServices Plus,2026,8,4100,Service Revenue,2916666.6666666665
+healthservices_plus,HealthServices Plus,2026,8,5300,Cost of Services,1312499.9999999998
+healthservices_plus,HealthServices Plus,2026,8,6000,Salaries and Wages,561458.3333333334
+healthservices_plus,HealthServices Plus,2026,8,6100,Employee Benefits,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,8,6200,Rent,61100.65120709595
+healthservices_plus,HealthServices Plus,2026,8,6300,Utilities,46495.47613864884
+healthservices_plus,HealthServices Plus,2026,8,6400,Insurance,61114.86895184782
+healthservices_plus,HealthServices Plus,2026,8,6500,Professional Fees,41121.658807703825
+healthservices_plus,HealthServices Plus,2026,8,7000,Sales and Marketing,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,8,7100,Advertising,43401.49830081599
+healthservices_plus,HealthServices Plus,2026,8,7200,Travel and Entertainment,64061.93208411662
+healthservices_plus,HealthServices Plus,2026,8,8000,Research and Development,58964.38300987515
+healthservices_plus,HealthServices Plus,2026,8,9000,Depreciation Expense,90785.94531853643
+healthservices_plus,HealthServices Plus,2026,8,9100,Amortization Expense,55336.941859983956
+healthservices_plus,HealthServices Plus,2026,8,9500,Interest Expense,69337.75247617446
+healthservices_plus,HealthServices Plus,2026,9,4100,Service Revenue,2916666.6666666665
+healthservices_plus,HealthServices Plus,2026,9,5300,Cost of Services,1312499.9999999998
+healthservices_plus,HealthServices Plus,2026,9,6000,Salaries and Wages,561458.3333333334
+healthservices_plus,HealthServices Plus,2026,9,6100,Employee Benefits,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,9,6200,Rent,72653.6251415032
+healthservices_plus,HealthServices Plus,2026,9,6300,Utilities,32923.56096441808
+healthservices_plus,HealthServices Plus,2026,9,6400,Insurance,74660.31470440558
+healthservices_plus,HealthServices Plus,2026,9,6500,Professional Fees,43507.30787414238
+healthservices_plus,HealthServices Plus,2026,9,7000,Sales and Marketing,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,9,7100,Advertising,93752.01203762337
+healthservices_plus,HealthServices Plus,2026,9,7200,Travel and Entertainment,41622.52503082475
+healthservices_plus,HealthServices Plus,2026,9,8000,Research and Development,58688.381272484025
+healthservices_plus,HealthServices Plus,2026,9,9000,Depreciation Expense,37559.937035046314
+healthservices_plus,HealthServices Plus,2026,9,9100,Amortization Expense,96049.43116011495
+healthservices_plus,HealthServices Plus,2026,9,9500,Interest Expense,64307.51316292141
+healthservices_plus,HealthServices Plus,2026,10,4100,Service Revenue,2916666.6666666665
+healthservices_plus,HealthServices Plus,2026,10,5300,Cost of Services,1312499.9999999998
+healthservices_plus,HealthServices Plus,2026,10,6000,Salaries and Wages,561458.3333333334
+healthservices_plus,HealthServices Plus,2026,10,6100,Employee Benefits,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,10,6200,Rent,70287.20527803614
+healthservices_plus,HealthServices Plus,2026,10,6300,Utilities,36387.40729909076
+healthservices_plus,HealthServices Plus,2026,10,6400,Insurance,80205.79685061392
+healthservices_plus,HealthServices Plus,2026,10,6500,Professional Fees,45552.27555696676
+healthservices_plus,HealthServices Plus,2026,10,7000,Sales and Marketing,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,10,7100,Advertising,89708.4835724458
+healthservices_plus,HealthServices Plus,2026,10,7200,Travel and Entertainment,45246.460264262125
+healthservices_plus,HealthServices Plus,2026,10,8000,Research and Development,44319.12874258527
+healthservices_plus,HealthServices Plus,2026,10,9000,Depreciation Expense,34428.60368691942
+healthservices_plus,HealthServices Plus,2026,10,9100,Amortization Expense,62374.29564455828
+healthservices_plus,HealthServices Plus,2026,10,9500,Interest Expense,68327.30605101788
+healthservices_plus,HealthServices Plus,2026,11,4100,Service Revenue,2916666.6666666665
+healthservices_plus,HealthServices Plus,2026,11,5300,Cost of Services,1312499.9999999998
+healthservices_plus,HealthServices Plus,2026,11,6000,Salaries and Wages,561458.3333333334
+healthservices_plus,HealthServices Plus,2026,11,6100,Employee Benefits,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,11,6200,Rent,36299.637696652615
+healthservices_plus,HealthServices Plus,2026,11,6300,Utilities,81846.35540459651
+healthservices_plus,HealthServices Plus,2026,11,6400,Insurance,61169.36689633177
+healthservices_plus,HealthServices Plus,2026,11,6500,Professional Fees,65731.70894851972
+healthservices_plus,HealthServices Plus,2026,11,7000,Sales and Marketing,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,11,7100,Advertising,60365.60959520297
+healthservices_plus,HealthServices Plus,2026,11,7200,Travel and Entertainment,57798.963072833416
+healthservices_plus,HealthServices Plus,2026,11,8000,Research and Development,67993.58792561066
+healthservices_plus,HealthServices Plus,2026,11,9000,Depreciation Expense,42044.582447220724
+healthservices_plus,HealthServices Plus,2026,11,9100,Amortization Expense,43757.05504011323
+healthservices_plus,HealthServices Plus,2026,11,9500,Interest Expense,87381.24401503401
+healthservices_plus,HealthServices Plus,2026,12,4100,Service Revenue,2916666.6666666665
+healthservices_plus,HealthServices Plus,2026,12,5300,Cost of Services,1312499.9999999998
+healthservices_plus,HealthServices Plus,2026,12,6000,Salaries and Wages,561458.3333333334
+healthservices_plus,HealthServices Plus,2026,12,6100,Employee Benefits,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,12,6200,Rent,92792.40882024143
+healthservices_plus,HealthServices Plus,2026,12,6300,Utilities,56037.34779461748
+healthservices_plus,HealthServices Plus,2026,12,6400,Insurance,49456.11652671136
+healthservices_plus,HealthServices Plus,2026,12,6500,Professional Fees,73406.63735783684
+healthservices_plus,HealthServices Plus,2026,12,7000,Sales and Marketing,128333.33333333334
+healthservices_plus,HealthServices Plus,2026,12,7100,Advertising,58310.44264546119
+healthservices_plus,HealthServices Plus,2026,12,7200,Travel and Entertainment,33712.29115487213
+healthservices_plus,HealthServices Plus,2026,12,8000,Research and Development,42103.12499766388
+healthservices_plus,HealthServices Plus,2026,12,9000,Depreciation Expense,78024.88468437467
+healthservices_plus,HealthServices Plus,2026,12,9100,Amortization Expense,74364.28627256803
+healthservices_plus,HealthServices Plus,2026,12,9500,Interest Expense,33821.99285230686
+logisticspro,LogisticsPro,2026,1,4100,Service Revenue,6666666.666666667
+logisticspro,LogisticsPro,2026,1,5300,Cost of Services,5200000.0
+logisticspro,LogisticsPro,2026,1,6000,Salaries and Wages,513333.3333333333
+logisticspro,LogisticsPro,2026,1,6100,Employee Benefits,117333.33333333334
+logisticspro,LogisticsPro,2026,1,6200,Rent,42355.70016673303
+logisticspro,LogisticsPro,2026,1,6300,Utilities,42889.72139983352
+logisticspro,LogisticsPro,2026,1,6400,Insurance,68751.04095779207
+logisticspro,LogisticsPro,2026,1,6500,Professional Fees,30489.684881589368
+logisticspro,LogisticsPro,2026,1,7000,Sales and Marketing,117333.33333333334
+logisticspro,LogisticsPro,2026,1,7100,Advertising,35441.03680976167
+logisticspro,LogisticsPro,2026,1,7200,Travel and Entertainment,76261.74367522712
+logisticspro,LogisticsPro,2026,1,8000,Research and Development,39807.95350718757
+logisticspro,LogisticsPro,2026,1,9000,Depreciation Expense,67627.77166064331
+logisticspro,LogisticsPro,2026,1,9100,Amortization Expense,43306.72315474129
+logisticspro,LogisticsPro,2026,1,9500,Interest Expense,35167.228375214916
+logisticspro,LogisticsPro,2026,2,4100,Service Revenue,6666666.666666667
+logisticspro,LogisticsPro,2026,2,5300,Cost of Services,5200000.0
+logisticspro,LogisticsPro,2026,2,6000,Salaries and Wages,513333.3333333333
+logisticspro,LogisticsPro,2026,2,6100,Employee Benefits,117333.33333333334
+logisticspro,LogisticsPro,2026,2,6200,Rent,43599.435205301306
+logisticspro,LogisticsPro,2026,2,6300,Utilities,71706.32666886532
+logisticspro,LogisticsPro,2026,2,6400,Insurance,79534.19279556876
+logisticspro,LogisticsPro,2026,2,6500,Professional Fees,78039.56538793017
+logisticspro,LogisticsPro,2026,2,7000,Sales and Marketing,117333.33333333334
+logisticspro,LogisticsPro,2026,2,7100,Advertising,52634.76707094934
+logisticspro,LogisticsPro,2026,2,7200,Travel and Entertainment,68527.6613454779
+logisticspro,LogisticsPro,2026,2,8000,Research and Development,41359.07866439483
+logisticspro,LogisticsPro,2026,2,9000,Depreciation Expense,46531.333508646116
+logisticspro,LogisticsPro,2026,2,9100,Amortization Expense,81918.36801990568
+logisticspro,LogisticsPro,2026,2,9500,Interest Expense,30096.11284596318
+logisticspro,LogisticsPro,2026,3,4100,Service Revenue,6666666.666666667
+logisticspro,LogisticsPro,2026,3,5300,Cost of Services,5200000.0
+logisticspro,LogisticsPro,2026,3,6000,Salaries and Wages,513333.3333333333
+logisticspro,LogisticsPro,2026,3,6100,Employee Benefits,117333.33333333334
+logisticspro,LogisticsPro,2026,3,6200,Rent,34349.833810128795
+logisticspro,LogisticsPro,2026,3,6300,Utilities,41529.32696856694
+logisticspro,LogisticsPro,2026,3,6400,Insurance,30889.889293930755
+logisticspro,LogisticsPro,2026,3,6500,Professional Fees,39977.54552526811
+logisticspro,LogisticsPro,2026,3,7000,Sales and Marketing,117333.33333333334
+logisticspro,LogisticsPro,2026,3,7100,Advertising,63538.438243555276
+logisticspro,LogisticsPro,2026,3,7200,Travel and Entertainment,54056.90696809321
+logisticspro,LogisticsPro,2026,3,8000,Research and Development,81703.40704984918
+logisticspro,LogisticsPro,2026,3,9000,Depreciation Expense,77290.02228865521
+logisticspro,LogisticsPro,2026,3,9100,Amortization Expense,49386.61796627539
+logisticspro,LogisticsPro,2026,3,9500,Interest Expense,44552.84142796916
+logisticspro,LogisticsPro,2026,4,4100,Service Revenue,6666666.666666667
+logisticspro,LogisticsPro,2026,4,5300,Cost of Services,5200000.0
+logisticspro,LogisticsPro,2026,4,6000,Salaries and Wages,513333.3333333333
+logisticspro,LogisticsPro,2026,4,6100,Employee Benefits,117333.33333333334
+logisticspro,LogisticsPro,2026,4,6200,Rent,51608.62127914632
+logisticspro,LogisticsPro,2026,4,6300,Utilities,63963.96996086872
+logisticspro,LogisticsPro,2026,4,6400,Insurance,45059.733594942074
+logisticspro,LogisticsPro,2026,4,6500,Professional Fees,65950.06926048253
+logisticspro,LogisticsPro,2026,4,7000,Sales and Marketing,117333.33333333334
+logisticspro,LogisticsPro,2026,4,7100,Advertising,53352.15026188611
+logisticspro,LogisticsPro,2026,4,7200,Travel and Entertainment,61720.101276649504
+logisticspro,LogisticsPro,2026,4,8000,Research and Development,54919.423042605245
+logisticspro,LogisticsPro,2026,4,9000,Depreciation Expense,46608.65789312584
+logisticspro,LogisticsPro,2026,4,9100,Amortization Expense,84975.92734177985
+logisticspro,LogisticsPro,2026,4,9500,Interest Expense,74131.5399240393
+logisticspro,LogisticsPro,2026,5,4100,Service Revenue,6666666.666666667
+logisticspro,LogisticsPro,2026,5,5300,Cost of Services,5200000.0
+logisticspro,LogisticsPro,2026,5,6000,Salaries and Wages,513333.3333333333
+logisticspro,LogisticsPro,2026,5,6100,Employee Benefits,117333.33333333334
+logisticspro,LogisticsPro,2026,5,6200,Rent,37553.30631163189
+logisticspro,LogisticsPro,2026,5,6300,Utilities,80283.45458601089
+logisticspro,LogisticsPro,2026,5,6400,Insurance,57929.296963971465
+logisticspro,LogisticsPro,2026,5,6500,Professional Fees,81813.73064445336
+logisticspro,LogisticsPro,2026,5,7000,Sales and Marketing,117333.33333333334
+logisticspro,LogisticsPro,2026,5,7100,Advertising,76258.17501557583
+logisticspro,LogisticsPro,2026,5,7200,Travel and Entertainment,54279.192262195036
+logisticspro,LogisticsPro,2026,5,8000,Research and Development,30651.532754780223
+logisticspro,LogisticsPro,2026,5,9000,Depreciation Expense,45095.73841725017
+logisticspro,LogisticsPro,2026,5,9100,Amortization Expense,61109.20726010419
+logisticspro,LogisticsPro,2026,5,9500,Interest Expense,66497.3888964673
+logisticspro,LogisticsPro,2026,6,4100,Service Revenue,6666666.666666667
+logisticspro,LogisticsPro,2026,6,5300,Cost of Services,5200000.0
+logisticspro,LogisticsPro,2026,6,6000,Salaries and Wages,513333.3333333333
+logisticspro,LogisticsPro,2026,6,6100,Employee Benefits,117333.33333333334
+logisticspro,LogisticsPro,2026,6,6200,Rent,44462.744212081205
+logisticspro,LogisticsPro,2026,6,6300,Utilities,37508.88967893902
+logisticspro,LogisticsPro,2026,6,6400,Insurance,78315.90722555888
+logisticspro,LogisticsPro,2026,6,6500,Professional Fees,87084.9279346084
+logisticspro,LogisticsPro,2026,6,7000,Sales and Marketing,117333.33333333334
+logisticspro,LogisticsPro,2026,6,7100,Advertising,60173.824028424235
+logisticspro,LogisticsPro,2026,6,7200,Travel and Entertainment,39405.18476976714
+logisticspro,LogisticsPro,2026,6,8000,Research and Development,45308.69648913631
+logisticspro,LogisticsPro,2026,6,9000,Depreciation Expense,30412.25302411805
+logisticspro,LogisticsPro,2026,6,9100,Amortization Expense,82972.19665154927
+logisticspro,LogisticsPro,2026,6,9500,Interest Expense,36241.39686288829
+logisticspro,LogisticsPro,2026,7,4100,Service Revenue,6666666.666666667
+logisticspro,LogisticsPro,2026,7,5300,Cost of Services,5200000.0
+logisticspro,LogisticsPro,2026,7,6000,Salaries and Wages,513333.3333333333
+logisticspro,LogisticsPro,2026,7,6100,Employee Benefits,117333.33333333334
+logisticspro,LogisticsPro,2026,7,6200,Rent,63155.63323016955
+logisticspro,LogisticsPro,2026,7,6300,Utilities,45411.23961364942
+logisticspro,LogisticsPro,2026,7,6400,Insurance,61845.10948092655
+logisticspro,LogisticsPro,2026,7,6500,Professional Fees,67549.9961166427
+logisticspro,LogisticsPro,2026,7,7000,Sales and Marketing,117333.33333333334
+logisticspro,LogisticsPro,2026,7,7100,Advertising,78011.51915082248
+logisticspro,LogisticsPro,2026,7,7200,Travel and Entertainment,41443.38127662206
+logisticspro,LogisticsPro,2026,7,8000,Research and Development,29978.42194796419
+logisticspro,LogisticsPro,2026,7,9000,Depreciation Expense,37363.9569640367
+logisticspro,LogisticsPro,2026,7,9100,Amortization Expense,82134.42698842216
+logisticspro,LogisticsPro,2026,7,9500,Interest Expense,80601.5512170009
+logisticspro,LogisticsPro,2026,8,4100,Service Revenue,6666666.666666667
+logisticspro,LogisticsPro,2026,8,5300,Cost of Services,5200000.0
+logisticspro,LogisticsPro,2026,8,6000,Salaries and Wages,513333.3333333333
+logisticspro,LogisticsPro,2026,8,6100,Employee Benefits,117333.33333333334
+logisticspro,LogisticsPro,2026,8,6200,Rent,64381.568660658086
+logisticspro,LogisticsPro,2026,8,6300,Utilities,64563.65581210767
+logisticspro,LogisticsPro,2026,8,6400,Insurance,68348.818240047
+logisticspro,LogisticsPro,2026,8,6500,Professional Fees,39621.78167924238
+logisticspro,LogisticsPro,2026,8,7000,Sales and Marketing,117333.33333333334
+logisticspro,LogisticsPro,2026,8,7100,Advertising,82978.83416093097
+logisticspro,LogisticsPro,2026,8,7200,Travel and Entertainment,53901.20412700162
+logisticspro,LogisticsPro,2026,8,8000,Research and Development,51810.79365730385
+logisticspro,LogisticsPro,2026,8,9000,Depreciation Expense,59776.50537659313
+logisticspro,LogisticsPro,2026,8,9100,Amortization Expense,32088.67005080323
+logisticspro,LogisticsPro,2026,8,9500,Interest Expense,39088.624300356656
+logisticspro,LogisticsPro,2026,9,4100,Service Revenue,6666666.666666667
+logisticspro,LogisticsPro,2026,9,5300,Cost of Services,5200000.0
+logisticspro,LogisticsPro,2026,9,6000,Salaries and Wages,513333.3333333333
+logisticspro,LogisticsPro,2026,9,6100,Employee Benefits,117333.33333333334
+logisticspro,LogisticsPro,2026,9,6200,Rent,72631.30549701373
+logisticspro,LogisticsPro,2026,9,6300,Utilities,34190.85518494075
+logisticspro,LogisticsPro,2026,9,6400,Insurance,64718.257088694765
+logisticspro,LogisticsPro,2026,9,6500,Professional Fees,43727.14776797083
+logisticspro,LogisticsPro,2026,9,7000,Sales and Marketing,117333.33333333334
+logisticspro,LogisticsPro,2026,9,7100,Advertising,52172.00935712929
+logisticspro,LogisticsPro,2026,9,7200,Travel and Entertainment,46270.03255721439
+logisticspro,LogisticsPro,2026,9,8000,Research and Development,50199.46603261035
+logisticspro,LogisticsPro,2026,9,9000,Depreciation Expense,71517.35977080907
+logisticspro,LogisticsPro,2026,9,9100,Amortization Expense,46764.473983226264
+logisticspro,LogisticsPro,2026,9,9500,Interest Expense,62562.405564084635
+logisticspro,LogisticsPro,2026,10,4100,Service Revenue,6666666.666666667
+logisticspro,LogisticsPro,2026,10,5300,Cost of Services,5200000.0
+logisticspro,LogisticsPro,2026,10,6000,Salaries and Wages,513333.3333333333
+logisticspro,LogisticsPro,2026,10,6100,Employee Benefits,117333.33333333334
+logisticspro,LogisticsPro,2026,10,6200,Rent,57261.62359568051
+logisticspro,LogisticsPro,2026,10,6300,Utilities,68268.70836794202
+logisticspro,LogisticsPro,2026,10,6400,Insurance,84294.01137371913
+logisticspro,LogisticsPro,2026,10,6500,Professional Fees,72310.89636966801
+logisticspro,LogisticsPro,2026,10,7000,Sales and Marketing,117333.33333333334
+logisticspro,LogisticsPro,2026,10,7100,Advertising,41943.168877324395
+logisticspro,LogisticsPro,2026,10,7200,Travel and Entertainment,31162.743923595368
+logisticspro,LogisticsPro,2026,10,8000,Research and Development,44719.490598923076
+logisticspro,LogisticsPro,2026,10,9000,Depreciation Expense,64244.57193441495
+logisticspro,LogisticsPro,2026,10,9100,Amortization Expense,32350.314391076023
+logisticspro,LogisticsPro,2026,10,9500,Interest Expense,58453.48650247254
+logisticspro,LogisticsPro,2026,11,4100,Service Revenue,6666666.666666667
+logisticspro,LogisticsPro,2026,11,5300,Cost of Services,5200000.0
+logisticspro,LogisticsPro,2026,11,6000,Salaries and Wages,513333.3333333333
+logisticspro,LogisticsPro,2026,11,6100,Employee Benefits,117333.33333333334
+logisticspro,LogisticsPro,2026,11,6200,Rent,64348.11380312417
+logisticspro,LogisticsPro,2026,11,6300,Utilities,48942.3082612617
+logisticspro,LogisticsPro,2026,11,6400,Insurance,74560.18261975488
+logisticspro,LogisticsPro,2026,11,6500,Professional Fees,35587.09751718128
+logisticspro,LogisticsPro,2026,11,7000,Sales and Marketing,117333.33333333334
+logisticspro,LogisticsPro,2026,11,7100,Advertising,33741.416528500784
+logisticspro,LogisticsPro,2026,11,7200,Travel and Entertainment,72053.74036394473
+logisticspro,LogisticsPro,2026,11,8000,Research and Development,58402.157217430315
+logisticspro,LogisticsPro,2026,11,9000,Depreciation Expense,69719.60725709384
+logisticspro,LogisticsPro,2026,11,9100,Amortization Expense,54843.20386475311
+logisticspro,LogisticsPro,2026,11,9500,Interest Expense,43788.919283360934
+logisticspro,LogisticsPro,2026,12,4100,Service Revenue,6666666.666666667
+logisticspro,LogisticsPro,2026,12,5300,Cost of Services,5200000.0
+logisticspro,LogisticsPro,2026,12,6000,Salaries and Wages,513333.3333333333
+logisticspro,LogisticsPro,2026,12,6100,Employee Benefits,117333.33333333334
+logisticspro,LogisticsPro,2026,12,6200,Rent,77387.3359702197
+logisticspro,LogisticsPro,2026,12,6300,Utilities,76232.39823284678
+logisticspro,LogisticsPro,2026,12,6400,Insurance,70088.85962345969
+logisticspro,LogisticsPro,2026,12,6500,Professional Fees,45299.18138415781
+logisticspro,LogisticsPro,2026,12,7000,Sales and Marketing,117333.33333333334
+logisticspro,LogisticsPro,2026,12,7100,Advertising,63960.19912298644
+logisticspro,LogisticsPro,2026,12,7200,Travel and Entertainment,50510.468620481566
+logisticspro,LogisticsPro,2026,12,8000,Research and Development,34706.148301829206
+logisticspro,LogisticsPro,2026,12,9000,Depreciation Expense,83149.0630937849
+logisticspro,LogisticsPro,2026,12,9100,Amortization Expense,37360.02634724574
+logisticspro,LogisticsPro,2026,12,9500,Interest Expense,85080.59142415374
+industrialsupply_co,IndustrialSupply Co,2026,1,4000,Product Sales,12500000.0
+industrialsupply_co,IndustrialSupply Co,2026,1,5000,Cost of Goods Sold - Materials,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,1,5100,Cost of Goods Sold - Labor,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,1,5200,Cost of Goods Sold - Overhead,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,1,6000,Salaries and Wages,787500.0
+industrialsupply_co,IndustrialSupply Co,2026,1,6100,Employee Benefits,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,1,6200,Rent,85140.51956621601
+industrialsupply_co,IndustrialSupply Co,2026,1,6300,Utilities,61661.96359547577
+industrialsupply_co,IndustrialSupply Co,2026,1,6400,Insurance,93771.08526405224
+industrialsupply_co,IndustrialSupply Co,2026,1,6500,Professional Fees,123565.12522887673
+industrialsupply_co,IndustrialSupply Co,2026,1,7000,Sales and Marketing,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,1,7100,Advertising,110900.2397768605
+industrialsupply_co,IndustrialSupply Co,2026,1,7200,Travel and Entertainment,117590.50330753047
+industrialsupply_co,IndustrialSupply Co,2026,1,8000,Research and Development,104290.50300396456
+industrialsupply_co,IndustrialSupply Co,2026,1,9000,Depreciation Expense,107304.89080660671
+industrialsupply_co,IndustrialSupply Co,2026,1,9100,Amortization Expense,121427.60864087874
+industrialsupply_co,IndustrialSupply Co,2026,1,9500,Interest Expense,67470.12079732673
+industrialsupply_co,IndustrialSupply Co,2026,2,4000,Product Sales,12500000.0
+industrialsupply_co,IndustrialSupply Co,2026,2,5000,Cost of Goods Sold - Materials,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,2,5100,Cost of Goods Sold - Labor,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,2,5200,Cost of Goods Sold - Overhead,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,2,6000,Salaries and Wages,787500.0
+industrialsupply_co,IndustrialSupply Co,2026,2,6100,Employee Benefits,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,2,6200,Rent,89048.24672788264
+industrialsupply_co,IndustrialSupply Co,2026,2,6300,Utilities,64908.84976376419
+industrialsupply_co,IndustrialSupply Co,2026,2,6400,Insurance,133890.1207196982
+industrialsupply_co,IndustrialSupply Co,2026,2,6500,Professional Fees,129965.34057179518
+industrialsupply_co,IndustrialSupply Co,2026,2,7000,Sales and Marketing,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,2,7100,Advertising,48548.41302316553
+industrialsupply_co,IndustrialSupply Co,2026,2,7200,Travel and Entertainment,108501.76552641194
+industrialsupply_co,IndustrialSupply Co,2026,2,8000,Research and Development,128272.34856740992
+industrialsupply_co,IndustrialSupply Co,2026,2,9000,Depreciation Expense,61251.78106146002
+industrialsupply_co,IndustrialSupply Co,2026,2,9100,Amortization Expense,96115.07074973665
+industrialsupply_co,IndustrialSupply Co,2026,2,9500,Interest Expense,127393.94678292377
+industrialsupply_co,IndustrialSupply Co,2026,3,4000,Product Sales,12500000.0
+industrialsupply_co,IndustrialSupply Co,2026,3,5000,Cost of Goods Sold - Materials,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,3,5100,Cost of Goods Sold - Labor,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,3,5200,Cost of Goods Sold - Overhead,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,3,6000,Salaries and Wages,787500.0
+industrialsupply_co,IndustrialSupply Co,2026,3,6100,Employee Benefits,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,3,6200,Rent,48055.13807272189
+industrialsupply_co,IndustrialSupply Co,2026,3,6300,Utilities,107767.82405221558
+industrialsupply_co,IndustrialSupply Co,2026,3,6400,Insurance,71761.41066352958
+industrialsupply_co,IndustrialSupply Co,2026,3,6500,Professional Fees,128195.65758388772
+industrialsupply_co,IndustrialSupply Co,2026,3,7000,Sales and Marketing,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,3,7100,Advertising,132395.2420648831
+industrialsupply_co,IndustrialSupply Co,2026,3,7200,Travel and Entertainment,129983.98402020904
+industrialsupply_co,IndustrialSupply Co,2026,3,8000,Research and Development,87679.27949917174
+industrialsupply_co,IndustrialSupply Co,2026,3,9000,Depreciation Expense,122583.83858903819
+industrialsupply_co,IndustrialSupply Co,2026,3,9100,Amortization Expense,121009.44586815633
+industrialsupply_co,IndustrialSupply Co,2026,3,9500,Interest Expense,73719.042591893
+industrialsupply_co,IndustrialSupply Co,2026,4,4000,Product Sales,12500000.0
+industrialsupply_co,IndustrialSupply Co,2026,4,5000,Cost of Goods Sold - Materials,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,4,5100,Cost of Goods Sold - Labor,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,4,5200,Cost of Goods Sold - Overhead,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,4,6000,Salaries and Wages,787500.0
+industrialsupply_co,IndustrialSupply Co,2026,4,6100,Employee Benefits,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,4,6200,Rent,119602.39267356096
+industrialsupply_co,IndustrialSupply Co,2026,4,6300,Utilities,48330.68712439433
+industrialsupply_co,IndustrialSupply Co,2026,4,6400,Insurance,98664.28906338477
+industrialsupply_co,IndustrialSupply Co,2026,4,6500,Professional Fees,65700.79535589328
+industrialsupply_co,IndustrialSupply Co,2026,4,7000,Sales and Marketing,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,4,7100,Advertising,55851.01971995509
+industrialsupply_co,IndustrialSupply Co,2026,4,7200,Travel and Entertainment,51925.78814662882
+industrialsupply_co,IndustrialSupply Co,2026,4,8000,Research and Development,107665.98982903258
+industrialsupply_co,IndustrialSupply Co,2026,4,9000,Depreciation Expense,75588.74673912594
+industrialsupply_co,IndustrialSupply Co,2026,4,9100,Amortization Expense,110229.00943758852
+industrialsupply_co,IndustrialSupply Co,2026,4,9500,Interest Expense,50882.07067190482
+industrialsupply_co,IndustrialSupply Co,2026,5,4000,Product Sales,12500000.0
+industrialsupply_co,IndustrialSupply Co,2026,5,5000,Cost of Goods Sold - Materials,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,5,5100,Cost of Goods Sold - Labor,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,5,5200,Cost of Goods Sold - Overhead,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,5,6000,Salaries and Wages,787500.0
+industrialsupply_co,IndustrialSupply Co,2026,5,6100,Employee Benefits,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,5,6200,Rent,73376.13040475492
+industrialsupply_co,IndustrialSupply Co,2026,5,6300,Utilities,93554.21631378034
+industrialsupply_co,IndustrialSupply Co,2026,5,6400,Insurance,116165.08483550671
+industrialsupply_co,IndustrialSupply Co,2026,5,6500,Professional Fees,73687.7252638863
+industrialsupply_co,IndustrialSupply Co,2026,5,7000,Sales and Marketing,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,5,7100,Advertising,101330.22387933082
+industrialsupply_co,IndustrialSupply Co,2026,5,7200,Travel and Entertainment,124737.99734125682
+industrialsupply_co,IndustrialSupply Co,2026,5,8000,Research and Development,100427.6869364074
+industrialsupply_co,IndustrialSupply Co,2026,5,9000,Depreciation Expense,65966.35272782703
+industrialsupply_co,IndustrialSupply Co,2026,5,9100,Amortization Expense,47196.07034008842
+industrialsupply_co,IndustrialSupply Co,2026,5,9500,Interest Expense,123308.89865108368
+industrialsupply_co,IndustrialSupply Co,2026,6,4000,Product Sales,12500000.0
+industrialsupply_co,IndustrialSupply Co,2026,6,5000,Cost of Goods Sold - Materials,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,6,5100,Cost of Goods Sold - Labor,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,6,5200,Cost of Goods Sold - Overhead,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,6,6000,Salaries and Wages,787500.0
+industrialsupply_co,IndustrialSupply Co,2026,6,6100,Employee Benefits,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,6,6200,Rent,46914.24697653484
+industrialsupply_co,IndustrialSupply Co,2026,6,6300,Utilities,123723.15054157794
+industrialsupply_co,IndustrialSupply Co,2026,6,6400,Insurance,92604.34206244907
+industrialsupply_co,IndustrialSupply Co,2026,6,6500,Professional Fees,129516.09286616063
+industrialsupply_co,IndustrialSupply Co,2026,6,7000,Sales and Marketing,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,6,7100,Advertising,116890.49121962988
+industrialsupply_co,IndustrialSupply Co,2026,6,7200,Travel and Entertainment,134814.06994800037
+industrialsupply_co,IndustrialSupply Co,2026,6,8000,Research and Development,76564.06339065392
+industrialsupply_co,IndustrialSupply Co,2026,6,9000,Depreciation Expense,114046.94600380141
+industrialsupply_co,IndustrialSupply Co,2026,6,9100,Amortization Expense,81173.7822248318
+industrialsupply_co,IndustrialSupply Co,2026,6,9500,Interest Expense,88188.8058273518
+industrialsupply_co,IndustrialSupply Co,2026,7,4000,Product Sales,12500000.0
+industrialsupply_co,IndustrialSupply Co,2026,7,5000,Cost of Goods Sold - Materials,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,7,5100,Cost of Goods Sold - Labor,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,7,5200,Cost of Goods Sold - Overhead,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,7,6000,Salaries and Wages,787500.0
+industrialsupply_co,IndustrialSupply Co,2026,7,6100,Employee Benefits,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,7,6200,Rent,101475.49168965331
+industrialsupply_co,IndustrialSupply Co,2026,7,6300,Utilities,123630.94027677049
+industrialsupply_co,IndustrialSupply Co,2026,7,6400,Insurance,133567.51222793656
+industrialsupply_co,IndustrialSupply Co,2026,7,6500,Professional Fees,114144.60724780662
+industrialsupply_co,IndustrialSupply Co,2026,7,7000,Sales and Marketing,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,7,7100,Advertising,82599.01039506003
+industrialsupply_co,IndustrialSupply Co,2026,7,7200,Travel and Entertainment,82922.13020493631
+industrialsupply_co,IndustrialSupply Co,2026,7,8000,Research and Development,111382.40714300022
+industrialsupply_co,IndustrialSupply Co,2026,7,9000,Depreciation Expense,66489.94311914721
+industrialsupply_co,IndustrialSupply Co,2026,7,9100,Amortization Expense,54942.67018182552
+industrialsupply_co,IndustrialSupply Co,2026,7,9500,Interest Expense,76915.99418766989
+industrialsupply_co,IndustrialSupply Co,2026,8,4000,Product Sales,12500000.0
+industrialsupply_co,IndustrialSupply Co,2026,8,5000,Cost of Goods Sold - Materials,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,8,5100,Cost of Goods Sold - Labor,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,8,5200,Cost of Goods Sold - Overhead,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,8,6000,Salaries and Wages,787500.0
+industrialsupply_co,IndustrialSupply Co,2026,8,6100,Employee Benefits,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,8,6200,Rent,70851.50924886734
+industrialsupply_co,IndustrialSupply Co,2026,8,6300,Utilities,71667.73084103911
+industrialsupply_co,IndustrialSupply Co,2026,8,6400,Insurance,66024.6975944919
+industrialsupply_co,IndustrialSupply Co,2026,8,6500,Professional Fees,48788.387067272575
+industrialsupply_co,IndustrialSupply Co,2026,8,7000,Sales and Marketing,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,8,7100,Advertising,46608.65412600724
+industrialsupply_co,IndustrialSupply Co,2026,8,7200,Travel and Entertainment,133895.01507624282
+industrialsupply_co,IndustrialSupply Co,2026,8,8000,Research and Development,83499.5820362276
+industrialsupply_co,IndustrialSupply Co,2026,8,9000,Depreciation Expense,79589.39824437135
+industrialsupply_co,IndustrialSupply Co,2026,8,9100,Amortization Expense,106168.25544237626
+industrialsupply_co,IndustrialSupply Co,2026,8,9500,Interest Expense,64642.84990785577
+industrialsupply_co,IndustrialSupply Co,2026,9,4000,Product Sales,12500000.0
+industrialsupply_co,IndustrialSupply Co,2026,9,5000,Cost of Goods Sold - Materials,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,9,5100,Cost of Goods Sold - Labor,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,9,5200,Cost of Goods Sold - Overhead,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,9,6000,Salaries and Wages,787500.0
+industrialsupply_co,IndustrialSupply Co,2026,9,6100,Employee Benefits,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,9,6200,Rent,130496.50655552026
+industrialsupply_co,IndustrialSupply Co,2026,9,6300,Utilities,115771.05129739968
+industrialsupply_co,IndustrialSupply Co,2026,9,6400,Insurance,53046.99020810336
+industrialsupply_co,IndustrialSupply Co,2026,9,6500,Professional Fees,82582.26982064355
+industrialsupply_co,IndustrialSupply Co,2026,9,7000,Sales and Marketing,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,9,7100,Advertising,124120.64768059482
+industrialsupply_co,IndustrialSupply Co,2026,9,7200,Travel and Entertainment,130025.8820062269
+industrialsupply_co,IndustrialSupply Co,2026,9,8000,Research and Development,87066.13601248826
+industrialsupply_co,IndustrialSupply Co,2026,9,9000,Depreciation Expense,100207.02502896369
+industrialsupply_co,IndustrialSupply Co,2026,9,9100,Amortization Expense,60033.05514828677
+industrialsupply_co,IndustrialSupply Co,2026,9,9500,Interest Expense,134205.17635232786
+industrialsupply_co,IndustrialSupply Co,2026,10,4000,Product Sales,12500000.0
+industrialsupply_co,IndustrialSupply Co,2026,10,5000,Cost of Goods Sold - Materials,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,10,5100,Cost of Goods Sold - Labor,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,10,5200,Cost of Goods Sold - Overhead,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,10,6000,Salaries and Wages,787500.0
+industrialsupply_co,IndustrialSupply Co,2026,10,6100,Employee Benefits,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,10,6200,Rent,65850.4531245099
+industrialsupply_co,IndustrialSupply Co,2026,10,6300,Utilities,129845.85967216131
+industrialsupply_co,IndustrialSupply Co,2026,10,6400,Insurance,103468.19840931315
+industrialsupply_co,IndustrialSupply Co,2026,10,6500,Professional Fees,99696.31153909731
+industrialsupply_co,IndustrialSupply Co,2026,10,7000,Sales and Marketing,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,10,7100,Advertising,91141.96599148576
+industrialsupply_co,IndustrialSupply Co,2026,10,7200,Travel and Entertainment,65760.28305459827
+industrialsupply_co,IndustrialSupply Co,2026,10,8000,Research and Development,60887.522880495744
+industrialsupply_co,IndustrialSupply Co,2026,10,9000,Depreciation Expense,64843.75881631578
+industrialsupply_co,IndustrialSupply Co,2026,10,9100,Amortization Expense,61779.44359298291
+industrialsupply_co,IndustrialSupply Co,2026,10,9500,Interest Expense,115162.60262100778
+industrialsupply_co,IndustrialSupply Co,2026,11,4000,Product Sales,12500000.0
+industrialsupply_co,IndustrialSupply Co,2026,11,5000,Cost of Goods Sold - Materials,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,11,5100,Cost of Goods Sold - Labor,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,11,5200,Cost of Goods Sold - Overhead,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,11,6000,Salaries and Wages,787500.0
+industrialsupply_co,IndustrialSupply Co,2026,11,6100,Employee Benefits,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,11,6200,Rent,76511.2733250057
+industrialsupply_co,IndustrialSupply Co,2026,11,6300,Utilities,50205.84089070567
+industrialsupply_co,IndustrialSupply Co,2026,11,6400,Insurance,132219.236712673
+industrialsupply_co,IndustrialSupply Co,2026,11,6500,Professional Fees,124540.7296467083
+industrialsupply_co,IndustrialSupply Co,2026,11,7000,Sales and Marketing,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,11,7100,Advertising,128497.70548756917
+industrialsupply_co,IndustrialSupply Co,2026,11,7200,Travel and Entertainment,134541.70403817916
+industrialsupply_co,IndustrialSupply Co,2026,11,8000,Research and Development,60650.572429753855
+industrialsupply_co,IndustrialSupply Co,2026,11,9000,Depreciation Expense,80661.78170123929
+industrialsupply_co,IndustrialSupply Co,2026,11,9100,Amortization Expense,113241.4628133682
+industrialsupply_co,IndustrialSupply Co,2026,11,9500,Interest Expense,107641.85562484131
+industrialsupply_co,IndustrialSupply Co,2026,12,4000,Product Sales,12500000.0
+industrialsupply_co,IndustrialSupply Co,2026,12,5000,Cost of Goods Sold - Materials,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,12,5100,Cost of Goods Sold - Labor,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,12,5200,Cost of Goods Sold - Overhead,3416666.6666666665
+industrialsupply_co,IndustrialSupply Co,2026,12,6000,Salaries and Wages,787500.0
+industrialsupply_co,IndustrialSupply Co,2026,12,6100,Employee Benefits,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,12,6200,Rent,58850.63157058696
+industrialsupply_co,IndustrialSupply Co,2026,12,6300,Utilities,118424.98124915561
+industrialsupply_co,IndustrialSupply Co,2026,12,6400,Insurance,65199.65146529946
+industrialsupply_co,IndustrialSupply Co,2026,12,6500,Professional Fees,65143.58533403608
+industrialsupply_co,IndustrialSupply Co,2026,12,7000,Sales and Marketing,180000.0
+industrialsupply_co,IndustrialSupply Co,2026,12,7100,Advertising,93327.69806040722
+industrialsupply_co,IndustrialSupply Co,2026,12,7200,Travel and Entertainment,98364.59413575327
+industrialsupply_co,IndustrialSupply Co,2026,12,8000,Research and Development,97207.758705403
+industrialsupply_co,IndustrialSupply Co,2026,12,9000,Depreciation Expense,53233.81536579794
+industrialsupply_co,IndustrialSupply Co,2026,12,9100,Amortization Expense,123971.47763673421
+industrialsupply_co,IndustrialSupply Co,2026,12,9500,Interest Expense,68904.00383298354
+dataanalytics_corp,DataAnalytics Corp,2026,1,4100,Service Revenue,2083333.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,1,5300,Cost of Services,729166.6666666666
+dataanalytics_corp,DataAnalytics Corp,2026,1,6000,Salaries and Wages,473958.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,1,6100,Employee Benefits,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,1,6200,Rent,34098.72490281856
+dataanalytics_corp,DataAnalytics Corp,2026,1,6300,Utilities,75223.85432623627
+dataanalytics_corp,DataAnalytics Corp,2026,1,6400,Insurance,78847.78948744497
+dataanalytics_corp,DataAnalytics Corp,2026,1,6500,Professional Fees,73781.91260187856
+dataanalytics_corp,DataAnalytics Corp,2026,1,7000,Sales and Marketing,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,1,7100,Advertising,70932.12071426422
+dataanalytics_corp,DataAnalytics Corp,2026,1,7200,Travel and Entertainment,62575.607284613674
+dataanalytics_corp,DataAnalytics Corp,2026,1,8000,Research and Development,56921.44090799504
+dataanalytics_corp,DataAnalytics Corp,2026,1,9000,Depreciation Expense,31795.11616186805
+dataanalytics_corp,DataAnalytics Corp,2026,1,9100,Amortization Expense,49207.88237466285
+dataanalytics_corp,DataAnalytics Corp,2026,1,9500,Interest Expense,47270.62800483368
+dataanalytics_corp,DataAnalytics Corp,2026,2,4100,Service Revenue,2083333.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,2,5300,Cost of Services,729166.6666666666
+dataanalytics_corp,DataAnalytics Corp,2026,2,6000,Salaries and Wages,473958.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,2,6100,Employee Benefits,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,2,6200,Rent,41153.32995368433
+dataanalytics_corp,DataAnalytics Corp,2026,2,6300,Utilities,66268.58949146501
+dataanalytics_corp,DataAnalytics Corp,2026,2,6400,Insurance,53943.268983433416
+dataanalytics_corp,DataAnalytics Corp,2026,2,6500,Professional Fees,31473.336694997597
+dataanalytics_corp,DataAnalytics Corp,2026,2,7000,Sales and Marketing,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,2,7100,Advertising,39009.92343894811
+dataanalytics_corp,DataAnalytics Corp,2026,2,7200,Travel and Entertainment,64093.18303156144
+dataanalytics_corp,DataAnalytics Corp,2026,2,8000,Research and Development,31207.08822239126
+dataanalytics_corp,DataAnalytics Corp,2026,2,9000,Depreciation Expense,73190.37451097497
+dataanalytics_corp,DataAnalytics Corp,2026,2,9100,Amortization Expense,53903.77021325695
+dataanalytics_corp,DataAnalytics Corp,2026,2,9500,Interest Expense,53115.106271860095
+dataanalytics_corp,DataAnalytics Corp,2026,3,4100,Service Revenue,2083333.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,3,5300,Cost of Services,729166.6666666666
+dataanalytics_corp,DataAnalytics Corp,2026,3,6000,Salaries and Wages,473958.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,3,6100,Employee Benefits,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,3,6200,Rent,59172.08833572387
+dataanalytics_corp,DataAnalytics Corp,2026,3,6300,Utilities,71753.55232094559
+dataanalytics_corp,DataAnalytics Corp,2026,3,6400,Insurance,45922.99876136879
+dataanalytics_corp,DataAnalytics Corp,2026,3,6500,Professional Fees,63809.20826361594
+dataanalytics_corp,DataAnalytics Corp,2026,3,7000,Sales and Marketing,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,3,7100,Advertising,57727.14804977201
+dataanalytics_corp,DataAnalytics Corp,2026,3,7200,Travel and Entertainment,41547.364634176985
+dataanalytics_corp,DataAnalytics Corp,2026,3,8000,Research and Development,74675.79092757106
+dataanalytics_corp,DataAnalytics Corp,2026,3,9000,Depreciation Expense,70277.24283704192
+dataanalytics_corp,DataAnalytics Corp,2026,3,9100,Amortization Expense,62749.474377331375
+dataanalytics_corp,DataAnalytics Corp,2026,3,9500,Interest Expense,73156.51032593811
+dataanalytics_corp,DataAnalytics Corp,2026,4,4100,Service Revenue,2083333.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,4,5300,Cost of Services,729166.6666666666
+dataanalytics_corp,DataAnalytics Corp,2026,4,6000,Salaries and Wages,473958.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,4,6100,Employee Benefits,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,4,6200,Rent,74061.76921865594
+dataanalytics_corp,DataAnalytics Corp,2026,4,6300,Utilities,65452.99457206438
+dataanalytics_corp,DataAnalytics Corp,2026,4,6400,Insurance,72421.55528636556
+dataanalytics_corp,DataAnalytics Corp,2026,4,6500,Professional Fees,64863.0375070862
+dataanalytics_corp,DataAnalytics Corp,2026,4,7000,Sales and Marketing,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,4,7100,Advertising,63924.291803682936
+dataanalytics_corp,DataAnalytics Corp,2026,4,7200,Travel and Entertainment,60591.44965332248
+dataanalytics_corp,DataAnalytics Corp,2026,4,8000,Research and Development,67855.48464270556
+dataanalytics_corp,DataAnalytics Corp,2026,4,9000,Depreciation Expense,35674.44320337482
+dataanalytics_corp,DataAnalytics Corp,2026,4,9100,Amortization Expense,74797.1661232753
+dataanalytics_corp,DataAnalytics Corp,2026,4,9500,Interest Expense,74308.19108620007
+dataanalytics_corp,DataAnalytics Corp,2026,5,4100,Service Revenue,2083333.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,5,5300,Cost of Services,729166.6666666666
+dataanalytics_corp,DataAnalytics Corp,2026,5,6000,Salaries and Wages,473958.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,5,6100,Employee Benefits,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,5,6200,Rent,28667.561164371953
+dataanalytics_corp,DataAnalytics Corp,2026,5,6300,Utilities,71815.07398892465
+dataanalytics_corp,DataAnalytics Corp,2026,5,6400,Insurance,34063.78448814495
+dataanalytics_corp,DataAnalytics Corp,2026,5,6500,Professional Fees,45235.60460570352
+dataanalytics_corp,DataAnalytics Corp,2026,5,7000,Sales and Marketing,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,5,7100,Advertising,67356.69721579542
+dataanalytics_corp,DataAnalytics Corp,2026,5,7200,Travel and Entertainment,35791.16103595003
+dataanalytics_corp,DataAnalytics Corp,2026,5,8000,Research and Development,71389.88047311586
+dataanalytics_corp,DataAnalytics Corp,2026,5,9000,Depreciation Expense,72157.26797271101
+dataanalytics_corp,DataAnalytics Corp,2026,5,9100,Amortization Expense,54571.1689120453
+dataanalytics_corp,DataAnalytics Corp,2026,5,9500,Interest Expense,27429.234717995154
+dataanalytics_corp,DataAnalytics Corp,2026,6,4100,Service Revenue,2083333.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,6,5300,Cost of Services,729166.6666666666
+dataanalytics_corp,DataAnalytics Corp,2026,6,6000,Salaries and Wages,473958.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,6,6100,Employee Benefits,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,6,6200,Rent,42631.23221364111
+dataanalytics_corp,DataAnalytics Corp,2026,6,6300,Utilities,60500.20807868604
+dataanalytics_corp,DataAnalytics Corp,2026,6,6400,Insurance,80230.91797648543
+dataanalytics_corp,DataAnalytics Corp,2026,6,6500,Professional Fees,61306.56604673621
+dataanalytics_corp,DataAnalytics Corp,2026,6,7000,Sales and Marketing,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,6,7100,Advertising,41156.02730764199
+dataanalytics_corp,DataAnalytics Corp,2026,6,7200,Travel and Entertainment,61425.308917895614
+dataanalytics_corp,DataAnalytics Corp,2026,6,8000,Research and Development,56332.541401275506
+dataanalytics_corp,DataAnalytics Corp,2026,6,9000,Depreciation Expense,69324.95890402028
+dataanalytics_corp,DataAnalytics Corp,2026,6,9100,Amortization Expense,32878.11793646024
+dataanalytics_corp,DataAnalytics Corp,2026,6,9500,Interest Expense,68305.67805219318
+dataanalytics_corp,DataAnalytics Corp,2026,7,4100,Service Revenue,2083333.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,7,5300,Cost of Services,729166.6666666666
+dataanalytics_corp,DataAnalytics Corp,2026,7,6000,Salaries and Wages,473958.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,7,6100,Employee Benefits,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,7,6200,Rent,56401.93967828931
+dataanalytics_corp,DataAnalytics Corp,2026,7,6300,Utilities,79245.40020902887
+dataanalytics_corp,DataAnalytics Corp,2026,7,6400,Insurance,45601.40899376216
+dataanalytics_corp,DataAnalytics Corp,2026,7,6500,Professional Fees,61350.35254475552
+dataanalytics_corp,DataAnalytics Corp,2026,7,7000,Sales and Marketing,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,7,7100,Advertising,77568.18904845927
+dataanalytics_corp,DataAnalytics Corp,2026,7,7200,Travel and Entertainment,32635.943599495127
+dataanalytics_corp,DataAnalytics Corp,2026,7,8000,Research and Development,77849.87639197444
+dataanalytics_corp,DataAnalytics Corp,2026,7,9000,Depreciation Expense,64343.80995796072
+dataanalytics_corp,DataAnalytics Corp,2026,7,9100,Amortization Expense,30757.840701530145
+dataanalytics_corp,DataAnalytics Corp,2026,7,9500,Interest Expense,43385.526542952546
+dataanalytics_corp,DataAnalytics Corp,2026,8,4100,Service Revenue,2083333.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,8,5300,Cost of Services,729166.6666666666
+dataanalytics_corp,DataAnalytics Corp,2026,8,6000,Salaries and Wages,473958.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,8,6100,Employee Benefits,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,8,6200,Rent,65442.654801619414
+dataanalytics_corp,DataAnalytics Corp,2026,8,6300,Utilities,30731.490912891804
+dataanalytics_corp,DataAnalytics Corp,2026,8,6400,Insurance,58617.56659288146
+dataanalytics_corp,DataAnalytics Corp,2026,8,6500,Professional Fees,45818.66558495182
+dataanalytics_corp,DataAnalytics Corp,2026,8,7000,Sales and Marketing,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,8,7100,Advertising,60716.257212405006
+dataanalytics_corp,DataAnalytics Corp,2026,8,7200,Travel and Entertainment,29561.026831511117
+dataanalytics_corp,DataAnalytics Corp,2026,8,8000,Research and Development,74291.57699992038
+dataanalytics_corp,DataAnalytics Corp,2026,8,9000,Depreciation Expense,79813.98583044234
+dataanalytics_corp,DataAnalytics Corp,2026,8,9100,Amortization Expense,79564.21716130828
+dataanalytics_corp,DataAnalytics Corp,2026,8,9500,Interest Expense,67689.47421940842
+dataanalytics_corp,DataAnalytics Corp,2026,9,4100,Service Revenue,2083333.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,9,5300,Cost of Services,729166.6666666666
+dataanalytics_corp,DataAnalytics Corp,2026,9,6000,Salaries and Wages,473958.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,9,6100,Employee Benefits,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,9,6200,Rent,34129.67134040924
+dataanalytics_corp,DataAnalytics Corp,2026,9,6300,Utilities,68155.92311282206
+dataanalytics_corp,DataAnalytics Corp,2026,9,6400,Insurance,28415.124641518418
+dataanalytics_corp,DataAnalytics Corp,2026,9,6500,Professional Fees,28281.692374487353
+dataanalytics_corp,DataAnalytics Corp,2026,9,7000,Sales and Marketing,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,9,7100,Advertising,44612.22020393348
+dataanalytics_corp,DataAnalytics Corp,2026,9,7200,Travel and Entertainment,53551.506146919404
+dataanalytics_corp,DataAnalytics Corp,2026,9,8000,Research and Development,68813.73513125545
+dataanalytics_corp,DataAnalytics Corp,2026,9,9000,Depreciation Expense,64095.16623285237
+dataanalytics_corp,DataAnalytics Corp,2026,9,9100,Amortization Expense,51236.3965954072
+dataanalytics_corp,DataAnalytics Corp,2026,9,9500,Interest Expense,41904.77775692357
+dataanalytics_corp,DataAnalytics Corp,2026,10,4100,Service Revenue,2083333.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,10,5300,Cost of Services,729166.6666666666
+dataanalytics_corp,DataAnalytics Corp,2026,10,6000,Salaries and Wages,473958.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,10,6100,Employee Benefits,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,10,6200,Rent,81094.2437585427
+dataanalytics_corp,DataAnalytics Corp,2026,10,6300,Utilities,50168.1538711152
+dataanalytics_corp,DataAnalytics Corp,2026,10,6400,Insurance,51533.463817857424
+dataanalytics_corp,DataAnalytics Corp,2026,10,6500,Professional Fees,35946.29031454875
+dataanalytics_corp,DataAnalytics Corp,2026,10,7000,Sales and Marketing,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,10,7100,Advertising,70135.51722395452
+dataanalytics_corp,DataAnalytics Corp,2026,10,7200,Travel and Entertainment,64657.78722983063
+dataanalytics_corp,DataAnalytics Corp,2026,10,8000,Research and Development,39041.68735939119
+dataanalytics_corp,DataAnalytics Corp,2026,10,9000,Depreciation Expense,31545.639970858145
+dataanalytics_corp,DataAnalytics Corp,2026,10,9100,Amortization Expense,63943.71219571362
+dataanalytics_corp,DataAnalytics Corp,2026,10,9500,Interest Expense,62536.02410689482
+dataanalytics_corp,DataAnalytics Corp,2026,11,4100,Service Revenue,2083333.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,11,5300,Cost of Services,729166.6666666666
+dataanalytics_corp,DataAnalytics Corp,2026,11,6000,Salaries and Wages,473958.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,11,6100,Employee Benefits,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,11,6200,Rent,41884.89104573634
+dataanalytics_corp,DataAnalytics Corp,2026,11,6300,Utilities,78588.44295523057
+dataanalytics_corp,DataAnalytics Corp,2026,11,6400,Insurance,35265.63580479876
+dataanalytics_corp,DataAnalytics Corp,2026,11,6500,Professional Fees,50501.46838980761
+dataanalytics_corp,DataAnalytics Corp,2026,11,7000,Sales and Marketing,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,11,7100,Advertising,78195.86234241161
+dataanalytics_corp,DataAnalytics Corp,2026,11,7200,Travel and Entertainment,49818.563000164955
+dataanalytics_corp,DataAnalytics Corp,2026,11,8000,Research and Development,61670.15549847129
+dataanalytics_corp,DataAnalytics Corp,2026,11,9000,Depreciation Expense,48619.69655631802
+dataanalytics_corp,DataAnalytics Corp,2026,11,9100,Amortization Expense,41936.65679388629
+dataanalytics_corp,DataAnalytics Corp,2026,11,9500,Interest Expense,80382.12259782403
+dataanalytics_corp,DataAnalytics Corp,2026,12,4100,Service Revenue,2083333.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,12,5300,Cost of Services,729166.6666666666
+dataanalytics_corp,DataAnalytics Corp,2026,12,6000,Salaries and Wages,473958.3333333333
+dataanalytics_corp,DataAnalytics Corp,2026,12,6100,Employee Benefits,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,12,6200,Rent,49255.592008731495
+dataanalytics_corp,DataAnalytics Corp,2026,12,6300,Utilities,75513.70686595312
+dataanalytics_corp,DataAnalytics Corp,2026,12,6400,Insurance,39539.2078191005
+dataanalytics_corp,DataAnalytics Corp,2026,12,6500,Professional Fees,38626.50480135868
+dataanalytics_corp,DataAnalytics Corp,2026,12,7000,Sales and Marketing,108333.33333333334
+dataanalytics_corp,DataAnalytics Corp,2026,12,7100,Advertising,28769.762822911034
+dataanalytics_corp,DataAnalytics Corp,2026,12,7200,Travel and Entertainment,62381.953041193774
+dataanalytics_corp,DataAnalytics Corp,2026,12,8000,Research and Development,47045.17695170373
+dataanalytics_corp,DataAnalytics Corp,2026,12,9000,Depreciation Expense,73902.73853298035
+dataanalytics_corp,DataAnalytics Corp,2026,12,9100,Amortization Expense,52715.53661245935
+dataanalytics_corp,DataAnalytics Corp,2026,12,9500,Interest Expense,79527.14401204743
+ecopackaging_ltd,EcoPackaging Ltd,2026,1,4000,Product Sales,5000000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,1,5000,Cost of Goods Sold - Materials,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,1,5100,Cost of Goods Sold - Labor,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,1,5200,Cost of Goods Sold - Overhead,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,1,6000,Salaries and Wages,490000.00000000006
+ecopackaging_ltd,EcoPackaging Ltd,2026,1,6100,Employee Benefits,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,1,6200,Rent,38389.42887937479
+ecopackaging_ltd,EcoPackaging Ltd,2026,1,6300,Utilities,76642.8974055142
+ecopackaging_ltd,EcoPackaging Ltd,2026,1,6400,Insurance,71489.42375633755
+ecopackaging_ltd,EcoPackaging Ltd,2026,1,6500,Professional Fees,71171.62330006692
+ecopackaging_ltd,EcoPackaging Ltd,2026,1,7000,Sales and Marketing,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,1,7100,Advertising,75307.86077454573
+ecopackaging_ltd,EcoPackaging Ltd,2026,1,7200,Travel and Entertainment,70617.34349280795
+ecopackaging_ltd,EcoPackaging Ltd,2026,1,8000,Research and Development,63068.338011359265
+ecopackaging_ltd,EcoPackaging Ltd,2026,1,9000,Depreciation Expense,35349.71315021371
+ecopackaging_ltd,EcoPackaging Ltd,2026,1,9100,Amortization Expense,29821.466051510113
+ecopackaging_ltd,EcoPackaging Ltd,2026,1,9500,Interest Expense,79567.47947767847
+ecopackaging_ltd,EcoPackaging Ltd,2026,2,4000,Product Sales,5000000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,2,5000,Cost of Goods Sold - Materials,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,2,5100,Cost of Goods Sold - Labor,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,2,5200,Cost of Goods Sold - Overhead,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,2,6000,Salaries and Wages,490000.00000000006
+ecopackaging_ltd,EcoPackaging Ltd,2026,2,6100,Employee Benefits,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,2,6200,Rent,62532.41761316133
+ecopackaging_ltd,EcoPackaging Ltd,2026,2,6300,Utilities,72606.08829466588
+ecopackaging_ltd,EcoPackaging Ltd,2026,2,6400,Insurance,54965.2516847028
+ecopackaging_ltd,EcoPackaging Ltd,2026,2,6500,Professional Fees,34569.25858189409
+ecopackaging_ltd,EcoPackaging Ltd,2026,2,7000,Sales and Marketing,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,2,7100,Advertising,35010.40436334283
+ecopackaging_ltd,EcoPackaging Ltd,2026,2,7200,Travel and Entertainment,66391.6560848224
+ecopackaging_ltd,EcoPackaging Ltd,2026,2,8000,Research and Development,52097.13011436991
+ecopackaging_ltd,EcoPackaging Ltd,2026,2,9000,Depreciation Expense,39229.38469521886
+ecopackaging_ltd,EcoPackaging Ltd,2026,2,9100,Amortization Expense,55529.29461752047
+ecopackaging_ltd,EcoPackaging Ltd,2026,2,9500,Interest Expense,31595.700476207512
+ecopackaging_ltd,EcoPackaging Ltd,2026,3,4000,Product Sales,5000000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,3,5000,Cost of Goods Sold - Materials,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,3,5100,Cost of Goods Sold - Labor,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,3,5200,Cost of Goods Sold - Overhead,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,3,6000,Salaries and Wages,490000.00000000006
+ecopackaging_ltd,EcoPackaging Ltd,2026,3,6100,Employee Benefits,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,3,6200,Rent,60590.39850720633
+ecopackaging_ltd,EcoPackaging Ltd,2026,3,6300,Utilities,43063.63064836548
+ecopackaging_ltd,EcoPackaging Ltd,2026,3,6400,Insurance,72663.30963568254
+ecopackaging_ltd,EcoPackaging Ltd,2026,3,6500,Professional Fees,45380.26969972014
+ecopackaging_ltd,EcoPackaging Ltd,2026,3,7000,Sales and Marketing,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,3,7100,Advertising,53492.32834858087
+ecopackaging_ltd,EcoPackaging Ltd,2026,3,7200,Travel and Entertainment,28650.75023485364
+ecopackaging_ltd,EcoPackaging Ltd,2026,3,8000,Research and Development,32057.0257164953
+ecopackaging_ltd,EcoPackaging Ltd,2026,3,9000,Depreciation Expense,49979.63915877435
+ecopackaging_ltd,EcoPackaging Ltd,2026,3,9100,Amortization Expense,54876.57474415893
+ecopackaging_ltd,EcoPackaging Ltd,2026,3,9500,Interest Expense,61601.15069468101
+ecopackaging_ltd,EcoPackaging Ltd,2026,4,4000,Product Sales,5000000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,4,5000,Cost of Goods Sold - Materials,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,4,5100,Cost of Goods Sold - Labor,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,4,5200,Cost of Goods Sold - Overhead,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,4,6000,Salaries and Wages,490000.00000000006
+ecopackaging_ltd,EcoPackaging Ltd,2026,4,6100,Employee Benefits,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,4,6200,Rent,44333.10440772098
+ecopackaging_ltd,EcoPackaging Ltd,2026,4,6300,Utilities,66918.9856230864
+ecopackaging_ltd,EcoPackaging Ltd,2026,4,6400,Insurance,76166.85424259547
+ecopackaging_ltd,EcoPackaging Ltd,2026,4,6500,Professional Fees,71671.65537802759
+ecopackaging_ltd,EcoPackaging Ltd,2026,4,7000,Sales and Marketing,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,4,7100,Advertising,30218.654219508004
+ecopackaging_ltd,EcoPackaging Ltd,2026,4,7200,Travel and Entertainment,54908.389046438424
+ecopackaging_ltd,EcoPackaging Ltd,2026,4,8000,Research and Development,33876.0899914178
+ecopackaging_ltd,EcoPackaging Ltd,2026,4,9000,Depreciation Expense,41554.520888301544
+ecopackaging_ltd,EcoPackaging Ltd,2026,4,9100,Amortization Expense,83253.1052229602
+ecopackaging_ltd,EcoPackaging Ltd,2026,4,9500,Interest Expense,35979.750402484744
+ecopackaging_ltd,EcoPackaging Ltd,2026,5,4000,Product Sales,5000000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,5,5000,Cost of Goods Sold - Materials,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,5,5100,Cost of Goods Sold - Labor,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,5,5200,Cost of Goods Sold - Overhead,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,5,6000,Salaries and Wages,490000.00000000006
+ecopackaging_ltd,EcoPackaging Ltd,2026,5,6100,Employee Benefits,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,5,6200,Rent,55937.73659327594
+ecopackaging_ltd,EcoPackaging Ltd,2026,5,6300,Utilities,62616.72112181468
+ecopackaging_ltd,EcoPackaging Ltd,2026,5,6400,Insurance,67338.03835046983
+ecopackaging_ltd,EcoPackaging Ltd,2026,5,6500,Professional Fees,59340.3262752672
+ecopackaging_ltd,EcoPackaging Ltd,2026,5,7000,Sales and Marketing,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,5,7100,Advertising,28547.16745547429
+ecopackaging_ltd,EcoPackaging Ltd,2026,5,7200,Travel and Entertainment,46281.83326166355
+ecopackaging_ltd,EcoPackaging Ltd,2026,5,8000,Research and Development,56991.85202954385
+ecopackaging_ltd,EcoPackaging Ltd,2026,5,9000,Depreciation Expense,32920.52395211067
+ecopackaging_ltd,EcoPackaging Ltd,2026,5,9100,Amortization Expense,47635.10814771413
+ecopackaging_ltd,EcoPackaging Ltd,2026,5,9500,Interest Expense,29859.374092316535
+ecopackaging_ltd,EcoPackaging Ltd,2026,6,4000,Product Sales,5000000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,6,5000,Cost of Goods Sold - Materials,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,6,5100,Cost of Goods Sold - Labor,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,6,5200,Cost of Goods Sold - Overhead,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,6,6000,Salaries and Wages,490000.00000000006
+ecopackaging_ltd,EcoPackaging Ltd,2026,6,6100,Employee Benefits,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,6,6200,Rent,32400.395840681165
+ecopackaging_ltd,EcoPackaging Ltd,2026,6,6300,Utilities,50227.70346728939
+ecopackaging_ltd,EcoPackaging Ltd,2026,6,6400,Insurance,35432.08222641138
+ecopackaging_ltd,EcoPackaging Ltd,2026,6,6500,Professional Fees,59782.28750264726
+ecopackaging_ltd,EcoPackaging Ltd,2026,6,7000,Sales and Marketing,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,6,7100,Advertising,66610.03827168689
+ecopackaging_ltd,EcoPackaging Ltd,2026,6,7200,Travel and Entertainment,72832.85515010865
+ecopackaging_ltd,EcoPackaging Ltd,2026,6,8000,Research and Development,39208.413677709366
+ecopackaging_ltd,EcoPackaging Ltd,2026,6,9000,Depreciation Expense,37379.02460650791
+ecopackaging_ltd,EcoPackaging Ltd,2026,6,9100,Amortization Expense,33855.79905872642
+ecopackaging_ltd,EcoPackaging Ltd,2026,6,9500,Interest Expense,63640.093974443655
+ecopackaging_ltd,EcoPackaging Ltd,2026,7,4000,Product Sales,5000000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,7,5000,Cost of Goods Sold - Materials,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,7,5100,Cost of Goods Sold - Labor,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,7,5200,Cost of Goods Sold - Overhead,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,7,6000,Salaries and Wages,490000.00000000006
+ecopackaging_ltd,EcoPackaging Ltd,2026,7,6100,Employee Benefits,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,7,6200,Rent,67562.64068326648
+ecopackaging_ltd,EcoPackaging Ltd,2026,7,6300,Utilities,29768.82411023596
+ecopackaging_ltd,EcoPackaging Ltd,2026,7,6400,Insurance,80427.88578964664
+ecopackaging_ltd,EcoPackaging Ltd,2026,7,6500,Professional Fees,30910.391884482462
+ecopackaging_ltd,EcoPackaging Ltd,2026,7,7000,Sales and Marketing,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,7,7100,Advertising,58312.59477685996
+ecopackaging_ltd,EcoPackaging Ltd,2026,7,7200,Travel and Entertainment,67707.38908925133
+ecopackaging_ltd,EcoPackaging Ltd,2026,7,8000,Research and Development,76774.2709297808
+ecopackaging_ltd,EcoPackaging Ltd,2026,7,9000,Depreciation Expense,67988.86819941597
+ecopackaging_ltd,EcoPackaging Ltd,2026,7,9100,Amortization Expense,72896.77265190834
+ecopackaging_ltd,EcoPackaging Ltd,2026,7,9500,Interest Expense,47009.21078239714
+ecopackaging_ltd,EcoPackaging Ltd,2026,8,4000,Product Sales,5000000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,8,5000,Cost of Goods Sold - Materials,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,8,5100,Cost of Goods Sold - Labor,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,8,5200,Cost of Goods Sold - Overhead,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,8,6000,Salaries and Wages,490000.00000000006
+ecopackaging_ltd,EcoPackaging Ltd,2026,8,6100,Employee Benefits,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,8,6200,Rent,73630.2063698047
+ecopackaging_ltd,EcoPackaging Ltd,2026,8,6300,Utilities,32486.431397541815
+ecopackaging_ltd,EcoPackaging Ltd,2026,8,6400,Insurance,78109.73273938955
+ecopackaging_ltd,EcoPackaging Ltd,2026,8,6500,Professional Fees,58665.17306460924
+ecopackaging_ltd,EcoPackaging Ltd,2026,8,7000,Sales and Marketing,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,8,7100,Advertising,73768.67511789966
+ecopackaging_ltd,EcoPackaging Ltd,2026,8,7200,Travel and Entertainment,53329.82393302482
+ecopackaging_ltd,EcoPackaging Ltd,2026,8,8000,Research and Development,64040.3509310054
+ecopackaging_ltd,EcoPackaging Ltd,2026,8,9000,Depreciation Expense,57478.54901242235
+ecopackaging_ltd,EcoPackaging Ltd,2026,8,9100,Amortization Expense,68969.01321829858
+ecopackaging_ltd,EcoPackaging Ltd,2026,8,9500,Interest Expense,32571.278993713022
+ecopackaging_ltd,EcoPackaging Ltd,2026,9,4000,Product Sales,5000000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,9,5000,Cost of Goods Sold - Materials,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,9,5100,Cost of Goods Sold - Labor,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,9,5200,Cost of Goods Sold - Overhead,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,9,6000,Salaries and Wages,490000.00000000006
+ecopackaging_ltd,EcoPackaging Ltd,2026,9,6100,Employee Benefits,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,9,6200,Rent,31379.71670347158
+ecopackaging_ltd,EcoPackaging Ltd,2026,9,6300,Utilities,41837.7811045682
+ecopackaging_ltd,EcoPackaging Ltd,2026,9,6400,Insurance,36934.50208633855
+ecopackaging_ltd,EcoPackaging Ltd,2026,9,6500,Professional Fees,76819.87972916331
+ecopackaging_ltd,EcoPackaging Ltd,2026,9,7000,Sales and Marketing,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,9,7100,Advertising,40275.983292050485
+ecopackaging_ltd,EcoPackaging Ltd,2026,9,7200,Travel and Entertainment,82648.45432587137
+ecopackaging_ltd,EcoPackaging Ltd,2026,9,8000,Research and Development,46866.16433918199
+ecopackaging_ltd,EcoPackaging Ltd,2026,9,9000,Depreciation Expense,38198.60327856717
+ecopackaging_ltd,EcoPackaging Ltd,2026,9,9100,Amortization Expense,72223.11639997883
+ecopackaging_ltd,EcoPackaging Ltd,2026,9,9500,Interest Expense,64887.63542804906
+ecopackaging_ltd,EcoPackaging Ltd,2026,10,4000,Product Sales,5000000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,10,5000,Cost of Goods Sold - Materials,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,10,5100,Cost of Goods Sold - Labor,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,10,5200,Cost of Goods Sold - Overhead,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,10,6000,Salaries and Wages,490000.00000000006
+ecopackaging_ltd,EcoPackaging Ltd,2026,10,6100,Employee Benefits,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,10,6200,Rent,55898.960121375785
+ecopackaging_ltd,EcoPackaging Ltd,2026,10,6300,Utilities,59100.35885250735
+ecopackaging_ltd,EcoPackaging Ltd,2026,10,6400,Insurance,68275.29958324677
+ecopackaging_ltd,EcoPackaging Ltd,2026,10,6500,Professional Fees,40793.465514552736
+ecopackaging_ltd,EcoPackaging Ltd,2026,10,7000,Sales and Marketing,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,10,7100,Advertising,83794.69929917756
+ecopackaging_ltd,EcoPackaging Ltd,2026,10,7200,Travel and Entertainment,82588.41708021986
+ecopackaging_ltd,EcoPackaging Ltd,2026,10,8000,Research and Development,64418.23843542847
+ecopackaging_ltd,EcoPackaging Ltd,2026,10,9000,Depreciation Expense,39174.377252032136
+ecopackaging_ltd,EcoPackaging Ltd,2026,10,9100,Amortization Expense,66092.78157615232
+ecopackaging_ltd,EcoPackaging Ltd,2026,10,9500,Interest Expense,32043.110902833854
+ecopackaging_ltd,EcoPackaging Ltd,2026,11,4000,Product Sales,5000000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,11,5000,Cost of Goods Sold - Materials,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,11,5100,Cost of Goods Sold - Labor,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,11,5200,Cost of Goods Sold - Overhead,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,11,6000,Salaries and Wages,490000.00000000006
+ecopackaging_ltd,EcoPackaging Ltd,2026,11,6100,Employee Benefits,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,11,6200,Rent,29716.540123525145
+ecopackaging_ltd,EcoPackaging Ltd,2026,11,6300,Utilities,42430.24175662798
+ecopackaging_ltd,EcoPackaging Ltd,2026,11,6400,Insurance,53906.88557740173
+ecopackaging_ltd,EcoPackaging Ltd,2026,11,6500,Professional Fees,76623.26030286931
+ecopackaging_ltd,EcoPackaging Ltd,2026,11,7000,Sales and Marketing,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,11,7100,Advertising,68721.46790691325
+ecopackaging_ltd,EcoPackaging Ltd,2026,11,7200,Travel and Entertainment,69591.56518719894
+ecopackaging_ltd,EcoPackaging Ltd,2026,11,8000,Research and Development,51827.626729092226
+ecopackaging_ltd,EcoPackaging Ltd,2026,11,9000,Depreciation Expense,47372.359582629935
+ecopackaging_ltd,EcoPackaging Ltd,2026,11,9100,Amortization Expense,48778.17072713775
+ecopackaging_ltd,EcoPackaging Ltd,2026,11,9500,Interest Expense,83308.37556921925
+ecopackaging_ltd,EcoPackaging Ltd,2026,12,4000,Product Sales,5000000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,12,5000,Cost of Goods Sold - Materials,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,12,5100,Cost of Goods Sold - Labor,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,12,5200,Cost of Goods Sold - Overhead,1200000.0
+ecopackaging_ltd,EcoPackaging Ltd,2026,12,6000,Salaries and Wages,490000.00000000006
+ecopackaging_ltd,EcoPackaging Ltd,2026,12,6100,Employee Benefits,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,12,6200,Rent,30246.114719099023
+ecopackaging_ltd,EcoPackaging Ltd,2026,12,6300,Utilities,76553.76378285713
+ecopackaging_ltd,EcoPackaging Ltd,2026,12,6400,Insurance,60405.82288005404
+ecopackaging_ltd,EcoPackaging Ltd,2026,12,6500,Professional Fees,52562.46347461707
+ecopackaging_ltd,EcoPackaging Ltd,2026,12,7000,Sales and Marketing,112000.00000000001
+ecopackaging_ltd,EcoPackaging Ltd,2026,12,7100,Advertising,68614.42898324765
+ecopackaging_ltd,EcoPackaging Ltd,2026,12,7200,Travel and Entertainment,55253.46071978336
+ecopackaging_ltd,EcoPackaging Ltd,2026,12,8000,Research and Development,76911.701332573
+ecopackaging_ltd,EcoPackaging Ltd,2026,12,9000,Depreciation Expense,78439.30438463048
+ecopackaging_ltd,EcoPackaging Ltd,2026,12,9100,Amortization Expense,51616.3719049135
+ecopackaging_ltd,EcoPackaging Ltd,2026,12,9500,Interest Expense,43502.356645162894

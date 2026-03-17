@@ -1,0 +1,37 @@
+account_code,account_name,debit,credit,balance,account_type,company_id,company_name,period
+1000,Cash and Cash Equivalents,29720389.705335554,0.0,29720389.705335554,Asset,industrialsupply_co,IndustrialSupply Co,2026-01
+1100,Accounts Receivable,22594769.490968414,0.0,22594769.490968414,Asset,industrialsupply_co,IndustrialSupply Co,2026-01
+1150,Allowance for Doubtful Accounts,0.0,243730.63073132356,-243730.63073132356,Asset,industrialsupply_co,IndustrialSupply Co,2026-01
+1200,Inventory - Raw Materials,16530906.228673136,0.0,16530906.228673136,Asset,industrialsupply_co,IndustrialSupply Co,2026-01
+1210,Inventory - Work in Process,14120456.482942667,0.0,14120456.482942667,Asset,industrialsupply_co,IndustrialSupply Co,2026-01
+1220,Inventory - Finished Goods,8078871.302303274,0.0,8078871.302303274,Asset,industrialsupply_co,IndustrialSupply Co,2026-01
+1300,Prepaid Expenses,1562648.459933142,0.0,1562648.459933142,Asset,industrialsupply_co,IndustrialSupply Co,2026-01
+1400,"Property, Plant & Equipment",60000000.0,0.0,60000000.0,Asset,industrialsupply_co,IndustrialSupply Co,2026-01
+1450,Accumulated Depreciation,0.0,22500000.0,-22500000.0,Asset,industrialsupply_co,IndustrialSupply Co,2026-01
+1500,Intangible Assets,45000000.0,0.0,45000000.0,Asset,industrialsupply_co,IndustrialSupply Co,2026-01
+1550,Accumulated Amortization,0.0,12000000.0,-12000000.0,Asset,industrialsupply_co,IndustrialSupply Co,2026-01
+2000,Accounts Payable,0.0,9571930.290762078,-9571930.290762078,Liability,industrialsupply_co,IndustrialSupply Co,2026-01
+2100,Accrued Expenses,0.0,1283269.3380548526,-1283269.3380548526,Liability,industrialsupply_co,IndustrialSupply Co,2026-01
+2150,Accrued Payroll,0.0,2646367.6725645065,-2646367.6725645065,Liability,industrialsupply_co,IndustrialSupply Co,2026-01
+2200,Deferred Revenue,0.0,0.0,0.0,Liability,industrialsupply_co,IndustrialSupply Co,2026-01
+2300,Current Portion of Long-term Debt,0.0,286551804.3206155,-286551804.3206155,Liability,industrialsupply_co,IndustrialSupply Co,2026-01
+2400,Long-term Debt,0.0,204481690.02207276,-204481690.02207276,Liability,industrialsupply_co,IndustrialSupply Co,2026-01
+3000,Common Stock,0.0,75000000.0,-75000000.0,Equity,industrialsupply_co,IndustrialSupply Co,2026-01
+3100,Retained Earnings,0.0,-417077624.21037376,417077624.21037376,Equity,industrialsupply_co,IndustrialSupply Co,2026-01
+4000,Product Sales,0.0,12186531.536566177,-12186531.536566177,Revenue,industrialsupply_co,IndustrialSupply Co,2026-01
+5000,Cost of Goods Sold - Materials,3330985.286661422,0.0,3330985.286661422,COGS,industrialsupply_co,IndustrialSupply Co,2026-01
+5100,Cost of Goods Sold - Labor,3330985.286661422,0.0,3330985.286661422,COGS,industrialsupply_co,IndustrialSupply Co,2026-01
+5200,Cost of Goods Sold - Overhead,3330985.286661422,0.0,3330985.286661422,COGS,industrialsupply_co,IndustrialSupply Co,2026-01
+6000,Salaries and Wages,767751.486803669,0.0,767751.486803669,Operating Expense,industrialsupply_co,IndustrialSupply Co,2026-01
+6100,Employee Benefits,175486.05412655295,0.0,175486.05412655295,Operating Expense,industrialsupply_co,IndustrialSupply Co,2026-01
+6200,Rent,109678.7838290956,0.0,109678.7838290956,Operating Expense,industrialsupply_co,IndustrialSupply Co,2026-01
+6300,Utilities,55994.96110610801,0.0,55994.96110610801,Operating Expense,industrialsupply_co,IndustrialSupply Co,2026-01
+6400,Insurance,78379.81232609342,0.0,78379.81232609342,Operating Expense,industrialsupply_co,IndustrialSupply Co,2026-01
+6500,Professional Fees,62144.25253804093,0.0,62144.25253804093,Operating Expense,industrialsupply_co,IndustrialSupply Co,2026-01
+7000,Sales and Marketing,175486.05412655295,0.0,175486.05412655295,Operating Expense,industrialsupply_co,IndustrialSupply Co,2026-01
+7100,Advertising,69809.8254769452,0.0,69809.8254769452,Operating Expense,industrialsupply_co,IndustrialSupply Co,2026-01
+7200,Travel and Entertainment,104542.72896142017,0.0,104542.72896142017,Operating Expense,industrialsupply_co,IndustrialSupply Co,2026-01
+8000,Research and Development,0.0,0.0,0.0,Operating Expense,industrialsupply_co,IndustrialSupply Co,2026-01
+9000,Depreciation Expense,65807.27029745735,0.0,65807.27029745735,Operating Expense,industrialsupply_co,IndustrialSupply Co,2026-01
+9100,Amortization Expense,65807.27029745735,0.0,65807.27029745735,Operating Expense,industrialsupply_co,IndustrialSupply Co,2026-01
+9500,Interest Expense,55813.570963574886,0.0,55813.570963574886,Operating Expense,industrialsupply_co,IndustrialSupply Co,2026-01

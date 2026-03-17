@@ -1,0 +1,16 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2025-12-01,Beginning Balance,,,46209428.466815405,retailco,RetailCo,2025-12
+2025-12-03,"Vendor Payment - Smith, Gilmore and Johnston",21755.634569432194,,46187672.832245976,retailco,RetailCo,2025-12
+2025-12-09,Customer Payment - Smith-Bell,,118679.58853260364,46306352.42077858,retailco,RetailCo,2025-12
+2025-12-10,Vendor Payment - Castaneda-Ashley,146671.33566911696,,46159681.085109465,retailco,RetailCo,2025-12
+2025-12-13,Customer Payment - Medina-Navarro,,98920.28267464213,46258601.367784105,retailco,RetailCo,2025-12
+2025-12-13,"Vendor Payment - Hurst, Freeman and Nelson",144805.9104772117,,46113795.45730689,retailco,RetailCo,2025-12
+2025-12-16,Payroll,2916666.6666666665,,43197128.79064023,retailco,RetailCo,2025-12
+2025-12-16,Vendor Payment - Johnson-Rogers,180388.65004597962,,43016740.14059425,retailco,RetailCo,2025-12
+2025-12-19,"Vendor Payment - Yates, Ramsey and Pittman",179118.43672480131,,42837621.70386945,retailco,RetailCo,2025-12
+2025-12-20,Vendor Payment - Hooper PLC,26727.791463819998,,42810893.912405625,retailco,RetailCo,2025-12
+2025-12-26,Customer Payment - Meadows PLC,,393800.6552125289,43204694.567618154,retailco,RetailCo,2025-12
+2025-12-27,"Vendor Payment - Alvarado, Miller and Patterson",24844.898158420605,,43179849.66945973,retailco,RetailCo,2025-12
+2025-12-28,Customer Payment - White-Green,,316831.7549737795,43496681.42443351,retailco,RetailCo,2025-12
+2025-12-30,Customer Payment - Lewis-Murphy,,144288.23073013194,43640969.65516364,retailco,RetailCo,2025-12
+2025-12-30,Vendor Payment - Ramirez-Bean,157575.75977439695,,43483393.895389244,retailco,RetailCo,2025-12

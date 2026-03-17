@@ -1,0 +1,32 @@
+account_code,account_name,debit,credit,balance,account_type,company_id,company_name,period
+1000,Cash and Cash Equivalents,6503426.841641433,0.0,6503426.841641433,Asset,dataanalytics_corp,DataAnalytics Corp,2026-01
+1100,Accounts Receivable,3309773.826549118,0.0,3309773.826549118,Asset,dataanalytics_corp,DataAnalytics Corp,2026-01
+1150,Allowance for Doubtful Accounts,0.0,45509.92136519928,-45509.92136519928,Asset,dataanalytics_corp,DataAnalytics Corp,2026-01
+1300,Prepaid Expenses,290682.15379833063,0.0,290682.15379833063,Asset,dataanalytics_corp,DataAnalytics Corp,2026-01
+1400,"Property, Plant & Equipment",10000000.0,0.0,10000000.0,Asset,dataanalytics_corp,DataAnalytics Corp,2026-01
+1450,Accumulated Depreciation,0.0,3750000.0,-3750000.0,Asset,dataanalytics_corp,DataAnalytics Corp,2026-01
+1500,Intangible Assets,7500000.0,0.0,7500000.0,Asset,dataanalytics_corp,DataAnalytics Corp,2026-01
+1550,Accumulated Amortization,0.0,2000000.0,-2000000.0,Asset,dataanalytics_corp,DataAnalytics Corp,2026-01
+2000,Accounts Payable,0.0,1047790.3948448447,-1047790.3948448447,Liability,dataanalytics_corp,DataAnalytics Corp,2026-01
+2100,Accrued Expenses,0.0,235842.34535132043,-235842.34535132043,Liability,dataanalytics_corp,DataAnalytics Corp,2026-01
+2150,Accrued Payroll,0.0,270530.5240009855,-270530.5240009855,Liability,dataanalytics_corp,DataAnalytics Corp,2026-01
+2200,Deferred Revenue,0.0,0.0,0.0,Liability,dataanalytics_corp,DataAnalytics Corp,2026-01
+2300,Current Portion of Long-term Debt,0.0,38112754.00311338,-38112754.00311338,Liability,dataanalytics_corp,DataAnalytics Corp,2026-01
+2400,Long-term Debt,0.0,15169574.317258589,-15169574.317258589,Liability,dataanalytics_corp,DataAnalytics Corp,2026-01
+3000,Common Stock,0.0,12500000.0,-12500000.0,Equity,dataanalytics_corp,DataAnalytics Corp,2026-01
+3100,Retained Earnings,0.0,-45859335.602304965,45859335.602304965,Equity,dataanalytics_corp,DataAnalytics Corp,2026-01
+4100,Service Revenue,0.0,2275496.068259964,-2275496.068259964,Revenue,dataanalytics_corp,DataAnalytics Corp,2026-01
+5300,Cost of Services,796423.6238909875,0.0,796423.6238909875,COGS,dataanalytics_corp,DataAnalytics Corp,2026-01
+6000,Salaries and Wages,517675.35552914185,0.0,517675.35552914185,Operating Expense,dataanalytics_corp,DataAnalytics Corp,2026-01
+6100,Employee Benefits,118325.79554951815,0.0,118325.79554951815,Operating Expense,dataanalytics_corp,DataAnalytics Corp,2026-01
+6200,Rent,73953.62221844884,0.0,73953.62221844884,Operating Expense,dataanalytics_corp,DataAnalytics Corp,2026-01
+6300,Utilities,33662.24705139891,0.0,33662.24705139891,Operating Expense,dataanalytics_corp,DataAnalytics Corp,2026-01
+6400,Insurance,64775.996098993404,0.0,64775.996098993404,Operating Expense,dataanalytics_corp,DataAnalytics Corp,2026-01
+6500,Professional Fees,16167.559598649197,0.0,16167.559598649197,Operating Expense,dataanalytics_corp,DataAnalytics Corp,2026-01
+7000,Sales and Marketing,118325.79554951815,0.0,118325.79554951815,Operating Expense,dataanalytics_corp,DataAnalytics Corp,2026-01
+7100,Advertising,62977.04001986212,0.0,62977.04001986212,Operating Expense,dataanalytics_corp,DataAnalytics Corp,2026-01
+7200,Travel and Entertainment,31466.069670936173,0.0,31466.069670936173,Operating Expense,dataanalytics_corp,DataAnalytics Corp,2026-01
+8000,Research and Development,0.0,0.0,0.0,Operating Expense,dataanalytics_corp,DataAnalytics Corp,2026-01
+9000,Depreciation Expense,44372.1733310693,0.0,44372.1733310693,Operating Expense,dataanalytics_corp,DataAnalytics Corp,2026-01
+9100,Amortization Expense,44372.1733310693,0.0,44372.1733310693,Operating Expense,dataanalytics_corp,DataAnalytics Corp,2026-01
+9500,Interest Expense,21781.698060841845,0.0,21781.698060841845,Operating Expense,dataanalytics_corp,DataAnalytics Corp,2026-01

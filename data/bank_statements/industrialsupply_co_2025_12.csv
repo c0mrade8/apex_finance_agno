@@ -1,0 +1,20 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2025-12-01,Beginning Balance,,,22656419.331432145,industrialsupply_co,IndustrialSupply Co,2025-12
+2025-12-06,"Customer Payment - Wood, Tran and Cooper",,467114.31154215045,23123533.642974295,industrialsupply_co,IndustrialSupply Co,2025-12
+2025-12-09,"Vendor Payment - Pierce, Bell and Chavez",104366.57437923666,,23019167.06859506,industrialsupply_co,IndustrialSupply Co,2025-12
+2025-12-11,Customer Payment - King-Martinez,,256694.20790891082,23275861.27650397,industrialsupply_co,IndustrialSupply Co,2025-12
+2025-12-13,Vendor Payment - Stewart Ltd,79721.85142296641,,23196139.425081003,industrialsupply_co,IndustrialSupply Co,2025-12
+2025-12-14,"Customer Payment - Tapia, Vaughn and Lee",,403748.7339912069,23599888.15907221,industrialsupply_co,IndustrialSupply Co,2025-12
+2025-12-16,Payroll,2187500.0,,21412388.15907221,industrialsupply_co,IndustrialSupply Co,2025-12
+2025-12-17,"Vendor Payment - Washington, Hardy and Bray",85765.42349767272,,21326622.735574536,industrialsupply_co,IndustrialSupply Co,2025-12
+2025-12-18,"Customer Payment - Carlson, Hooper and Wall",,84092.2272145667,21410714.962789103,industrialsupply_co,IndustrialSupply Co,2025-12
+2025-12-19,Customer Payment - Perez-White,,76909.70386674447,21487624.66665585,industrialsupply_co,IndustrialSupply Co,2025-12
+2025-12-20,Vendor Payment - Erickson and Sons,20150.964215034444,,21467473.702440817,industrialsupply_co,IndustrialSupply Co,2025-12
+2025-12-21,Customer Payment - Williams-Brown,,262101.75814427633,21729575.460585095,industrialsupply_co,IndustrialSupply Co,2025-12
+2025-12-22,Vendor Payment - Terry-Martinez,130362.90084916467,,21599212.55973593,industrialsupply_co,IndustrialSupply Co,2025-12
+2025-12-25,Customer Payment - Garcia-Smith,,443053.9101048532,22042266.469840784,industrialsupply_co,IndustrialSupply Co,2025-12
+2025-12-25,Vendor Payment - Harrison-Alexander,65865.67540538212,,21976400.7944354,industrialsupply_co,IndustrialSupply Co,2025-12
+2025-12-27,Vendor Payment - Sheppard LLC,76933.17972969862,,21899467.6147057,industrialsupply_co,IndustrialSupply Co,2025-12
+2025-12-28,Customer Payment - Wilson-Jones,,293467.6162258719,22192935.230931573,industrialsupply_co,IndustrialSupply Co,2025-12
+2025-12-28,Vendor Payment - Jones-Soto,140897.77179162693,,22052037.459139947,industrialsupply_co,IndustrialSupply Co,2025-12
+2025-12-29,Customer Payment - Hernandez PLC,,76857.34930681066,22128894.808446757,industrialsupply_co,IndustrialSupply Co,2025-12

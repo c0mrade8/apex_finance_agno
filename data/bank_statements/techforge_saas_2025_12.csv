@@ -1,0 +1,13 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2025-12-01,Beginning Balance,,,6903693.141128329,techforge_saas,TechForge SaaS,2025-12
+2025-12-05,Vendor Payment - Hernandez Ltd,115908.21495291001,,6787784.926175418,techforge_saas,TechForge SaaS,2025-12
+2025-12-10,Customer Payment - Stafford Inc,,114615.90422741704,6902400.830402835,techforge_saas,TechForge SaaS,2025-12
+2025-12-11,Customer Payment - Robinson-Brock,,260481.41916272164,7162882.249565557,techforge_saas,TechForge SaaS,2025-12
+2025-12-16,Payroll,656249.9999999999,,6506632.249565557,techforge_saas,TechForge SaaS,2025-12
+2025-12-17,"Customer Payment - Holmes, Williams and Wright",,60433.70530686197,6567065.954872418,techforge_saas,TechForge SaaS,2025-12
+2025-12-22,Customer Payment - Bryant Group,,309924.9070581876,6876990.861930606,techforge_saas,TechForge SaaS,2025-12
+2025-12-24,"Vendor Payment - Schmidt, Hansen and Stewart",51921.75955378505,,6825069.1023768205,techforge_saas,TechForge SaaS,2025-12
+2025-12-26,Customer Payment - Salazar-Ball,,276494.56666042446,7101563.669037245,techforge_saas,TechForge SaaS,2025-12
+2025-12-27,"Customer Payment - Simmons, Meadows and Griffin",,181229.85021535013,7282793.5192525955,techforge_saas,TechForge SaaS,2025-12
+2025-12-28,Vendor Payment - Manning Group,63570.69100219316,,7219222.828250403,techforge_saas,TechForge SaaS,2025-12
+2025-12-29,Vendor Payment - Green-Wright,167204.36718168872,,7052018.461068714,techforge_saas,TechForge SaaS,2025-12

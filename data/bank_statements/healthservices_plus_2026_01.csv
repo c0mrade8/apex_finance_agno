@@ -1,0 +1,15 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2026-01-01,Beginning Balance,,,5009031.791479347,healthservices_plus,HealthServices Plus,2026-01
+2026-01-02,Vendor Payment - Burgess-Thompson,77578.92716588668,,4931452.864313461,healthservices_plus,HealthServices Plus,2026-01
+2026-01-03,Customer Payment - Buchanan LLC,,435534.1170832661,5366986.981396727,healthservices_plus,HealthServices Plus,2026-01
+2026-01-12,"Customer Payment - Shaw, Nelson and Martin",,307494.7671221036,5674481.748518831,healthservices_plus,HealthServices Plus,2026-01
+2026-01-14,Vendor Payment - Coffey-Phillips,175566.72037097096,,5498915.02814786,healthservices_plus,HealthServices Plus,2026-01
+2026-01-16,Payroll,510416.6666666667,,4988498.361481193,healthservices_plus,HealthServices Plus,2026-01
+2026-01-18,Vendor Payment - Brock-Mcdonald,64622.2189970779,,4923876.142484115,healthservices_plus,HealthServices Plus,2026-01
+2026-01-19,Vendor Payment - Taylor and Sons,182674.66821299968,,4741201.474271116,healthservices_plus,HealthServices Plus,2026-01
+2026-01-21,"Customer Payment - Ramsey, Whitney and Coffey",,190925.7597872364,4932127.234058352,healthservices_plus,HealthServices Plus,2026-01
+2026-01-21,"Vendor Payment - Diaz, Gibbs and Smith",58975.86151525905,,4873151.372543093,healthservices_plus,HealthServices Plus,2026-01
+2026-01-24,"Vendor Payment - Martinez, Richardson and Curry",105671.19892037351,,4767480.173622719,healthservices_plus,HealthServices Plus,2026-01
+2026-01-25,Customer Payment - Richards-Carson,,447664.96606889117,5215145.13969161,healthservices_plus,HealthServices Plus,2026-01
+2026-01-27,Customer Payment - Rodriguez-Hall,,366149.7441331929,5581294.883824803,healthservices_plus,HealthServices Plus,2026-01
+2026-01-28,Vendor Payment - Harvey PLC,60111.77710259706,,5521183.106722206,healthservices_plus,HealthServices Plus,2026-01

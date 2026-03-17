@@ -1,0 +1,11 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2025-12-01,Beginning Balance,,,28734356.716001775,precisionmfg_inc,PrecisionMfg Inc,2025-12
+2025-12-02,"Vendor Payment - Ramirez, Strickland and Washington",135666.56858007316,,28598690.147421703,precisionmfg_inc,PrecisionMfg Inc,2025-12
+2025-12-08,Vendor Payment - Hill Inc,60958.8902492751,,28537731.257172428,precisionmfg_inc,PrecisionMfg Inc,2025-12
+2025-12-14,"Customer Payment - Mitchell, Nelson and Flores",,375079.6620012055,28912810.91917363,precisionmfg_inc,PrecisionMfg Inc,2025-12
+2025-12-16,Payroll,1750000.0,,27162810.91917363,precisionmfg_inc,PrecisionMfg Inc,2025-12
+2025-12-19,"Vendor Payment - Miller, Hernandez and Reyes",183257.28813671728,,26979553.631036915,precisionmfg_inc,PrecisionMfg Inc,2025-12
+2025-12-21,Customer Payment - Mccarthy Inc,,247840.58814113177,27227394.219178047,precisionmfg_inc,PrecisionMfg Inc,2025-12
+2025-12-25,Customer Payment - Russell-Daniels,,362294.72791662446,27589688.94709467,precisionmfg_inc,PrecisionMfg Inc,2025-12
+2025-12-25,Vendor Payment - Brown-Wall,114266.77761473625,,27475422.169479936,precisionmfg_inc,PrecisionMfg Inc,2025-12
+2025-12-30,Vendor Payment - Stein-Silva,78228.41158121916,,27397193.757898718,precisionmfg_inc,PrecisionMfg Inc,2025-12

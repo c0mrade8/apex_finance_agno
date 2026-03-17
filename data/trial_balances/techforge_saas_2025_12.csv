@@ -1,0 +1,33 @@
+account_code,account_name,debit,credit,balance,account_type,company_id,company_name,period
+1000,Cash and Cash Equivalents,10573930.642853849,0.0,10573930.642853849,Asset,techforge_saas,TechForge SaaS,2025-12
+1100,Accounts Receivable,5878296.776464363,0.0,5878296.776464363,Asset,techforge_saas,TechForge SaaS,2025-12
+1150,Allowance for Doubtful Accounts,0.0,72564.22757105442,-72564.22757105442,Asset,techforge_saas,TechForge SaaS,2025-12
+1300,Prepaid Expenses,1115733.9526135607,0.0,1115733.9526135607,Asset,techforge_saas,TechForge SaaS,2025-12
+1400,"Property, Plant & Equipment",18000000.0,0.0,18000000.0,Asset,techforge_saas,TechForge SaaS,2025-12
+1450,Accumulated Depreciation,0.0,6750000.0,-6750000.0,Asset,techforge_saas,TechForge SaaS,2025-12
+1500,Intangible Assets,13500000.0,0.0,13500000.0,Asset,techforge_saas,TechForge SaaS,2025-12
+1550,Accumulated Amortization,0.0,3600000.0,-3600000.0,Asset,techforge_saas,TechForge SaaS,2025-12
+2000,Accounts Payable,0.0,2981705.383022152,-2981705.383022152,Liability,techforge_saas,TechForge SaaS,2025-12
+2100,Accrued Expenses,0.0,626686.1500415032,-626686.1500415032,Liability,techforge_saas,TechForge SaaS,2025-12
+2150,Accrued Payroll,0.0,1067987.299855642,-1067987.299855642,Liability,techforge_saas,TechForge SaaS,2025-12
+2200,Deferred Revenue,0.0,7052049.029425742,-7052049.029425742,Liability,techforge_saas,TechForge SaaS,2025-12
+2300,Current Portion of Long-term Debt,0.0,39495304.96821208,-39495304.96821208,Liability,techforge_saas,TechForge SaaS,2025-12
+2400,Long-term Debt,0.0,56064274.14773601,-56064274.14773601,Liability,techforge_saas,TechForge SaaS,2025-12
+3000,Common Stock,0.0,22500000.0,-22500000.0,Equity,techforge_saas,TechForge SaaS,2025-12
+3100,Retained Earnings,0.0,-94923763.95557353,94923763.95557353,Equity,techforge_saas,TechForge SaaS,2025-12
+4200,Subscription Revenue,0.0,3628211.378552721,-3628211.378552721,Revenue,techforge_saas,TechForge SaaS,2025-12
+4100,Professional Services Revenue,0.0,3628211.378552721,-3628211.378552721,Revenue,techforge_saas,TechForge SaaS,2025-12
+5300,Cost of Services,1015899.185994762,0.0,1015899.185994762,COGS,techforge_saas,TechForge SaaS,2025-12
+6000,Salaries and Wages,914309.2673952855,0.0,914309.2673952855,Operating Expense,techforge_saas,TechForge SaaS,2025-12
+6100,Employee Benefits,208984.9754046367,0.0,208984.9754046367,Operating Expense,techforge_saas,TechForge SaaS,2025-12
+6200,Rent,130615.60962789795,0.0,130615.60962789795,Operating Expense,techforge_saas,TechForge SaaS,2025-12
+6300,Utilities,57562.64501400273,0.0,57562.64501400273,Operating Expense,techforge_saas,TechForge SaaS,2025-12
+6400,Insurance,55886.8137814394,0.0,55886.8137814394,Operating Expense,techforge_saas,TechForge SaaS,2025-12
+6500,Professional Fees,29977.530818399173,0.0,29977.530818399173,Operating Expense,techforge_saas,TechForge SaaS,2025-12
+7000,Sales and Marketing,391846.82888369384,0.0,391846.82888369384,Operating Expense,techforge_saas,TechForge SaaS,2025-12
+7100,Advertising,89818.01559774583,0.0,89818.01559774583,Operating Expense,techforge_saas,TechForge SaaS,2025-12
+7200,Travel and Entertainment,78649.3035785348,0.0,78649.3035785348,Operating Expense,techforge_saas,TechForge SaaS,2025-12
+8000,Research and Development,313477.46310695505,0.0,313477.46310695505,Operating Expense,techforge_saas,TechForge SaaS,2025-12
+9000,Depreciation Expense,78369.36577673876,0.0,78369.36577673876,Operating Expense,techforge_saas,TechForge SaaS,2025-12
+9100,Amortization Expense,78369.36577673876,0.0,78369.36577673876,Operating Expense,techforge_saas,TechForge SaaS,2025-12
+9500,Interest Expense,31502.26470749981,0.0,31502.26470749981,Operating Expense,techforge_saas,TechForge SaaS,2025-12

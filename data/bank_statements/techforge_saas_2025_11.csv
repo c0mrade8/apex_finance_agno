@@ -1,0 +1,27 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2025-11-01,Beginning Balance,,,10140554.742391711,techforge_saas,TechForge SaaS,2025-11
+2025-11-02,"Vendor Payment - Rodriguez, Figueroa and Sanchez",168437.43944947163,,9972117.302942239,techforge_saas,TechForge SaaS,2025-11
+2025-11-03,Customer Payment - Doyle Ltd,,327527.41630394623,10299644.719246184,techforge_saas,TechForge SaaS,2025-11
+2025-11-04,"Vendor Payment - Mcclain, Miller and Henderson",70783.06654670884,,10228861.652699476,techforge_saas,TechForge SaaS,2025-11
+2025-11-05,Customer Payment - Davis and Sons,,477158.28695921286,10706019.939658688,techforge_saas,TechForge SaaS,2025-11
+2025-11-06,"Customer Payment - Guzman, Hoffman and Baldwin",,351364.57017293863,11057384.509831628,techforge_saas,TechForge SaaS,2025-11
+2025-11-07,"Customer Payment - Gardner, Robinson and Lawrence",,134456.28544443985,11191840.795276068,techforge_saas,TechForge SaaS,2025-11
+2025-11-07,Vendor Payment - Blake and Sons,88272.86681888992,,11103567.928457178,techforge_saas,TechForge SaaS,2025-11
+2025-11-09,"Customer Payment - Henderson, Ramirez and Lewis",,141958.61623777772,11245526.544694956,techforge_saas,TechForge SaaS,2025-11
+2025-11-12,Customer Payment - Garcia-James,,264948.6390147081,11510475.183709664,techforge_saas,TechForge SaaS,2025-11
+2025-11-13,Customer Payment - Abbott-Munoz,,283661.0049356989,11794136.188645363,techforge_saas,TechForge SaaS,2025-11
+2025-11-13,Vendor Payment - Blair PLC,112583.52640377221,,11681552.662241591,techforge_saas,TechForge SaaS,2025-11
+2025-11-16,Payroll,656249.9999999999,,11025302.662241591,techforge_saas,TechForge SaaS,2025-11
+2025-11-16,Vendor Payment - Dudley Group,160014.6143001557,,10865288.047941435,techforge_saas,TechForge SaaS,2025-11
+2025-11-18,Vendor Payment - Arnold Ltd,39417.95045675489,,10825870.09748468,techforge_saas,TechForge SaaS,2025-11
+2025-11-20,"Customer Payment - Mcclure, Ward and Lee",,103441.46163158774,10929311.559116269,techforge_saas,TechForge SaaS,2025-11
+2025-11-21,Customer Payment - Williams and Sons,,280169.8646548792,11209481.423771149,techforge_saas,TechForge SaaS,2025-11
+2025-11-21,Vendor Payment - Galloway-Wyatt,108669.02186540572,,11100812.401905743,techforge_saas,TechForge SaaS,2025-11
+2025-11-22,Customer Payment - James Group,,243435.75305787157,11344248.154963614,techforge_saas,TechForge SaaS,2025-11
+2025-11-23,"Customer Payment - Flowers, Martin and Kelly",,229437.18916297634,11573685.344126591,techforge_saas,TechForge SaaS,2025-11
+2025-11-24,"Customer Payment - Adams, Zuniga and Wong",,322040.58173802344,11895725.925864615,techforge_saas,TechForge SaaS,2025-11
+2025-11-25,"Vendor Payment - Reid, Ferguson and Sanchez",64284.75652384227,,11831441.169340773,techforge_saas,TechForge SaaS,2025-11
+2025-11-26,Customer Payment - Gray-Mayo,,293226.6222490289,12124667.791589802,techforge_saas,TechForge SaaS,2025-11
+2025-11-28,"Customer Payment - Watts, Robinson and Nguyen",,488703.50994003896,12613371.301529841,techforge_saas,TechForge SaaS,2025-11
+2025-11-28,Vendor Payment - Perez Inc,156883.45438799018,,12456487.84714185,techforge_saas,TechForge SaaS,2025-11
+2025-11-30,Customer Payment - Morales-Jones,,218624.76958655202,12675112.616728403,techforge_saas,TechForge SaaS,2025-11

@@ -1,0 +1,15 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2026-01-01,Beginning Balance,,,48456133.83676996,retailco,RetailCo,2026-01
+2026-01-09,Vendor Payment - Bruce-Gonzalez,76843.37193492618,,48379290.46483503,retailco,RetailCo,2026-01
+2026-01-10,Customer Payment - Castaneda-Rodriguez,,295085.74432834785,48674376.20916338,retailco,RetailCo,2026-01
+2026-01-10,Vendor Payment - Armstrong-Andrews,165314.31942301412,,48509061.88974037,retailco,RetailCo,2026-01
+2026-01-11,"Customer Payment - Phillips, Spence and Barrett",,319124.7623928406,48828186.65213321,retailco,RetailCo,2026-01
+2026-01-11,Vendor Payment - Smith-Grimes,195906.098160722,,48632280.55397249,retailco,RetailCo,2026-01
+2026-01-14,"Vendor Payment - Beltran, Lozano and Mcgee",138914.46751967282,,48493366.08645282,retailco,RetailCo,2026-01
+2026-01-16,Payroll,2916666.6666666665,,45576699.419786155,retailco,RetailCo,2026-01
+2026-01-17,Customer Payment - Parsons-Hall,,216298.58930276945,45792998.009088926,retailco,RetailCo,2026-01
+2026-01-18,Customer Payment - Robinson-Lee,,94156.72400607236,45887154.733095,retailco,RetailCo,2026-01
+2026-01-22,Vendor Payment - Byrd-Le,103649.20814195774,,45783505.52495304,retailco,RetailCo,2026-01
+2026-01-24,"Vendor Payment - Becker, Taylor and Davis",36824.29475994771,,45746681.23019309,retailco,RetailCo,2026-01
+2026-01-27,"Vendor Payment - Lucas, Parker and Alexander",165565.17948475364,,45581116.05070834,retailco,RetailCo,2026-01
+2026-01-30,"Customer Payment - Diaz, Anderson and Browning",,114968.97409231772,45696085.02480066,retailco,RetailCo,2026-01

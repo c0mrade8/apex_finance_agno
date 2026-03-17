@@ -1,0 +1,21 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2026-01-01,Beginning Balance,,,8260826.2278133845,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-02,Vendor Payment - Schmitt PLC,63354.38396481513,,8197471.843848569,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-05,Vendor Payment - Bell-Lane,167174.39783278707,,8030297.446015783,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-06,Vendor Payment - Moore Group,76522.43509761374,,7953775.010918169,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-07,Customer Payment - Boone LLC,,152921.12231104064,8106696.13322921,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-07,"Vendor Payment - Richardson, Farmer and Andrews",44376.854800997,,8062319.278428213,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-10,Vendor Payment - Bruce-Villegas,118515.97479765843,,7943803.303630554,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-14,"Customer Payment - Austin, Day and Johnson",,173690.10427476303,8117493.407905317,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-16,Payroll,875000.0,,7242493.407905317,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-18,"Customer Payment - Gallegos, Adams and White",,230150.6068891716,7472644.014794488,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-19,"Vendor Payment - Farmer, Dorsey and Bell",85844.67423412949,,7386799.340560359,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-22,Vendor Payment - Kane PLC,37590.876876167975,,7349208.463684191,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-23,"Customer Payment - Morales, Thomas and Schultz",,470870.9784929442,7820079.4421771355,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-24,Customer Payment - Davis PLC,,194688.45613131855,8014767.898308454,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-26,Vendor Payment - Bennett Group,183032.20132101196,,7831735.696987442,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-27,Customer Payment - Moore-Collins,,333077.632111705,8164813.329099147,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-27,Vendor Payment - Frank-Bradley,25489.957455690357,,8139323.371643457,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-28,Customer Payment - Ware and Sons,,304667.4400453988,8443990.811688855,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-29,Customer Payment - Webster Inc,,180718.19814381748,8624709.009832673,ecopackaging_ltd,EcoPackaging Ltd,2026-01
+2026-01-30,"Customer Payment - Miller, Ramos and Coleman",,147446.22404899905,8772155.233881671,ecopackaging_ltd,EcoPackaging Ltd,2026-01

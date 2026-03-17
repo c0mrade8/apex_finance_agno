@@ -1,0 +1,26 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2025-11-01,Beginning Balance,,,29897355.57338303,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-02,"Vendor Payment - Walter, Edwards and Rios",129689.92253268439,,29767665.650850344,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-03,Vendor Payment - Wilkerson-Day,41878.144159840376,,29725787.506690506,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-05,Customer Payment - Baker and Sons,,146655.51743266443,29872443.02412317,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-05,"Vendor Payment - Hoffman, Baker and Richards",107074.28003053767,,29765368.744092632,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-07,"Customer Payment - Ross, Robinson and Bright",,197027.9107643778,29962396.65485701,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-07,"Vendor Payment - Snyder, Campos and Callahan",179044.95196041127,,29783351.7028966,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-08,Customer Payment - Burton Ltd,,390605.06094293244,30173956.76383953,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-09,Vendor Payment - Carlson-Cruz,142323.84151040026,,30031632.92232913,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-10,"Vendor Payment - Ferrell, Rice and Maddox",56021.352296082565,,29975611.570033047,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-11,Vendor Payment - Frazier Inc,131569.55546585674,,29844042.01456719,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-12,"Customer Payment - Dyer, Potter and Mack",,329061.72198230925,30173103.736549497,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-13,Customer Payment - Rodriguez-Graham,,342096.63568906987,30515200.372238565,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-14,Customer Payment - Smith-Bowen,,209022.87006597978,30724223.242304545,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-15,"Customer Payment - Baker, Mason and White",,480924.26740775944,31205147.509712305,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-16,Customer Payment - Harrell LLC,,420287.98294780677,31625435.492660113,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-16,Payroll,1750000.0,,29875435.492660113,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-17,"Vendor Payment - Romero, Gonzalez and Brooks",149347.12953377535,,29726088.363126338,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-19,Customer Payment - Ryan PLC,,164166.71338046546,29890255.076506805,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-20,Customer Payment - George Group,,201945.0709359156,30092200.14744272,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-22,Customer Payment - Rodriguez LLC,,424689.16025081044,30516889.30769353,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-23,Vendor Payment - Allen-Allen,142042.70796988887,,30374846.59972364,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-24,"Vendor Payment - Arroyo, Miller and Tucker",123055.8621348875,,30251790.737588752,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-28,Customer Payment - Spence PLC,,322925.38835455925,30574716.12594331,precisionmfg_inc,PrecisionMfg Inc,2025-11
+2025-11-30,Customer Payment - Anderson Group,,494587.0495496083,31069303.17549292,precisionmfg_inc,PrecisionMfg Inc,2025-11

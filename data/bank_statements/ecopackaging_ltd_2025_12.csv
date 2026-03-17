@@ -1,0 +1,25 @@
+date,description,debit,credit,balance,company_id,company_name,period
+2025-12-01,Beginning Balance,,,10609121.648609716,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-02,Customer Payment - Moon-White,,326462.4246688301,10935584.073278546,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-02,"Vendor Payment - Graham, Olsen and Costa",81927.70153593595,,10853656.37174261,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-05,Vendor Payment - Bailey-Cook,130718.7358113925,,10722937.635931218,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-06,"Vendor Payment - Garcia, Martin and Jenkins",106496.67101256827,,10616440.96491865,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-09,Customer Payment - Roberts-Landry,,216457.80439839486,10832898.769317046,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-10,"Customer Payment - Johnson, Miller and King",,278441.9733579349,11111340.74267498,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-11,Vendor Payment - Cordova Group,198207.32622942203,,10913133.416445559,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-13,"Customer Payment - Bryan, Smith and Booth",,307803.58775753656,11220937.004203096,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-16,Payroll,875000.0,,10345937.004203096,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-17,Vendor Payment - Gutierrez-Lopez,80186.1085215852,,10265750.895681512,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-20,Customer Payment - Dean-Jimenez,,72389.20613613946,10338140.10181765,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-20,Vendor Payment - Wolf-Harris,32126.40361313459,,10306013.698204516,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-21,"Customer Payment - Anderson, Roberts and Gilmore",,347604.17539909657,10653617.873603612,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-23,Vendor Payment - Martinez-Dudley,128237.66751461197,,10525380.206089001,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-25,"Customer Payment - Lloyd, Mckinney and Collins",,76425.32046844914,10601805.526557451,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-26,Vendor Payment - Tran Inc,118461.2018785371,,10483344.324678915,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-27,Customer Payment - Gay Inc,,482020.17852573004,10965364.503204644,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-27,Vendor Payment - Valentine-Holland,22838.401868879184,,10942526.101335764,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-28,Customer Payment - Jimenez Ltd,,242272.3579265087,11184798.459262272,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-28,Vendor Payment - Hicks-Hill,151483.1657815593,,11033315.293480713,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-29,Vendor Payment - Baird-Sanchez,129466.89265776578,,10903848.400822947,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-30,"Customer Payment - Thomas, Lee and Greene",,223954.01226175792,11127802.413084704,ecopackaging_ltd,EcoPackaging Ltd,2025-12
+2025-12-30,"Vendor Payment - Suarez, Shields and Hill",53437.62832366818,,11074364.784761036,ecopackaging_ltd,EcoPackaging Ltd,2025-12
