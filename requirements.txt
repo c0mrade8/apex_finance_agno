@@ -10,3 +10,4 @@ eventlet
 fastapi
 sendgrid
 pandas
+uvicorn

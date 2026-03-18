@@ -1,12 +1,15 @@
 import eventlet
+import os
 eventlet.monkey_patch()
 
 from celery import Celery
 
+REDIS_URL = os.getenv("REDIS_URL", "redis://redis:6379/0")
+
 celery_app = Celery(
     "apex_finance",
-    broker="redis://localhost:6379/0",
-    backend="redis://localhost:6379/0",
+    broker=REDIS_URL,
+    backend=REDIS_URL,
     include=['tasks']
 )
 

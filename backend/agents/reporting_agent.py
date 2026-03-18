@@ -1,7 +1,7 @@
 import uuid
 import datetime
 from core.state_manager import set_agent_status
-from core.email_service import send_email, send_mail
+from core.email_service import send_email
 from models.alert import Alert
 from models.agent_log import AgentLog
 

@@ -4,8 +4,8 @@ services:
     container_name: apex_postgres
     restart: always
     environment:
-      POSTGRES_USER: agent_user
-      POSTGRES_PASSWORD: password
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
       POSTGRES_DB: apex_finance
     ports:
       - "5432:5432"
@@ -18,23 +18,32 @@ services:
 
   backend:
     build:
-      context: . # Look at the root folder
-      dockerfile: backend/Dockerfile # Path to the file inside the folder
+      context: .
+      dockerfile: backend/Dockerfile
+    # Sync working_dir with where you are mounting the volume
+    working_dir: /app
     container_name: apex_backend
+    volumes:
+      - ./backend:/app
+    # Using python -m uvicorn is safer in Docker
+    command: python -m uvicorn main:app --host 0.0.0.0 --port 8000 --reload
     depends_on:
       - postgres
       - redis
     ports:
       - "8000:8000"
     environment:
-      - DATABASE_URL=postgresql://agent_user:password@postgres:5432/apex_finance
+      - DATABASE_URL=${DATABASE_URL}
       - REDIS_URL=redis://redis:6379/0
-      - SENDGRID_API_KEY=your_api_key_here
-      - GROQ_API_KEY=your_groq_api_key_here
+      - SENDGRID_API_KEY=${SENDGRID_API_KEY}
+      - GROQ_API_KEY=${GROQ_API_KEY}
+      - REDIS_HOST=redis
 
   frontend:
-    build: ./frontend
+    build:
+      context: ./frontend
     container_name: apex_frontend
+    command: npm run dev -- --host 0.0.0.0
     ports:
       - "5173:5173"
     depends_on:
@@ -44,25 +53,34 @@ services:
     build:
       context: .
       dockerfile: backend/Dockerfile
+    working_dir: /app
     container_name: apex_worker
-    command: celery -A celery_app.celery worker --loglevel=info -P eventlet --concurrency=1
+    volumes:
+      - ./backend:/app
+    command: python -m celery -A celery_app worker --loglevel=info -P eventlet --concurrency=1
     depends_on:
       - redis
       - postgres
       - backend
     environment:
-      - DATABASE_URL=postgresql://agent_user:password@postgres:5432/apex_finance
+      - DATABASE_URL=${DATABASE_URL}
       - REDIS_URL=redis://redis:6379/0
-      - GROQ_API_KEY=your_groq_api_key_here
+      - GROQ_API_KEY=${GROQ_API_KEY}
+      - SENDGRID_API_KEY=${SENDGRID_API_KEY}
+      - REDIS_HOST=redis
 
   celery_beat:
     build:
       context: .
       dockerfile: backend/Dockerfile
+    working_dir: /app
     container_name: apex_beat
-    command: celery -A celery_app.celery beat --loglevel=info
+    volumes:
+      - ./backend:/app
+    command: python -m celery -A celery_app beat --loglevel=info
     depends_on:
       - redis
       - backend
     environment:
       - REDIS_URL=redis://redis:6379/0
+      - DATABASE_URL=${DATABASE_URL}`
