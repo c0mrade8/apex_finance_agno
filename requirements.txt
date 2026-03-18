@@ -5,3 +5,8 @@ dotenv
 agno
 groq
 redis
+celery
+eventlet
+fastapi
+sendgrid
+pandas

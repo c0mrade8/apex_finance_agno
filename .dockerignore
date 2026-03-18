@@ -1,0 +1,22 @@
+# Python
+
+**/**pycache**
+**/_.pyc
+\*\*/_.pyo \*_/_.pyd
+.venv
+venv
+apex-venv
+
+# JavaScript / Node
+
+**/node_modules
+**/dist
+\*\*/.next
+.env
+
+# Docker & OS
+
+.git
+.gitignore
+.dockerignore
+.DS_Store
