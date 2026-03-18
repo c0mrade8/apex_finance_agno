@@ -9,13 +9,16 @@ def get_logs():
 
     db = SessionLocal()
 
-    logs = db.query(AgentLog).all()
+    try:
+        logs = db.query(AgentLog).all()
 
-    return [
-        {
-            "agent": l.agent_name,
-            "message": l.message,
-            "time": l.timestamp
-        }
-        for l in logs
-    ]
+        return [
+            {
+                "agent": l.agent_name,
+                "message": l.message,
+                "time": l.timestamp
+            }
+            for l in logs
+        ]
+    finally:
+        db.close()

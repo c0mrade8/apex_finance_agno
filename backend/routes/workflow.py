@@ -9,14 +9,18 @@ def get_workflow():
 
     db = SessionLocal()
 
-    states = db.query(WorkflowState).all()
+    try:
 
-    return [
-        {
-            "agent": s.agent_name,
-            "company": s.company_id,
-            "status": s.status,
-            "time": s.timestamp
-        }
-        for s in states
-    ]
+        states = db.query(WorkflowState).all()
+
+        return [
+            {
+                "agent": s.agent_name,
+                "company": s.company_id,
+                "status": s.status,
+                "time": s.timestamp
+            }
+            for s in states
+        ]
+    finally:
+        db.close()

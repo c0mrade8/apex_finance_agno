@@ -2,6 +2,7 @@ import uuid
 import datetime
 from core.state_manager import set_agent_status
 from models.agent_log import AgentLog
+import time
 
 class Orchestrator:
 
@@ -29,50 +30,68 @@ class Orchestrator:
             self.log("Orchestrator", f"Starting month-end close for {period}")
 
             # -----------------------------
-            # 🔵 GROUP 1: PARALLEL (Per Company)
+            # GROUP 1: PARALLEL (Per Company)
             # -----------------------------
             for company in companies:
+
 
                 self.log("Orchestrator", f"Running Group 1 for {company}")
 
                 self.agents["tb"].run_validation(company, period)
+                time.sleep(2)
                 self.agents["variance"].run(company, period)
+                time.sleep(2)
                 self.agents["cash"].run(company, period)
+                time.sleep(2)
 
             # -----------------------------
-            # 🟡 GROUP 2: SEQUENTIAL
+            # GROUP 2: SEQUENTIAL
             # -----------------------------
             for company in companies:
 
-                self.log("Orchestrator", f"Running Group 2 for {company}")
+                try:
 
-                self.agents["accrual"].run(company, period)
-                self.agents["revenue"].run(company, period)
-                self.agents["expense"].run(company, period)
+                    self.log("Orchestrator", f"Running Group 2 for {company}")
+
+                    self.agents["accrual"].run(company, period)
+                    time.sleep(2)
+                    self.agents["revenue"].run(company, period)
+                    time.sleep(2)
+                    self.agents["expense"].run(company, period)
+                    time.sleep(2)
+                    self.db.commit()
+                except Exception as e:
+                    self.db.rollback()
+                    self.log("Orchestrator", f"Error in Group 2 for {company}: {e}")
 
             # -----------------------------
-            # 🟠 GROUP 3: CROSS COMPANY
+            # GROUP 3: CROSS COMPANY
             # -----------------------------
             self.log("Orchestrator", "Running Intercompany Agent")
             self.agents["intercompany"].run(period)
+            time.sleep(3)
 
             # -----------------------------
-            # 🔴 GROUP 4: CONSOLIDATION
+            # GROUP 4: CONSOLIDATION
             # -----------------------------
             self.log("Orchestrator", "Running Consolidation")
             self.agents["consolidation"].run(period)
+            time.sleep(3)
 
-            self.log("Orchestrator", "Running Reporting")
+            self.log("Orchestrator", "Running Reporting & Sending Email Summary")
             self.agents["reporting"].run(period)
 
             # -----------------------------
             set_agent_status("Orchestrator", "GLOBAL", "COMPLETED")
             self.log("Orchestrator", "Month-end close completed successfully")
 
+            self.db.commit()
+
         except Exception as e:
             set_agent_status("Orchestrator", "GLOBAL", "FAILED")
             self.db.rollback()
-            print(f"❌ Orchestrator Error: {e}")
+            print(f"Orchestrator Error: {e}")
+            self.db.commit()
 
     def log(self, agent, message):
 
@@ -83,4 +102,3 @@ class Orchestrator:
             message=message,
             timestamp=datetime.datetime.now()
         ))
-        self.db.commit()

@@ -17,7 +17,7 @@ from agno.models.groq import Groq
 
 db = SessionLocal()
 
-llm = Agent(model=Groq(id="llama-3.3-70b-versatile"))
+llm = Agent(model=Groq(id="llama-3.1-8b-instant"))
 
 agents = {
     "tb": TBValidatorAgent(db, llm),

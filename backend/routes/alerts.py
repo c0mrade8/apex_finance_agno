@@ -9,13 +9,18 @@ def get_alerts():
 
     db = SessionLocal()
 
-    alerts = db.query(Alert).all()
+    try:
 
-    return [
-        {
-            "company": a.company_id,
-            "message": a.message,
-            "severity": a.severity
-        }
-        for a in alerts
-    ]
+        alerts = db.query(Alert).all()
+
+        return [
+            {
+                "company": a.company_id,
+                "message": a.message,
+                "severity": a.severity
+            }
+            for a in alerts
+        ]
+
+    finally:
+        db.close()
