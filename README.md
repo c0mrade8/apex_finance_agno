@@ -140,6 +140,13 @@ Supports:
 
 ## Setup Instructions
 
+## User Input
+- Please find the .env file
+- Add the following data:
+  1. Groq API KEY
+  2. SENDGRID API KEY
+  3. POSTGRES PASSWORD
+
 ### Clone Repository
 
 ```bash
