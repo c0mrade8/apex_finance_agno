@@ -1,6 +1,5 @@
 ﻿apex-venv/
 __pycache__/
-.env
 *.pyc
 .db
 *.py[cod]
