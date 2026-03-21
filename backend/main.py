@@ -18,6 +18,14 @@ app.add_middleware(
     allow_headers=["*"], # Allow all headers
 )
 
+@app.get("/")
+def health_check():
+    return {
+        "status": "healthy", 
+        "message": "Apex Finance AI Platform is running",
+        "version": "1.0.0"
+    }
+
 app.include_router(orchestrator.router)
 app.include_router(alerts.router)
 app.include_router(logs.router)

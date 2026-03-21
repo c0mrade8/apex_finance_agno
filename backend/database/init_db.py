@@ -8,7 +8,7 @@ import models.alert
 import models.intercompany
 import models.accrual
 import models.agent_log
-
+import models.workflow_state
 def init_db():
     Base.metadata.create_all(bind=engine)
 

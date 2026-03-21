@@ -10,7 +10,14 @@ from models.accrual import Accrual
 from models.company import Company
 import json
 
-DATA_DIR = Path("../data")
+CURRENT_FILE_DIR = Path(__file__).resolve().parent
+
+DATA_DIR = CURRENT_FILE_DIR.parent / "data"
+
+print(f"INGESTION DEBUG: Searching for files in: {DATA_DIR}")
+
+if not DATA_DIR.exists():
+    print(f"ERROR: Data directory NOT FOUND at {DATA_DIR}")
 
 
 def load_companies():

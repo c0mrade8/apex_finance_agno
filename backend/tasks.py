@@ -54,7 +54,7 @@ def run_audit_task(period: str):
         orchestrator = Orchestrator(db, agents)
         companies = [
             "techforge_saas", "precisionmfg_inc", "retailco", 
-            "healthservices_plus", "logisticspro"
+            "healthservices_plus", "logisticspro", "industrialsupply_co", "dataanalytics_corp", "ecopackaging_ltd"
         ]
         
         orchestrator.run_month_end(companies, period)

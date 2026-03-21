@@ -1,6 +1,6 @@
-import eventlet
+#import eventlet
 import os
-eventlet.monkey_patch()
+#eventlet.monkey_patch()
 
 from celery import Celery
 

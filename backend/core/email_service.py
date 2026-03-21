@@ -8,7 +8,7 @@ SENDGRID_API_KEY = os.getenv("SENDGRID_API_KEY")
 def send_email(subject, content, to_email="niharikarampathi2704@gmail.com"):
     try:
         message = Mail(
-            from_email="apex-ai@system.com",
+            from_email="rampathiniharika8@gmail.com",
             to_emails=to_email,
             subject=subject,
             html_content=content

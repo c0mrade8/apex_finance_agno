@@ -9,6 +9,11 @@ services:
       POSTGRES_DB: apex_finance
     ports:
       - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d apex_finance"]
+      interval: 5s
+      retries: 5
+      timeout: 5s
 
   redis:
     image: redis:7
@@ -20,24 +25,33 @@ services:
     build:
       context: .
       dockerfile: backend/Dockerfile
-    # Sync working_dir with where you are mounting the volume
     working_dir: /app
-    container_name: apex_backend
     volumes:
       - ./backend:/app
+    # Sync working_dir with where you are mounting the volume
+    container_name: apex_backend
     # Using python -m uvicorn is safer in Docker
-    command: python -m uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+    command: sh -c "python database/init_db.py && python load_data.py && uvicorn main:app --host 0.0.0.0 --port 8000"
     depends_on:
-      - postgres
-      - redis
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
     ports:
       - "8000:8000"
+
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
     environment:
       - DATABASE_URL=${DATABASE_URL}
       - REDIS_URL=redis://redis:6379/0
       - SENDGRID_API_KEY=${SENDGRID_API_KEY}
       - GROQ_API_KEY=${GROQ_API_KEY}
       - REDIS_HOST=redis
+      - PYTHONPATH=/app
 
   frontend:
     build:
@@ -47,40 +61,51 @@ services:
     ports:
       - "5173:5173"
     depends_on:
-      - backend
+      backend:
+        condition: service_started
 
   celery_worker:
     build:
       context: .
       dockerfile: backend/Dockerfile
     working_dir: /app
-    container_name: apex_worker
     volumes:
       - ./backend:/app
-    command: python -m celery -A celery_app worker --loglevel=info -P eventlet --concurrency=1
+    container_name: apex_worker
+    command: celery -A celery_app worker --loglevel=info -l info -P eventlet
     depends_on:
-      - redis
-      - postgres
-      - backend
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+      backend:
+        condition: service_started
+
     environment:
       - DATABASE_URL=${DATABASE_URL}
       - REDIS_URL=redis://redis:6379/0
       - GROQ_API_KEY=${GROQ_API_KEY}
       - SENDGRID_API_KEY=${SENDGRID_API_KEY}
       - REDIS_HOST=redis
+      - PYTHONPATH=/app
 
   celery_beat:
     build:
       context: .
       dockerfile: backend/Dockerfile
     working_dir: /app
-    container_name: apex_beat
     volumes:
       - ./backend:/app
-    command: python -m celery -A celery_app beat --loglevel=info
+    container_name: apex_beat
+    command: celery -A celery_app beat --loglevel=info
     depends_on:
-      - redis
-      - backend
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+      backend:
+        condition: service_started
     environment:
       - REDIS_URL=redis://redis:6379/0
       - DATABASE_URL=${DATABASE_URL}`
+      - PYTHONPATH=/app
