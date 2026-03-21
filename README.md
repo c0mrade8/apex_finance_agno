@@ -140,19 +140,19 @@ Supports:
 
 ## Setup Instructions
 
-## User Input
-- Please find the .env file
-- Add the following data:
-  1. Groq API KEY
-  2. SENDGRID API KEY
-  3. POSTGRES PASSWORD
-
 ### Clone Repository
 
 ```bash
 git clone <your-repo-url>
 cd apex_agno
 ```
+### User Input
+- Please find the .env file
+- Add the following data:
+  1. Groq API KEY
+  2. SENDGRID API KEY
+  3. POSTGRES PASSWORD
+  
 ### Run with Docker
 ```bash
 docker-compose up --build
