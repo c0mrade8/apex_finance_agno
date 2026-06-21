@@ -26,15 +26,15 @@ The system follows a distributed, event-driven architecture with asynchronous ta
 ### High-Level Flow
 
 Frontend (React + Vite)  
-↓  
+          ↓  
 FastAPI Backend (API Layer)  
-↓  
+          ↓  
 Celery Task Queue (Redis Broker)  
-↓  
+          ↓  
 Orchestrator (Workflow Engine)  
-↓  
+          ↓  
 Specialized Agents  
-↓  
+          ↓  
 PostgreSQL (Data Storage) + Redis (State Management)
 
 ### Components
@@ -165,13 +165,14 @@ This starts:
 - Celery beat scheduler
 - Frontend
 
-##Acess Services
+## Acess Services
 
 | Service | URL |
 | :--- | :--- |
 | **Backend** | [http://localhost:8000](http://localhost:8000) |
 | **Backend API** | [http://localhost:8000](http://localhost:8000) |
 | **Swagger Docs** | [http://localhost:8000/docs](http://localhost:8000/docs) |
+| **Frontend Dashboard** | [http://localhost:5173](http://localhost:5173) |
 
 ### Manual Set-up
 -Backend
